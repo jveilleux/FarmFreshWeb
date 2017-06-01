@@ -1,10 +1,10 @@
 # [**User Guide**](https://openfoodnetwork.org/user-guide/)
 
-This short video will give you a brief introduction to how the Open Food Network works, and what it can do for your food business.
+This short video will give you a brief introduction to how FarmFreshWeb.Com works, and what it can do for your business.
 
 ### Set up guides for producers and hubs:
 
-Learn how to get your business set-up on the OFN! These set-up guides will walk you through the steps involved in setting up a profile or online shop on your local OFN platform.
+Learn how to get your business set-up on FarmFreshWeb.com! These set-up guides will walk you through the steps involved in setting up a profile or online shop on the FarmFreshWeb.com platform.
 
 [HUBS SET-UP GUIDE](/hubs-set-up-guide.md)
 
@@ -12,7 +12,7 @@ Learn how to get your business set-up on the OFN! These set-up guides will walk 
 
 ### Advanced features:
 
-Already set-up? Check out some of the OFN’s more advanced features and learn how to make your OFN account work for you.
+Already set-up? Check out some of FramFreshWeb.com’s more advanced features and learn how to make your FarmFreshWeb.com account work for you.
 
 [ADVANCED FEATURES](/advanced-features.md)
 
