@@ -94,11 +94,9 @@ Yes you can. When you set your shop to private, only customers on your customer 
 
 #### Can I control the order that products are displayed in my shopfront?
 
-Yes, you can select the order that each category of food is displayed in your shop, then within each category the products are displayed alphabetically. For instance, if Meat and Fish are your most important products, you can select to have them show up first, with your secondary Oil and Spreads products below. You can do this in  your profile settings, under‘shopfront category ordering’.
+Yes, you can select the order that each category of food is displayed in your shop, then within each category the products are displayed alphabetically. For instance, if Meat and Fish are your most important products, you can select to have them show up first, with your secondary Oil and Spreads products below. You can do this in  your profile settings, under ‘shopfront category ordering’.
 
 #### How can I tell customers about how my shop works? Including my delivery restrictions etc.
 
 There is the option of adding a ‘shopfront message’ to your shop. This message is clearly visible to customers when they visit your shop and you can add as much or as little detail here as you like. Instructions for inserting a ‘shopfront message’ can be found here.
-
-
 
