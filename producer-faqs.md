@@ -1,49 +1,47 @@
 # Producer FAQs
 
-#### What is the difference between a profile and a shopfront on the OFN?
+#### What is the difference between a profile and a shopfront on the FFW?
 
-The OFN functions as a directory, advertising platform, and an online marketplace. People can choose which functionalities of the OFN they want to use, according to their needs.
+The FFW functions as a directory, advertising platform, and an online marketplace. People can choose which functionalities of the FFW they want to use, according to their needs.
 
 1. A Profile.
 
-A profile on the OFN is the simplest option, and offers a way for producers to market themselves. The profile can be used to promote your products and services, share your story and provide contact details. A profile makes you visible and contactable to customers and other enterprises who might wish to trade with you. Producers with a profile can also add products, which hub enterprises can then stock in their stores.
+A profile on the FFW is the simplest option, and offers a way for producers to market themselves. The profile can be used to promote your products and services, share your story and provide contact details. A profile makes you visible and contactable to customers and other enterprises who might wish to trade with you. Producers with a profile can also add products, which hub enterprises can then stock in their stores.
 
 1. A Shopfront
 
-An OFN shop, is like a profile, but it also includes all the functions needed for producers to sell directly to customers online. This includes the online shopfront with full checkout capabilities as well as behind the scenes tools to aid in administration, such as reporting of payments and inventory. The OFN is a network, so it allows shops to be connected with other shops. This way a producer can be stocking their products in their own independent store, as well as through a number of hub shops.
+An FFW shop, is like a profile, but it also includes all the functions needed for producers to sell directly to customers online. This includes the online shopfront with full checkout capabilities as well as behind the scenes tools to aid in administration, such as reporting of payments and inventory. The FFW is a network, so it allows shops to be connected with other shops. This way a producer can be stocking their products in their own independent store, as well as through a number of hub shops.
 
-#### How can farmers make use of the OFN?
+#### How can farmers make use of the FFW?
 
-The OFN can help farmers access a greater diversity of markets. This can be through direct sales, or through intermediary hubs or retailers, who perform the sales and logistics functions. The OFN enables transparency in the supply chain. Because all food traded on the OFN must be linked to the farmer who produced it, customers can see where their food originated from and how it was produced. In OFN shopfronts, the pricing is also transparent, so customers can see what cut of the sale price went to the producer. Our ultimate goal is fair price to farmers and affordable, good food for eaters.
+The FFW can help farmers access a greater diversity of markets. This can be through direct sales, or through intermediary hubs or retailers, who perform the sales and logistics functions. The FFW enables transparency in the supply chain. Because all food traded on the FFW must be linked to the farmer who produced it, customers can see where their food originated from and how it was produced. In FFW shopfronts, the pricing is also transparent, so customers can see what cut of the sale price went to the producer. Our ultimate goal is fair price to farmers and affordable, good food for eaters.
 
-#### What's the difference between the OFN and other online store / ecommerce options?
+#### What's the difference between the FFW and other online store / ecommerce options?
 
-We think the OFN is pretty great, and unique to other options out there!
+We think the FFW is pretty great, and unique to other options out there!
 
 * **Networked-**
-  The OFN differs from private online shops in that they can be networked with other enterprises. Producers have the option of selling through their own, independently run store, but they can also choose to sell through another enterprise. Food hubs stock the produce of multiple producers and offer them more exposure and greater market access than they can achieve on their own.
+  The FFW differs from private online shops in that they can be networked with other enterprises. Producers have the option of selling through their own, independently run store, but they can also choose to sell through another enterprise. Food hubs stock the produce of multiple producers and offer them more exposure and greater market access than they can achieve on their own.
 * **Exposure-**
-  The OFN has a directory functionality, so customers landing on our homepage may be driven to your store if your offerings match their search terms, or if you’re located close by to them. The OFN is a centralised place for people looking to access great, local produce, giving participating producers exposure to a wider customer base.
+  The FFW has a directory functionality, so customers landing on our homepage may be driven to your store if your offerings match their search terms, or if you’re located close by to them. The FFW is a centralized place for people looking to access great, local produce, giving participating producers exposure to a wider customer base.
 * **Food enterprise specific-**
-  The OFN’s shopfront capabilities are also designed especially for food enterprises, so it saves you from having to develop your own software from scratch \(which can be a lengthy and costly process, trust us!\).
+  The FFW’s shopfront capabilities are also designed especially for food enterprises, so it saves you from having to develop your own software from scratch \(which can be a lengthy and costly process, trust us!\).
 * **Flexible-**
-  The OFN is flexible in accommodating all kinds of shipping/collection and payment methods. Some online store offerings for producers are restricted in the kinds of shipping and payment methods that can be accepted \(for example, limited strictly to postage\).
+  The FFW is flexible in accommodating all kinds of shipping/collection and payment methods. Some online store offerings for producers are restricted in the kinds of shipping and payment methods that can be accepted \(for example, limited strictly to postage\).
 * **Room to grow-**
   Producers can start with a profile, and easily build up to start selling to others, opening their own online store and becoming a supplier to multiple enterprises. Once you have a profile, you can easily open your own store, and link with other stores, something that most software options cannot offer.
-* **We have soul**
-  – The OFN is a social enterprise, which is owned by all of us. It’s non-profit and continuously working to facilitate improvements to our food system. All revenues are reinvested back into the software, so it can be more useful to more people. So you can feel great about being part of the OFN!
 
-#### I'm a producer and I would like to start selling directly to customers. How can I use the OFN?
+#### I'm a producer and I would like to start selling directly to customers. How can I use the FFW?
 
-Producers can create a professional and affordable online shop on the OFN, and begin trading direct with customers. An online store is simple to set up, taking just a few hours \(check out theset-up guidefeature list\). As well as the shopfront, an online shop also comes with handy tools which streamline the administration side of operating an online store. Click here for a full.
+Producers can create a professional and affordable online shop on the FFW, and begin trading direct with customers. An online store is simple to set up, taking just a few hours \(check out the set-up guide feature list\). As well as the shopfront, an online shop also comes with handy tools which streamline the administration side of operating an online store.
 
-#### I'm thinking of setting up an online store to sell my products which I usually sell through farmers markets, would the OFN be suitable?
+#### I'm thinking of setting up an online store to sell my products which I usually sell through farmers markets, would the FFW be suitable?
 
-An OFN online store is a good addition for producers who are already doing direct sales through farmer’s markets. The online store enables customers to order in advance, for a quick pick up at the market, and to access your products outside of market times. Some producers also find that the online store is preferable for hospitality customers who cannot attend markets.
+A FFW online store is a good addition for producers who are already doing direct sales through farmer’s markets. The online store enables customers to order in advance, for a quick pick up at the market, and to access your products outside of market times. Some producers also find that the online store is preferable for hospitality customers who cannot attend markets.
 
 #### I'm a producer and I want to sell my products through a hub, how can I go about this?
 
-The OFN aims to facilitate producers and hubs working together and forming networks of food movement and trade. We encourage producers to search for hubs in their area \(on the OFN map\) who could be compatible trading partners \(check out their profiles\). However, the OFN doesn’t play an active role in partnering producers and hubs.
+The FFW aims to facilitate producers and hubs working together and forming networks of food movement and trade. We encourage producers to search for hubs in their area \(on the OFN map\) who could be compatible trading partners \(check out their profiles\). However, the OFN doesn’t play an active role in partnering producers and hubs.
 
 To supply a hub, the producer must have a profile on the OFN and add their products to that profile. They must also make contact with the hub they wish to supply to discuss the agreement. If the hub is willing to stock the products, you can grant the hub permission to stock your products in the OFN E2E permissions. The hub can then add your products to their OFN shop front and start selling them!
 
