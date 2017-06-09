@@ -28,7 +28,7 @@ Browse these FAQs to find answers to some commonly asked questions from customer
 
 ### Case studies:
 
-Take a look at these case studies to hear about how different food enterprises are utilising the OFN as part of their operations.
+Take a look at these case studies to hear about how different food enterprises are utilizing the FFW as part of their operations.
 
 [CASE STUDIES](/case-studies.md)
 
