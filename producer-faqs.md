@@ -41,49 +41,43 @@ A FFW online store is a good addition for producers who are already doing direct
 
 #### I'm a producer and I want to sell my products through a hub, how can I go about this?
 
-The FFW aims to facilitate producers and hubs working together and forming networks of food movement and trade. We encourage producers to search for hubs in their area \(on the OFN map\) who could be compatible trading partners \(check out their profiles\). However, the OFN doesn’t play an active role in partnering producers and hubs.
+The FFW aims to facilitate producers and hubs working together and forming networks of food movement and trade. We encourage producers to search for hubs in their area \(on the FFW map\) who could be compatible trading partners \(check out their profiles\).
 
-To supply a hub, the producer must have a profile on the OFN and add their products to that profile. They must also make contact with the hub they wish to supply to discuss the agreement. If the hub is willing to stock the products, you can grant the hub permission to stock your products in the OFN E2E permissions. The hub can then add your products to their OFN shop front and start selling them!
+To supply a hub, the producer must have a profile on the FFW and add their products to that profile. They must also make contact with the hub they wish to supply to discuss the agreement. If the hub is willing to stock the products, you can grant the hub permission to stock your products in the FFW E2E permissions. The hub can then add your products to their FFW shop front and start selling them!
 
-#### I'm already selling my products directly to customers via an online shop, how can I get involved with the OFN?
+#### I'm already selling my products directly to customers via an online shop, how can I get involved with the FFW?
 
-You can create a profile on the OFN which links to your existing store. This will raise the visibility of your farm and allows you to connect with the audience on the OFN.
+You can create a profile on the FFW which links to your existing store. This will raise the visibility of your farm and allows you to connect with the audience on the FFW.
 
-Check out our feature list page, which describes the full functionalities of an OFN shopfront. Our functions and pricing are competitive, so perhaps you’d consider switching to an OFN store, and being part of the OFN movement.
+Check out our feature list page, which describes the full functionalities of an FFW shopfront. Our functions and pricing are competitive, so perhaps you’d consider switching to an FFW store, and being part of the FFW movement.
 
-#### We have infrequent and unpredictable surplus stock which we'd like to sell, how could we do this through the OFN?
+#### We have infrequent and unpredictable surplus stock which we'd like to sell, how could we do this through the FFW?
 
-Producers with an OFN profile can add products, which hubs can then sell through their OFN shopfronts. If you have irregular surplus stock, you can talk to hubs to arrange for them to stock your produce when you have it on hand.
+Producers with an FFW profile can add products, which hubs can then sell through their FFW shopfronts. If you have irregular surplus stock, you can talk to hubs to arrange for them to stock your produce when you have it on hand.
 
-#### We deliver weekly vegie boxes to customers and our orders are currently placed by email. Would the OFN be suitable for us?
+#### We deliver weekly vegie boxes to customers and our orders are currently placed by email. Would the FFW be suitable for us?
 
-Yes! With an online store, customers can place their order for your veggie box online. This makes it easier for the customer, and also for you. The reporting functionality of the OFN makes the administration tasks of running a store straightforward, by helping you to track orders, payment and inventory. You can easily view reports summarising the total orders, individual orders and the payment status of each order.
+Yes! With an online store, customers can place their order for your veggie box online. This makes it easier for the customer, and also for you. The reporting functionality of the FFW makes the administration tasks of running a store straightforward, by helping you to track orders, payment and inventory. You can easily view reports summarizing the total orders, individual orders and the payment status of each order.
 
-#### Our farmer's market is considering setting up an online platform , to allow our customers to shop from our producers outside of market day. How could we use the OFN to do this?
+#### Our farmer's market is considering setting up an online platform to allow our customers to shop from our producers outside of market day. How could we use the FFW to do this?
 
 There are a number of potential paths you could take:
 
-1. Each farmer within the farmers market can establish their own profile and online shop on the OFN. The farmers market’s website could then promote links to these independently run shops.
-2. The farmer’s markets could create a
-   **group page**
-   on the OFN. This is an umbrella profile, which can house the profiles and stores of member producers. With a unique URL and landing page, this group site allows for collective marketing and promotions.
+1. Each farmer within the farmers market can establish their own profile and online shop on the FFW. The farmers market’s website could then promote links to these independently run shops.
+2. The farmer’s markets could create a **group page **on the FFW. This is an umbrella profile, which can house the profiles and stores of member producers. With a unique URL and landing page, this group site allows for collective marketing and promotions.
 3. Farmer’s market groups who are willing to cooperate and work together can establish a hub. This hub has a single shopfront offering the entire product range of participating producers. Finding a way to coordinate the logistics of incoming and outgoing products can require some creative thinking, but using the farmer’s market days as a chance to aggregate and pack orders is one simple option.
 
-#### How is payment received in an OFN online shop?
+#### How is payment received in an FFW online shop?
 
-An online store allows producers to sell their produce to customers and collect payment via a number of options. The OFN doesn’t dictate a payment method, and you can use any arrangement that works for you. Current payment options which are integrated into the checkout process include Paypal, Pin Payments and EFTPOS \(through a payment gateway\). Enterprises can also use manual methods including invoicing, cash on collection and direct deposit.
+An online store allows producers to sell their produce to customers and collect payment via a number of options. The OFN doesn’t dictate a payment method, and you can use any arrangement that works for you. Enterprises can also use manual methods including invoicing, cash on collection and direct deposit.
 
-#### Does the OFN provide stores with data about their sales and orders?
+#### Does the FFW provide stores with data about their sales and orders?
 
-Yes, OFN store operators will receive an email each time an order is placed. Additionally, a number of different reports regarding sales are downloadable from your store. This includes reports on unique orders, reports summarising a collection of orders, reports on inventory levels and  customer relationship management reports. Check out our set-up guide for more info onreports.
-
-#### There's no OFN in out country yet, are we able to get involved with the OFN?
-
-The OFN is operational in Australia and the UK. We have partner organisations getting local OFN’s set-up in Norway, South Africa, Germany, France, Canada, India and Brazil. We’re always looking for likeminded and capable international partner organisations to help spread the OFN to more users around the world. If you’re a producer, talk to your local food movement about the OFN to see if it could be a solution for producers in your region.
+Yes, FFW store operators will receive an email each time an order is placed. Additionally, a number of different reports regarding sales are downloadable from your store. This includes reports on unique orders, reports summarizing a collection of orders, reports on inventory levels and  customer relationship management reports. Check out our set-up guide for more info on reports.
 
 #### Can I control the order that products are displayed in my shopfront?
 
-Yes, you can select the order that each category of food is displayed in your shop, then within each category the products are displayed alphabetically. For instance, if Meat and Fish are your most important products, you can select to have them show up first, with your secondary Oil and Spreads products below. You can do this in  your profile settings, under‘shopfront category ordering’.
+Yes, you can select the order that each category of food is displayed in your shop, then within each category the products are displayed alphabetically. For instance, if Meat and Fish are your most important products, you can select to have them show up first, with your secondary Oil and Spreads products below. You can do this in  your profile settings, under ‘shopfront category ordering’.
 
 #### Why can't I see all of my products in my shopfront?
 
@@ -91,23 +85,19 @@ Here’s a few things to check:
 
 * Has the product been added to the order cycle? Open the order cycle and double check that all tick boxes next to your products have been selected.
 * Is there enough ‘on hand’ inventory? If the ‘on hand’ inventory value is zero for a product, then it will no longer appear in your store. If you have products which are always ‘on hand’, you can check the ‘on demand’ box corresponding to that product- then it will never be out of stock.
-* Is the product on your
-  Inventory Hidden
-  list?
+* Is the product on your Inventory Hidden list?
 
 #### I only want my existing customers to see and be able to shop in my shop, can I make my shop 'member only'?
 
-Yes, you can restrict access to your shop to approved customers only. Checkout instructionshere.
+Yes, you can restrict access to your shop to approved customers only.
 
 #### Why doesn't my profile show up when I filter for producers of meat on the producer listing page?
 
-The filter tool on theproducer listing pagehere, allows customers to search for producers of certain product categories \(ie Fruit, or Meat\). The filter tool works by looking at the products that are assigned to each producer’s profile. If a producer has an online shop, their products will already be in the system. But if you only have a profile, this filter tool won’t capture you, until you add some dummy products. Instructions for doing this can be found. Once you have dummy products set up for the product categories that you produce, you’ll be captured by this filter tool.
+The filter tool on the producer listing page allows customers to search for producers of certain product categories \(ie Fruit, or Meat\). The filter tool works by looking at the products that are assigned to each producer’s profile. If a producer has an online shop, their products will already be in the system. But if you only have a profile, this filter tool won’t capture you, until you add some dummy products. Once you have dummy products set up for the product categories that you produce, you’ll be captured by this filter tool.
 
 #### How can I tell my customers about how my shop works? Including my delivery terms and conditions etc?
 
-There is the option of adding a ‘shopfront message’ to your shop. This message is clearly visible to customers when they visit your shop and you can add as much or as little detail here as you like. Instructions for inserting a ‘shopfront message’ can be found here.
+There is the option of adding a ‘shopfront message’ to your shop. This message is clearly visible to customers when they visit your shop and you can add as much or as little detail here as you like. 
 
-#### Can I set a minimum spend amount in my shopfront?
 
-OFN doesn’t currently have the option of blocking checkout until a customer’s order reaches a defined threshold. An alternative option is to add a shipping fee with the ‘price sac’ fee calculator. This calculator will apply one fee value if the total is below a given level, and another fee value \(possibly $0\) if the order is over that level.See here.
 
