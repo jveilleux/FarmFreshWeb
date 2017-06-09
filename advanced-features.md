@@ -1,10 +1,10 @@
 # Advanced Features
 
-The [producer](/producer-set-up-guide.md) and [hub](/hubs-set-up-guide.md) set-up guides will walk you through the Open Food Network’s basic features for enterprise users. Once you have familiarised yourself with these basic functionalities you can explore some of the more advanced features here.
+The [producer](/producer-set-up-guide.md) and [hub](/hubs-set-up-guide.md) set-up guides will walk you through the Farm Fresh Web’s basic features for enterprise users. Once you have familiarized yourself with these basic functionalities you can explore some of the more advanced features here.
 
 ### Your Profile
 
-* Make producer profiles searchable by product category in the OFN directories.
+* Make producer profiles searchable by product category in the FFW directories.
   [Read more](/making-a-producer-profile-searchable-by-product-category.md)
 * Transferring ownership of a profile from one user to another.
   [Read more](/transferring-ownership-of-a-profile.md)
@@ -13,7 +13,7 @@ The [producer](/producer-set-up-guide.md) and [hub](/hubs-set-up-guide.md) set-u
 
 * Create ‘product variants’ to make your shopfront less cluttered and easier to navigate.
   [Read more ](/product-variants.md)
-* Strategies for pricing irregular, indivisible items which are charged by the kg, such as meat.
+* Strategies for pricing irregular, indivisible items which are charged by the lb, such as meat.
   [Read more](/pricing-irregular-indivisible-meat-items.md)
 * Apply ‘product properties’ to your products so customers can see which items are organic, spray free, free range etc.
   [Read more](/product-properties.md)
@@ -28,7 +28,7 @@ The [producer](/producer-set-up-guide.md) and [hub](/hubs-set-up-guide.md) set-u
   [Read more](/charging-different-prices-to-different-customers.md)
 * Make your shopfront private.
   [Read more](/private-shopfront.md)
-* Apply ‘tags’ to your customers and customise their shopping experience with tag rules. Includes restricting availability of shipping and payment methods, products and order cycles.
+* Apply ‘tags’ to your customers and customize their shopping experience with tag rules. Includes restricting availability of shipping and payment methods, products and order cycles.
   [Read more](/customer-accounts-and-tagging.md)
 
 ### Collaborating with other enterprises
@@ -51,7 +51,7 @@ The [producer](/producer-set-up-guide.md) and [hub](/hubs-set-up-guide.md) set-u
 
 ### Groups
 
-* Create and manage a group page, which acts as a sub directory within the OFN for regional producer groups, certification bodies, markets etc.
+* Create and manage a group page, which acts as a sub directory within the FFW for regional producer groups, certification bodies, markets etc.
   [Read more](/group-pages.md)
 
 ### Social
