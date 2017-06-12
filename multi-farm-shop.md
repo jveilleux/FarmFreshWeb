@@ -1,6 +1,6 @@
-# Multi-Farm Shop – OFN Setup Process
+# Multi-Farm Shop – FFW Setup Process
 
-[Multi-farm shops](/multi-farm-shop.md) have a shopfront stocking products from multiple producers. Multi-farm shops will usually be administered by a central producer who may have operated a [Farm Direct shop](/farm-shop-on-farm-on-roadside-online.md) on the OFN previously, and then decided to expand their offering by linking up with other producers. They can do this by adding producer profiles for the additional producers and then adding their products into their shopfront.  The level of involvement that the other supplying producers have can vary from simply supplying produce, to taking a more active role in administering the shopfront by maintaining their products and profile.
+[Multi-farm shops](/multi-farm-shop.md) have a shopfront stocking products from multiple producers. Multi-farm shops will usually be administered by a central producer who may have operated a [Farm Direct shop](/farm-shop-on-farm-on-roadside-online.md) on the FFW previously, and then decided to expand their offering by linking up with other producers. They can do this by adding producer profiles for the additional producers and then adding their products into their shopfront.  The level of involvement that the other supplying producers have can vary from simply supplying produce, to taking a more active role in administering the shopfront by maintaining their products and profile.
 
 ## The nitty gritties…
 
@@ -21,7 +21,7 @@ Once you have completed your basic setup, check out the advanced features below 
 * Multiple managers – A Multi-farm shop might wish to have multiple managers who are able to login and edit the shop. This can be done by adding managers to the central producer’s profile.
 * [Pricing irregular, indivisible meat items](/pricing-irregular-indivisible-meat-items.md).
   This page offers some strategies for pricing items like chickens or pumpkins, which are charged by the kg but which have an irregular weight.
-* [Apply tags](/customer-accounts-and-tagging.md) to your customers and customise their shopping experience with tag rules. This can make it possible to restrict certain products and certain shipping or payment methods to particular customers, which becomes especially helpful if you have retail and wholesale customers.
+* [Apply tags](/customer-accounts-and-tagging.md) to your customers and customize their shopping experience with tag rules. This can make it possible to restrict certain products and certain shipping or payment methods to particular customers, which becomes especially helpful if you have retail and wholesale customers.
 * [Make your shopfront private](/private-shopfront.md)
   . If you prefer to check the suitability of customers before they can order through your shop, you can make your shopfront require login.
 * [Charge different prices to different customers](/charging-different-prices-to-different-customers.md)
@@ -35,7 +35,7 @@ Once you have completed your basic setup, check out the advanced features below 
 * Granting discounts to certain customers such as members or volunteers \(COMING SOON\).
 * Creating standing, recurring orders \(COMING SOON\)
 
-##### [Ask us](mailto:hello@openfoodnetwork.org) about embedding your Multi-Farm shopfront into a website.
+
 
 
 
