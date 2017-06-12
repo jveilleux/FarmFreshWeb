@@ -4,6 +4,8 @@ When you first create your profile, you’ll be prompted to select the ‘type�
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Two-hub-types.png "Two hub type options")
 
+
+
 _\* Note: The above relates to Australian users only. Local instances may vary._
 
 1. **Profile Only:**

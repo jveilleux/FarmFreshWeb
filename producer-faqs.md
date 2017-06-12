@@ -69,7 +69,7 @@ There are a number of potential paths you could take:
 
 #### How is payment received in an FFW online shop?
 
-An online store allows producers to sell their produce to customers and collect payment via a number of options. The OFN doesn’t dictate a payment method, and you can use any arrangement that works for you. Enterprises can also use manual methods including invoicing, cash on collection and direct deposit.
+An online store allows producers to sell their produce to customers and collect payment via a number of options. The FFW doesn’t dictate a payment method, and you can use any arrangement that works for you. Enterprises can also use manual methods including invoicing, cash on collection and direct deposit.
 
 #### Does the FFW provide stores with data about their sales and orders?
 
@@ -97,7 +97,5 @@ The filter tool on the producer listing page allows customers to search for prod
 
 #### How can I tell my customers about how my shop works? Including my delivery terms and conditions etc?
 
-There is the option of adding a ‘shopfront message’ to your shop. This message is clearly visible to customers when they visit your shop and you can add as much or as little detail here as you like. 
-
-
+There is the option of adding a ‘shopfront message’ to your shop. This message is clearly visible to customers when they visit your shop and you can add as much or as little detail here as you like.
 
