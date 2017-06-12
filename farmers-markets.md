@@ -52,7 +52,7 @@ As above, the farmers market has their interactive group page, with full profile
 
 ### Group page with profiles, producer shops and a farmers’ market hub shop
 
-TheFFW’s high degree of flexibility makes it possible for collectives of enterprise to easily setup, trial and operate a great variety of collaborative sales arrangements. Two configurations, are covered below, however if you have questions regarding any other models don’t hesitate to get in touch.
+The FFW’s high degree of flexibility makes it possible for collectives of enterprise to easily setup, trial and operate a great variety of collaborative sales arrangements. Two configurations, are covered below, however if you have questions regarding any other models don’t hesitate to get in touch.
 
 **Collective online shop, without central coordination by a farmer’s market**
 
@@ -63,6 +63,4 @@ A group of stallholders will open a shopfront which stocks products from multipl
 A representative of the farmers’ market may take responsibility for coordinating an online shop, which sells items from multiple stallholders. Each week they’ll be tasked with checking availability of stock, opening the shop, packing the orders on market day and arranging delivery. This model is often pitched at customers who cannot attend the market, such as local workplaces or cafes and restaurants. This model may require some market facilities such as a cool room. The coordinator will also take responsibility for managing payments from customers and for paying the stallholders their share. Enterprise fees can be used to allocate a certain mark-up to the coordinator for their services.
 
 FFW allows for piloting of different models easily and quickly, talk to us if you have another idea.
-
-
 
