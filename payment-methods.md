@@ -14,7 +14,7 @@ Click on the **create new payment method **button.
 
 Then, the first step in setting up a Payment Method is to tick your enterprise, in the box on the right hand side of the page titled Hubs.  This indicates that the payment method you are about to create will apply to your enterprise.
 
-**Name:** Choose a name for this payment method. \(i.e. Paypal, Cash on delivery, Bank Transfer, EFTPOS, etc\). It will be displayed at check out and on order confirmation emails.
+**Name:** Choose a name for this payment method. \(i.e. PayPal, Cash on delivery, Bank Transfer, EFTPOS, etc\). It will be displayed at check out and on order confirmation emails.
 
 **Description:** Here you can provide further details of the payment method. For instance, for a bank transfer, you would need to provide details of the bank account and request that customers provide you with the receipt number following payment. This description will be displayed at checkout and in order confirmation emails. An example of a description message displayed at checkout is shown below. The customer has selected ‘cash on collection/delivery’ and the ‘correct change…’ note is displayed.
 
