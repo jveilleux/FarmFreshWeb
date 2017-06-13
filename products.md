@@ -6,7 +6,7 @@ The following instructions for managing products are broken down according to wh
 
 ### 1\) I created a profile for my supplying producer
 
-If in the previous step you created a profile for your supplier \(because they were not on the OFN\), you’ll need to also add their products to that profile, before you can stock them in your store. Instructions for doing this are below, under ‘Adding products’.
+If in the previous step you created a profile for your supplier \(because they were not on the FFW\), you’ll need to also add their products to that profile, before you can stock them in your store. Instructions for doing this are below, under ‘Adding products’.
 
 ### 2\) I connected with a pre-existing supplying producer profile.
 
@@ -28,11 +28,11 @@ This will take you to the New Product page.
 
 **Product name: **This is the title of the product which will be displayed in the store.
 
-**Units: **What units is the product sold in? \(g, kg, L… or itme \(bunch, bag, packet\)\)
+**Units: **What units is the product sold in? \(g, lb, gal… or item \(bunch, bag, packet\)\)
 
-**Value:** What value of the above units is the product sold in? \( ie 100g, 2L, 1 bunch\)
+**Value:** What value of the above units is the product sold in? \( ie 100 ounces, 2 gal, 1 bunch\)
 
-**Display As:** This field automatically shows you how the units and value fields will display, once you have filled the units and value fields. \(i.e. units = kg, value = 2, Display as = 2kg\)
+**Display As:** This field automatically shows you how the units and value fields will display, once you have filled the units and value fields. \(i.e. units = lb, value = 2, Display as = 2lb\)
 
 If you have selected ‘**items**’ as your unit, the **display as** field will change to ‘**item name’**. Fill this in with the type of item it is. \(i.e. jar, bottle, or bunch\)
 
@@ -48,11 +48,11 @@ If you have selected ‘**items**’ as your unit, the **display as** field will
 
 **Photo:** Upload a photo of this product. We strongly recommend that enterprises take clear, accurate images of their products.
 
-**Tax category: **If you would like the price of this product to include GST, select**GST**from the drop-down menu. The producer enterprise must be set to charge GST in the profile settings to do this. If you leave this field blank, or select **none**, or not set the enterprise as being GST registered, the price will not include GST.
+**Tax category: **If you would like the price of this product to include Tax, select **Tax **from the drop-down menu. The producer enterprise must be set to charge Tax in the profile settings to do this. If you leave this field blank, or select **none**, or not set the enterprise as being Tax registered, the price will not include Tax.
 
 Some examples of how to list different types of products, and how these listing will present in your online store are provided below.
 
-Note: For products usually sold by the kg, it’s best to list the product for sale in increments, of 100g or higher, depending on the product. This makes it easier to list and prepare the order.
+Note: For products usually sold by the lb, it’s best to list the product for sale in increments, of 100 ounce or higher, depending on the product. This makes it easier to list and prepare the order.
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Green-Beans1.png "Green Beans example")
 
@@ -62,7 +62,7 @@ Note: For products usually sold by the kg, it’s best to list the product for s
 
 ### Product variants
 
-Note: If you are listing two products which are very similar, but only vary on price, or size, or flavour, it is best to create a ‘variant’ for that product, rather than creating multiple, separate products. For example, if you sell lemons for 60c each, or 5 for $2.50, you can create two variants for your ‘lemons’ product, one for each price/quantity combination. Or you might sell two flavours of lamb sausages, rosemary, or chili. Each flavour should be a ‘variant’ of the general product. Creating product variants is discussed in greater depth [here](/product-variants.md).
+Note: If you are listing two products which are very similar, but only vary on price, or size, or flavor, it is best to create a ‘variant’ for that product, rather than creating multiple, separate products. For example, if you sell lemons for 60 cents each, or 5 for $2.50, you can create two variants for your ‘lemons’ product, one for each price/quantity combination. Or you might sell two flavors of lamb sausages, rosemary, or chili. Each flavor should be a ‘variant’ of the general product. Creating product variants is discussed in greater depth [here](/product-variants.md).
 
 Once you have completed a product, click **create**, or if you’d like to add more, click **create and add another**.
 
