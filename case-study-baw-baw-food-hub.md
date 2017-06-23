@@ -1,19 +1,16 @@
 # Case Study: Baw Baw Food Hub
 
-  
-
-
 ![](https://openfoodnetwork.org/wp-content/uploads/2016/01/Bawww.jpg "Baw Baw")
 
 ## Background
 
-The Baw Baw Food Hub is a non-profit group based in Warragul, in West Gippsland, Victoria. The hub sources local produce from organic and natural farmers in the region and makes this available to local customers throughout the year. Customers are encouraged to sign up for a ‘season’s’ worth of produce, in the form of mixed boxes which they pick up weekly. The hub’s consistent growth since its inception in 2013 is evidence of strong support from the hub’s broad and diverse customer base.
+The Baw Baw Food Hub is a non-profit group based in Warragul, in West Gippsland, Victoria Australia,. The hub sources local produce from organic and natural farmers in the region and makes this available to local customers throughout the year. Customers are encouraged to sign up for a ‘season’s’ worth of produce, in the form of mixed boxes which they pick up weekly. The hub’s consistent growth since its inception in 2013 is evidence of strong support from the hub’s broad and diverse customer base.
 
-The hub operates under a number of core values which include improving the accessibility of quality food to everyone in the community; promoting the value the West Gippsland region’s produce;  supporting fair prices for farmers; encouraging land stewardship and agricultural diversity; and championing alterative food distribution business models.
+The hub operates under a number of core values which include improving the accessibility of quality food to everyone in the community; promoting the value the West Gippsland region’s produce;  supporting fair prices for farmers; encouraging land stewardship and agricultural diversity; and championing alternative food distribution business models.
 
 ### Getting started
 
-Baw Baw Food Hub was founded in the summer of 2013 by Linda and Liz, market farmers in West Gippsland. The pair were attending farmer’s markets each weekend to sell their diverse range of fruit and vegetable produce, both locally and in Melbourne. However they were frustrated to see that crops which ripened during the week were going to waste because there was no market to sell them at. Preferring to sell the produce fresh,  rather than refrigerating, they decided to explore the possibility of selling some produce mid-week to the local community.
+Baw Baw Food Hub was founded in the summer of 2013 by Linda and Liz, market farmers in West Gippsland. The pair were attending farmer’s markets each weekend to sell their diverse range of fruit and vegetable produce, both locally and in Melbourne. However they were frustrated to see that crops which ripened during the week were going to waste because there was no market to sell them at. Preferring to sell the produce fresh,  rather than refrigerating, they decided to explore the possibility of selling some produce mid-week to the local community.
 
 In the early stages, the veggie boxes were comprised entirely of produce grown on their farms. The boxes were packed on one of the farms and taken into Warragul, where customers met in a local car park to pick up their box. Knowing this wasn’t sustainable, the Baw Baw Food Hub soon found a local space to operate out of, which functioned as their packing shed and collection point. This small, affordable veranda space was crucial to the Hub in its early days.
 
@@ -29,9 +26,9 @@ Rob, who has been deeply involved with the hub from the start, described the ear
 
 To the Baw Baw Food Hub, success can be measured by the level of engagement there is around the hub, including from their customers, their suppliers and the broader community. This engagement may take the form of a customer enjoying quality produce and learning about where their food has come from. Or it may be through encouraging other producers to consider getting involved with the hub, or to start their own alternative food distribution models.
 
-In 2014, in their effort to engage producers  the hub invited local producers and budding market farmers to attend a full day workshop where they networked and shared ideas about different business models and alternative ways of distributing food.  The day was well attended and Baw Baw was pleased to share ideas, tools and resources with other producers.
+In 2014, in their effort to engage producers  the hub invited local producers and budding market farmers to attend a full day workshop where they networked and shared ideas about different business models and alternative ways of distributing food.  The day was well attended and Baw Baw was pleased to share ideas, tools and resources with other producers.
 
-The hub has also hosted functions to engage their customers and volunteers more deeply in the operation, including farm walks and film screenings. Such events help them to communicate the value of the hub while also contextualising the project within the scope of the broader alternative food movement.
+The hub has also hosted functions to engage their customers and volunteers more deeply in the operation, including farm walks and film screenings. Such events help them to communicate the value of the hub while also contextualizing the project within the scope of the broader alternative food movement.
 
 ## Baw Baw Food Hub’s Operational Model
 
@@ -43,19 +40,19 @@ The Baw Baw Food Hub encourages customers to subscribe to a season’s worth of 
 
 ### Customers
 
-There is great variety in the demographics of the hub’s customers, who include young and old, families and singles, people from Warrigul and people living on properties outside of the town. While many of Baw Baw’s customers are highly engaged in the alternative food movement, others are not. To the Baw Baw team this is a good things for it shows that the hub is appeals for its price, convenience and  freshness, in addition to its local, clean and green credentials.
+There is great variety in the demographics of the hub’s customers, who include young and old, families and singles, people from Warrigul and people living on properties outside of the town. While many of Baw Baw’s customers are highly engaged in the alternative food movement, others are not. To the Baw Baw team this is a good things for it shows that the hub is appeals for its price, convenience and  freshness, in addition to its local, clean and green credentials.
 
 Managing customer expectation is often a challenge when operating an alternative food distribution model. Baw Baw has seen that some customers are less willing to eat seasonally during the winter and spring seasons when variety can be limited. Alternatively, some customers prefer to grow their own vegetables during the warmer months, and reduce their subscription during this time. The hub has not found that being uncertified organic has deterred customers. The hub builds trust around their produce by carefully selected suppliers and also encouraging producers to mingle with customers during pickup from time to time, giving customers the chance to learn about how their food was produced.
 
 ### Suppliers
 
-Baw Baw sources from 10-15 suppliers each week and 20-30 over a year.  The hub will send its supplier a rough order each Wednesday with further updates throughout the week. By Sunday night, orders are finalised and producers can prepare the order for Tuesday’s delivery. Each week the Baw Baw team makes one trip to collect produce from their larger suppliers. All other produce is delivered to the hub by the producers. The hub has found that their larger suppliers are too busy to deliver, whereas smaller, more local producers can accommodate delivering their produce.
+Baw Baw sources from 10-15 suppliers each week and 20-30 over a year.  The hub will send its supplier a rough order each Wednesday with further updates throughout the week. By Sunday night, orders are finalized and producers can prepare the order for Tuesday’s delivery. Each week the Baw Baw team makes one trip to collect produce from their larger suppliers. All other produce is delivered to the hub by the producers. The hub has found that their larger suppliers are too busy to deliver, whereas smaller, more local producers can accommodate delivering their produce.
 
-Historically Baw Baw have primarily approached suppliers who meet the hubs supply criteria, to arrange supply agreements. The hub is not strictly organic, or certified organic, however the hub is careful to only partner with supplying producer who they have met and whose farming practices they agree with. In some cases, the hub must choose between suppliers, who offer the same product. In this case they prioritise suppliers who are local and organics first, those who are local secondly, or organic third, and finally those who are neither local or organic.
+Historically Baw Baw have primarily approached suppliers who meet the hubs supply criteria, to arrange supply agreements. The hub is not strictly organic, or certified organic, however the hub is careful to only partner with supplying producer who they have met and whose farming practices they agree with. In some cases, the hub must choose between suppliers, who offer the same product. In this case they prioritize suppliers who are local and organics first, those who are local secondly, or organic third, and finally those who are neither local or organic.
 
 ### Product range
 
-Initially the hub purely stocked local fruits and vegetables . As the hub has grown they have taken on additional local suppliers, and expanded their product range to include eggs, preserves, breads, dairy, frozen berries and meat. The dairy, eggs, preserves and frozen products are purchased by the hub and held on the premises. The hubs needs to turn perishable products over rapidly, keeping products like yoghurt for only one week, whereas preserves can be held for longer.
+Initially the hub purely stocked local fruits and vegetables . As the hub has grown they have taken on additional local suppliers, and expanded their product range to include eggs, preserves, breads, dairy, frozen berries and meat. The dairy, eggs, preserves and frozen products are purchased by the hub and held on the premises. The hubs needs to turn perishable products over rapidly, keeping products like yogurt for only one week, whereas preserves can be held for longer.
 
 During the winter and spring periods, the hub supplements the local offerings with food from further afield, purchased through the wholesale market. These products are delivered by a local supplier who is already visiting the markets, reducing additional food miles associated with attaining the produce.
 
@@ -71,7 +68,5 @@ There is also around 30-40 hours of paid work which goes into managing operation
 
 ## The Future
 
-The hub has just recently relocated to a larger warehouse in Warragul, which has more space and refrigeration facilities. With this new location come new opportunities to grow in size and scope. However, the hub recognises that at each stage of growth different constraints become the limiting factor, and viability means something different at each stage. For instance, when shifting from a low rent space to a higher rent warehouse, the required number of orders to break even rises. And similarly, as the hub accepts more orders their truck will soon reach capacity, demanding a rethink of their logistics and distribution methods. For Baw Baw, they foresee that soon in order to continue expanding the number of orders they process each week, it will become necessary to start a second delivery day. This is an exciting prospect for the hub, who relishes in seeing more producers selling locally, and more customers learning about and enjoying the region’s quality produce.
-
-
+The hub has just recently relocated to a larger warehouse in Warragul, which has more space and refrigeration facilities. With this new location come new opportunities to grow in size and scope. However, the hub recognizes that at each stage of growth different constraints become the limiting factor, and viability means something different at each stage. For instance, when shifting from a low rent space to a higher rent warehouse, the required number of orders to break even rises. And similarly, as the hub accepts more orders their truck will soon reach capacity, demanding a rethink of their logistics and distribution methods. For Baw Baw, they foresee that soon in order to continue expanding the number of orders they process each week, it will become necessary to start a second delivery day. This is an exciting prospect for the hub, who relishes in seeing more producers selling locally, and more customers learning about and enjoying the region’s quality produce.
 
