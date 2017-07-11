@@ -1,6 +1,6 @@
 # Orders
 
-You can interact with orders via two pages within the OFN, the Lisitng Orders page, and the Bulk Order Managment page. The features of these two views will be discussed below.
+You can interact with orders via two pages within the FFW, the Listing Orders page, and the Bulk Order Management page. The features of these two views will be discussed below.
 
 ## Listing orders
 
@@ -10,11 +10,11 @@ The page has filters which allow you to select which orders you want to view. Yo
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Listing-Orders1.png "Listing orders page")
 
-**Distributor:**This is the enterprise whose shop the order was placed through
+**Distributor: **This is the enterprise whose shop the order was placed through
 
-**Completed at:**This is the date that the order was placed.
+**Completed at: **This is the date that the order was placed.
 
-**Number:**This is an arbitrarily assigned order number. An exclamation mark symbol will show if the customer included a note with their order at checkout. Hover you mouse above the exclamation mark to view the note.
+**Number: **This is an arbitrarily assigned order number. An exclamation mark symbol will show if the customer included a note with their order at checkout. Hover you mouse above the exclamation mark to view the note.
 
 **State:**
 
@@ -98,7 +98,7 @@ Clicking on adjustments \([![](https://openfoodnetwork.org/wp-content/uploads/20
 
 ##### Customer’s View
 
-Your customers can view a list of their orders when they login to the OFN, and click on their account \(see below\).
+Your customers can view a list of their orders when they login to the FFW, and click on their account \(see below\).
 
 [![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Account-login.png "Customer account login")](https://openfoodnetwork.org/wp-content/uploads/2015/05/Account-login.png)
 
@@ -120,7 +120,7 @@ Within Bulk Order Management, you can apply filters, so that only the orders tha
 
 **Start Date and End Date:** You can filter to display all orders that were placed within a given window of time.
 
-**Producer:** You can filter for a given producer. This can narrow down the display, if you’re only interested in one product, supplied by one proudcer.
+**Producer:** You can filter for a given producer. This can narrow down the display, if you’re only interested in one product, supplied by one producer.
 
 **Hub: **You can filter according to the hub at which the order was placed.
 
@@ -128,7 +128,7 @@ Within Bulk Order Management, you can apply filters, so that only the orders tha
 
 **Quick Search:** Before or after applying filters, you can narrow your search down even further by searching for a key word. This could be a name, product, hub, producer, date, order number…
 
-**Actions: **You can select the checkboxes of multiple orders, to perform a function to all of them, such as delete.
+**Actions: **You can select the check-boxes of multiple orders, to perform a function to all of them, such as delete.
 
 **Columns:** You can select which fields you do or do not want to be displayed \(see below\)
 
@@ -136,13 +136,13 @@ Within Bulk Order Management, you can apply filters, so that only the orders tha
 
 You can also sort the rows according to the contents of a column. For example, if you click on the Order Date column title, the table will be arranged in chronological order, according to the value in this field. Clicking the Name column heading will arrange the table in alphabetical order of the customer’s name.
 
-\*Note: The price column lists prices exclusive of fees, but will include GST if the product is set as GST inclusive. Fees will re-calculate if you edit orders.
+\*Note: The price column lists prices exclusive of fees, but will include Tax if the product is set as Tax inclusive. Fees will re-calculate if you edit orders.
 
 ### Examples of using Bulk Order Management:
 
 #### Example 1: You have a stock shortage, and must reduce customer order quantities for a certain product.
 
-In your current order cycle, customers placed orders for 20kg of tomatoes. Unfortunately there was a storm, and you were only able to harvest 10kg. You need to identify all customers who ordered tomatoes, and half their orders for tomatoes.
+In your current order cycle, customers placed orders for 20 lb of tomatoes. Unfortunately there was a storm, and you were only able to harvest 10 lb. You need to identify all customers who ordered tomatoes, and half their orders for tomatoes.
 
 This can be done in bulk order management, as follows:
 
@@ -153,7 +153,7 @@ This can be done in bulk order management, as follows:
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/BOM-1.png "Bulk Order Management")
 
-You can then adjust the quantity of each unique order in the Quantity column. The Total Quantitiy Ordered in the box at the top will update automatically as you adjust orders, in this case going down, as you reduce each order for the tomatoes.
+You can then adjust the quantity of each unique order in the Quantity column. The Total Quantity Ordered in the box at the top will update automatically as you adjust orders, in this case going down, as you reduce each order for the tomatoes.
 
 You could also then see the emails of these customers, and send them an alert._An alert is not automatically generated when adjustments are made in bulk order management._
 
@@ -161,7 +161,7 @@ You could also then see the emails of these customers, and send them an alert._A
 
 ##### **The ‘Shared Resource’ checkbox**
 
-In the screenshot above you will see a checkbox called ‘shared resource’ in the top right hand corner of the blue, producer order totals box. When you select this checkbox, the total displayed will be inlcusive of all product variants that fall under the master product. By not checking it, you can see the total for a single product variant. In the example below, you can see that when the shared resource box is selected, the total includes orders for both my 1kg apple variant and my 3kg apple variant. So I know that in total, I need 5kg of apples. If I just want to know how many 3kg bags to pack, I can uncheck the shared resource box, and click on the 3kg variant in the Product:Unit column.
+In the screenshot above you will see a checkbox called ‘shared resource’ in the top right hand corner of the blue, producer order totals box. When you select this checkbox, the total displayed will be inclusive of all product variants that fall under the master product. By not checking it, you can see the total for a single product variant. In the example below, you can see that when the shared resource box is selected, the total includes orders for both my 1lb apple variant and my 3lb apple variant. So I know that in total, I need 5lbof apples. If I just want to know how many 3lb bags to pack, I can uncheck the shared resource box, and click on the 3lb variant in the Product:Unit column.
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Shared-Resource.png "Shared Resource checked")
 
@@ -171,7 +171,7 @@ When selling indivisible products such as legs of lamb, or whole pumpkins, you m
 
 Check out Pricing irregular, indivisible meat items for more information about pricing products such as this.
 
-We’ll use an example of a leg of lamb to illustrate. In this case the producer charges all customers for a 2kg leg of lamb, and then adjusts their orders after slaughter, when he knows the exact weight of the product assigned to each customer. To make such adjustments the producer would do the following:
+We’ll use an example of a leg of lamb to illustrate. In this case the producer charges all customers for a 2lb leg of lamb, and then adjusts their orders after slaughter, when he knows the exact weight of the product assigned to each customer. To make such adjustments the producer would do the following:
 
 1. Filter for the order cycle or date range of interest.
 2. Search for the leg of lamb product to view all customer orders for the product.
