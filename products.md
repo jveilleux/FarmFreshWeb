@@ -28,7 +28,7 @@ This will take you to the New Product page.
 
 **Product name: **This is the title of the product which will be displayed in the store.
 
-**Units: **What units is the product sold in? \(g, lb, gal… or item \(bunch, bag, packet\)\)
+**Units: **What units is the product sold in? \(oz, lb, gal… or item \(bunch, bag, packet\)\)
 
 **Value:** What value of the above units is the product sold in? \( ie 100 ounces, 2 gal, 1 bunch\)
 
