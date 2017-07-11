@@ -52,7 +52,7 @@ If you have selected ‘**items**’ as your unit, the **display as** field will
 
 Some examples of how to list different types of products, and how these listing will present in your online store are provided below.
 
-Note: For products usually sold by the lb, it’s best to list the product for sale in increments, of 100 ounce or higher, depending on the product. This makes it easier to list and prepare the order.
+Note: For products usually sold by the lb, it’s best to list the product for sale in increments, of 10 ounce or higher, depending on the product. This makes it easier to list and prepare the order.
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Green-Beans1.png "Green Beans example")
 
