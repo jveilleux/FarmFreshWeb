@@ -7,14 +7,10 @@ The inventory page gives enterprises increased control and flexibility with thei
 The inventory pages are used for three primary functions:
 
 1. **Overriding product details. **
-   The
-   **products page**
-   contains the ‘master list’ of products that a producer has on offer. Sometimes, a shopfront might need to vary product details, such as price, on hand stock levels and the SKU code from this master list. The
-   **inventory page**
-   allows enterprises to change some product details just for their shopfront. Any product details changed in the inventory page will over-ride the master product details. However, if other enterprises are also stocking these products, the changes made in the inventory list will not affect them.
+   The **products page **contains the ‘master list’ of products that a producer has on offer. Sometimes, a shopfront might need to vary product details, such as price, on hand stock levels and the SKU code from this master list. The **inventory page **allows enterprises to change some product details just for their shopfront.  Any product details changed in the inventory page will over-ride the master product details. However, if other enterprises are also stocking these products, the changes made in the inventory list will not affect them.
 2. **Hiding products and assessing new products.**
     In the inventory list enterprises can hide products that they may not want to see, making the task of filtering which products go into the shopfront quicker when dealing with large amounts of products. There is also the option to have new products added by producers hidden by default, until they have been approved by you.
-3. **Resting stock ‘on hand’ levels. **
+3. **Resetting stock ‘on hand’ levels. **
    Enterprises who have stock that is regularly  restocked to a certain quantity can define this recurring on hand stock level for each product, and reset levels quickly en mass.
 
 ### Permissions Requirements
