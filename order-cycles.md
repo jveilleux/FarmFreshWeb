@@ -1,6 +1,6 @@
 # Order Cycles
 
-In the OFN, you create an active online store within the ‘order cycle’ functionality. An order cycle is a duration of time when an online store is visible, open and can accept orders. Each time an order cycle is created, the owner of the store can select which products will be stocked in the store.
+In the FFW, you create an active online store within the ‘order cycle’ functionality. An order cycle is a duration of time when an online store is visible, open and can accept orders. Each time an order cycle is created, the owner of the store can select which products will be stocked in the store.
 
 Some hubs may wish to have an online store which is perpetually open, and to fulfill orders on a one by one basis, as they are received. However, many hubs operate on a periodic ordering system, which allows them to process orders in bulk, making their packing and distribution activities more efficient. Let’s use an example to illustrate a common periodic ordering cycle structure.
 
@@ -26,11 +26,11 @@ Below is the first stage in creating an order cycle.
 
 Select the coordinator of the order cycle. The enterprise which coordinates an order cycle has full powers and permissions to edit and manage an order cycle. Other enterprises involved in the order cycle \(such as suppliers or distributors\) have restricted abilities to edit an order cycle \(for more information click here\). After the coordinator is selected, the subsequent order cycle will be restricted according to who has granted this coordinator permission to add them to an order cycle \(P-OC\).For more information about Enterprise to Enterprise permissions go here.
 
-**Name:**Give your order cycle a name which is meaningful to you. We recommend that you follow a consistent naming protocol e.g FoodHub\_Week27\_2014. We also recommend that you include the name of your hub in the order cycle name, so that OFN support can identify your order cycles if you need assistance.
+**Name: **Give your order cycle a name which is meaningful to you. We recommend that you follow a consistent naming protocol e.g FoodHub\_Week27\_2017. We also recommend that you include the name of your hub in the order cycle name, so that FFW support can identify your order cycles if you need assistance.
 
-**Orders Open:** This is the date at when your OFN store will be open, visible and start to accept orders from customers.
+**Orders Open:** This is the date at when your FFW store will be open, visible and start to accept orders from customers.
 
-**Order Close: **This is the date when your OFN store will close and stop accepting orders. If you intend to have an order cycle which is continuously open, select a close date which is well into the future.
+**Order Close: **This is the date when your FFW store will close and stop accepting orders. If you intend to have an order cycle which is continuously open, select a close date which is well into the future.
 
 **Add Coordinator Fee:**As a hub, the coordinator is most likely you. Here you can apply your Enterprise Fee which acts as the markup. The fee will be calculated according to the calculator selected in [Enterprise Fees](/enterprise-fees.md). You can only apply an enterprise fee which has previously been created.
 
@@ -38,11 +38,11 @@ Select the coordinator of the order cycle. The enterprise which coordinates an o
 
 ### Incoming
 
-The incoming section is where you can select the producers, and their produce, which will be available in this order cycle. In the dropdown menu you will see all producers who have granted you permission to add their produce to your order cycle \(See _Relationships with Producers_ section for details\). After selecting a supplier and clicking **Add Supplier** all of the products associated with that supplier will be visible. Check those products you wish to add to the store, or click **select all. **Note: Products which have an ‘on hand’ value of zero \(no stock available\) will still be visible, so be careful to check that you have adequate on hand inventory for the products selected.
+The incoming section is where you can select the producers, and their produce, which will be available in this order cycle. In the drop-down menu you will see all producers who have granted you permission to add their produce to your order cycle \(See _Relationships with Producers_ section for details\). After selecting a supplier and clicking **Add Supplier** all of the products associated with that supplier will be visible. Check those products you wish to add to the store, or click **select all. **Note: Products which have an ‘on hand’ value of zero \(no stock available\) will still be visible, so be careful to check that you have adequate on hand inventory for the products selected.
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Incomiing.png "Incoming")
 
-The **Receival Details **fields are optional. If you wish to use the **Notify Produers**button, to send orders to your supplying producers, you should write your stock receival instructions here. \(more info in the Notify Producers section at the bottom of this page\).
+The **Receival Details **fields are optional. If you wish to use the **Notify Producers **button, to send orders to your supplying producers, you should write your stock receival instructions here. \(more info in the Notify Producers section at the bottom of this page\).
 
 The **Add Fee **button is where you can apply an enterprise fee, belonging to that supplier. Select the name of the enterprise in the first dropdown box, then click the name of the enterprise fee in the second dropdown box. In the example below, an enterprise fee named OrderAdmin is applied to the Producer of Fruit.
 
@@ -56,7 +56,7 @@ The distributor\(s\) selected in the outgoing section, will have a shopfront cre
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Outoging-New.png "Outgoing Section")
 
-The **tags **column is where you can tag your order cycle \(see [Customer Accounts and Tagging](/customer-accounts-and-tagging.md)\).The**‘ready for \(ie Date/Time\)’**box tells the customer when their order will be ready for either collection or delivery. If your order cycle is a perpetual one, which fulfills orders on an individual basis rather then in bulk, you should enter something like ‘Two days after order is received’. The example below shows how ‘Friday 9th’ is displayed in a store.
+The **tags **column is where you can tag your order cycle \(see [Customer Accounts and Tagging](/customer-accounts-and-tagging.md)\).The **‘ready for \(ie Date/Time\)’ **box tells the customer when their order will be ready for either collection or delivery. If your order cycle is a perpetual one, which fulfills orders on an individual basis rather then in bulk, you should enter something like ‘Two days after order is received’. The example below shows how ‘Friday 9th’ is displayed in a store.
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Ready-for.png "ready for field")
 
@@ -64,7 +64,7 @@ The note is also shown at check out, when the customer selects their shipping me
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/shipping-info.png "Ready for info in email")
 
-The **Pick-Up Instructions **message will be included in the customer’s order confirmation email, below the message that corresponds to their chosen shipping method \(see below\). This note is designed to only be visible to customers, so you can include more sensetive information like addresses, or phone numbers etc. See below for an example of the order confirmation email.
+The **Pick-Up Instructions **message will be included in the customer’s order confirmation email, below the message that corresponds to their chosen shipping method \(see below\). This note is designed to only be visible to customers, so you can include more sensitive information like addresses, or phone numbers etc. See below for an example of the order confirmation email.
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Collection-details.png "collection details message")
 
