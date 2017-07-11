@@ -12,7 +12,7 @@ The list will include all customers who have previously placed an order in your 
 
 You can also delete customers who you no longer want to be able to see your shop.
 
-After updating your customer list, you can set your shopfront to private. Go to your**enterprise settings &gt; Shop Preferences**and select ‘**visible to registered customers only**‘.
+After updating your customer list, you can set your shopfront to private. Go to your **enterprise settings &gt; Shop Preferences **and select ‘**visible to registered customers only**‘.
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2016/04/Registered-customers-only.png)Now customers will be prompted to login before they can see your shop, and only those on your customer list will be permitted into the shop.
 
