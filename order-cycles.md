@@ -97,8 +97,8 @@ Stock pickup/delivery instructions: **&lt;Receival instructions&gt;**.
 Here is a summary of the orders for your products:
 
 **&lt;Total products orders in this order cycle \(example below\)&gt;**  
-– Producer of Meat – Leg of Lamb \(Frozen\) \(1.5kg\) \(QTY: 1\) @ $22.50 = $22.50  
-– Producer of Meat – Sausages \(100g\) \(QTY: 3\) @ $3.00 = $9.00
+– Producer of Meat – Leg of Lamb \(Frozen\) \(1.5 lb\) \(QTY: 1\) @ $22.50 = $22.50  
+– Producer of Meat – Sausages \(100 oz\) \(QTY: 3\) @ $3.00 = $9.00
 
 Thanks and best wishes,
 
