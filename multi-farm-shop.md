@@ -16,26 +16,19 @@ Supplying producers can create a producer profile, according to the [producer se
 
 Once you have completed your basic setup, check out the advanced features below which are particularly relevant to Multi-Farm shops:
 
-* [Enterprise Fees](/enterprise-fees.md)
-  – Multi-Farm Shops may wish to use this tool to allocate fees and charges to parties who provide a service \(such as packing or delivery\) that the other parties benefit from.
+* [Enterprise Fees](/enterprise-fees.md) – Multi-Farm Shops may wish to use this tool to allocate fees and charges to parties who provide a service \(such as packing or delivery\) that the other parties benefit from.
 * Multiple managers – A Multi-farm shop might wish to have multiple managers who are able to login and edit the shop. This can be done by adding managers to the central producer’s profile.
-* [Pricing irregular, indivisible meat items](/pricing-irregular-indivisible-meat-items.md).
-  This page offers some strategies for pricing items like chickens or pumpkins, which are charged by the kg but which have an irregular weight.
+* [Pricing irregular, indivisible meat items](/pricing-irregular-indivisible-meat-items.md). This page offers some strategies for pricing items like chickens or pumpkins, which are charged by the kg but which have an irregular weight.
 * [Apply tags](/customer-accounts-and-tagging.md) to your customers and customize their shopping experience with tag rules. This can make it possible to restrict certain products and certain shipping or payment methods to particular customers, which becomes especially helpful if you have retail and wholesale customers.
-* [Make your shopfront private](/private-shopfront.md)
-  . If you prefer to check the suitability of customers before they can order through your shop, you can make your shopfront require login.
-* [Charge different prices to different customers](/charging-different-prices-to-different-customers.md)
-  . There are a number of ways to configure a shop so that you charge different prices to different customers, such as your rural customers and your metropolitan customers.
-* [Place orders manually](/create-an-order.md)
-  for customers who prefer to submit orders by text or over the phone.
+* [Make your shopfront private](/private-shopfront.md). If you prefer to check the suitability of customers before they can order through your shop, you can make your shopfront require login.
+* [Charge different prices to different customers](/charging-different-prices-to-different-customers.md). There are a number of ways to configure a shop so that you charge different prices to different customers, such as your rural customers and your metropolitan customers.
+* [Place orders manually](/create-an-order.md) for customers who prefer to submit orders by text or over the phone.
 
 ## Features in the pipeline:
 
 * Splitting payment methods between farmers’ is a feature that’s COMING SOON
 * Granting discounts to certain customers such as members or volunteers \(COMING SOON\).
 * Creating standing, recurring orders \(COMING SOON\)
-
-
 
 
 
