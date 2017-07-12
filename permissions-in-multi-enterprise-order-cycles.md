@@ -18,7 +18,7 @@ _When the Coordinator of an order cycle is a hub, the full OC interface is loade
 
 * The coordinator can add enterprises as suppliers. However, to do this the supplying enterprise must be:
 
-* valid \(have verified their confirmation email\)IS THIS TRU?
+* valid \(have verified their confirmation email\)
 
 * have granted P-OC to the coordinator.
 
@@ -43,7 +43,7 @@ To do this the distributor must be:
 
 ### Supplying \(Incoming\) Enterprise
 
-The supplier can view Order Cycles they’re involved with in their Order Cycle summary page. By clicking on the order cycle they can see details of the order cycle. Howerver, the supplier’s view of an order cycle is not complete, as it is for the coordinator. They will only see and be able to edit those elements of the order cycle which involve them. This includes the details of their incoming activities, and any instances where their products are included in a distributor’s outgoing activities.They cannot view the activities of other suppliers, or of outgoing distributors who are not distributing their products.
+The supplier can view Order Cycles they’re involved with in their Order Cycle summary page. By clicking on the order cycle they can see details of the order cycle. However, the supplier’s view of an order cycle is not complete, as it is for the coordinator. They will only see and be able to edit those elements of the order cycle which involve them. This includes the details of their incoming activities, and any instances where their products are included in a distributor’s outgoing activities.They cannot view the activities of other suppliers, or of outgoing distributors who are not distributing their products.
 
 A supplier can view, but not edit the name and dates of an order cycle.
 
