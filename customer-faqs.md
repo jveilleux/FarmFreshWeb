@@ -44,7 +44,7 @@ FarmFreshWeb.com helps make fresh, local food accessible and affordable to all. 
 
 #### How do I know which market on FarmFreshWeb.com is right for me?
 
-The FFW shops are wonderfully diverse, which means that you’re sure to find one which suits your needs. You can use the FFW map feature on your local FFW site to find enterprises located near to you. Then, check out the profiles of shops to see if the product range and the payment and shipping methods meet your needs. Each shop has links to the profiles of supplying producers, so you can learn about where the food is coming from, and how it was produced. If production characteristics such as organic certification, or free range is important to you, you can choose see which products and shops meet these standards. The FFWis transparent in pricing as well, so you can see how your food dollar is distributed.
+The FFW shops are wonderfully diverse, which means that you’re sure to find one which suits your needs. You can use the FFW map feature on your local FFW site to find enterprises located near to you. Then, check out the profiles of shops to see if the product range and the payment and shipping methods meet your needs. Each shop has links to the profiles of supplying producers, so you can learn about where the food is coming from, and how it was produced. If production characteristics such as organic certification, or free range is important to you, you can choose see which products and shops meet these standards. The FFW is transparent in pricing as well, so you can see how your food dollar is distributed.
 
 #### Can I see a record of my past orders?
 
