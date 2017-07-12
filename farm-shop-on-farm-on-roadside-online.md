@@ -42,7 +42,7 @@ Browse our other marketing resources on the public library [here](https://www.di
 
 ## 
 
-##### _This model can be implemented on the Farm Fresh Web. To learn about setting up an online shop and using the FFW’s administrative tools, check out our _[_user guide_](/README.md) _or _[_email us_](mailto:hello@openfoodnetwork.org)_._
+##### _This model can be implemented on the Farm Fresh Web. To learn about setting up an online shop and using the FFW’s administrative tools, check out our _[_user guide_](/README.md) _or email us at hellow@farmfreshweb.com._
 
 
 
