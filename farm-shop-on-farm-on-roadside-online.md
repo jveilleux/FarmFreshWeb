@@ -12,7 +12,7 @@ Farm Shops are also more common amongst farmers who live within close proximity 
 
 When considering whether to set-up a Farm Shop it is important to assess the farms’ ability to support the initial start-up costs, support the opening hours, offer affordable delivery options for online orders, administer the chosen system or program and look at how to supplement farm income whilst the direct marketing approach grows.
 
-Some farmers have taken on creative approaches to raising capital to support such ventures, for example Tammi Jonas from[Jonai Farms](https://openfoodnetwork.org/au/learn/story/jonai-farms/)conducted a crowd funding campaign to fund an on-site butcher.
+Some farmers have taken on creative approaches to raising capital to support such ventures, for example Tammi Jonas from [Jonai Farms](https://openfoodnetwork.org/au/learn/story/jonai-farms/) conducted a crowd funding campaign to fund an on-site butcher.
 
 The one major drawback or consideration when it comes to setting up a Farm Shop or similar is that you do reap the rewards of grouped markets, where customers are driven to a larger set of vendors for more convenient shopping and greater variety of products.
 
@@ -32,13 +32,13 @@ This great article “[Emerging Classification Scheme for Local Food Business Mo
 
 Although developed for slightly different contexts, here are a couple of very basic marketing guides that might be useful for farmers thinking about building a loyal customer base.
 
-[Making Local Food Work: Influencing consumer buying behaviour ](https://www.diigo.com/item/pdf/5pes7/kr6d)
+[Making Local Food Work: Influencing consumer buying behavior](https://www.diigo.com/item/pdf/5pes7/kr6d)
 
 [The DIY Marketing Guide for Community Supported Agriculture](https://www.diigo.com/item/pdf/5pes7/r3jo)
 
-[Food Solution – A Community Food Enterprise Start-up Guide](https://www.diigo.com/item/pdf/5pes7/wnch)  \(From chapter 2 onwards\)
+[Food Solution – A Community Food Enterprise Start-up Guide](https://www.diigo.com/item/pdf/5pes7/wnch) 
 
-Browse our other marketing resources on the public library[here](https://www.diigo.com/user/openfoodnetwork/marketing)
+Browse our other marketing resources on the public library [here](https://www.diigo.com/user/openfoodnetwork/marketing)
 
 ## 
 
