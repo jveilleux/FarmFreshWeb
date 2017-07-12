@@ -51,7 +51,7 @@
 * [Product variants](product-variants.md)
 * [Inventory](inventory.md)
 * [Permissions in multi-enterprise order cycles](permissions-in-multi-enterprise-order-cycles.md)
-* [Buying Group – OFN Setup Process](buying-group-ofn-setup-process.md)
+* [Buying Group – FFW Setup Process](buying-group-ofn-setup-process.md)
 * [Opening more than one order cycle](opening-more-than-one-order-cycle.md)
 * [Creating ‘display only’ order cycles](creating-display-only-order-cycles.md)
 * [Group Pages](group-pages.md)
