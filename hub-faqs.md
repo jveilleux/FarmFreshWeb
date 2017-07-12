@@ -8,7 +8,7 @@ No the FFW doesn’t actually operate hubs, we just provide the software for ent
 
 #### What is involved in being a food hub?
 
-Food hubs come in many different shapes and sizes, and include farmers markets, food coops, buying groups, farm gate stalls, CSA schemes and more. You can chose how you want to run your hub, but essentially a food hub sources and sells to its community. Each hub is configured differently, and each chooses who they will source from, who their customers will be, how delivery or collection will be organised, payment methods, mark ups, fees etc.
+Food hubs come in many different shapes and sizes, and include farmers markets, food coops, buying groups, farm gate stalls and more. You can chose how you want to run your hub, but essentially a food hub sources and sells to its community. Each hub is configured differently, and each chooses who they will source from, who their customers will be, how delivery or collection will be organised, payment methods, mark ups, fees etc.
 
 #### What's the difference between the FFW and other online store options?
 
@@ -33,7 +33,7 @@ The FFW functions as a directory, advertising platform, and an online marketplac
 
 A profile on the FFW is the simplest option, and offers a way for enterprises to market themselves. The profile can be used to promote your products and services, share your story and provide contact details. A profile makes you visible and contactable to customers and other enterprises who might wish to trade with you.
 
-1. A Shopfront
+   2. A Shopfront
 
 You have the option of adding an FFW shop onto your profile, giving you all the functions needed to run an online store. This includes the online shopfront with full checkout capabilities as well as behind the scenes tools to aid in administration, such as reporting of payments and inventory. The FFW works as a network, so all hubs are connected to the profiles of their supplying producers. It’s also designed to accommodate all different hub models, from the small and simple, to the large and complex.
 
