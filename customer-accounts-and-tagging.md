@@ -30,8 +30,7 @@ Most often this feature is required by enterprises who have different shop setup
 Using the tagging feature involves two main steps:
 
 1. Tagging your customers
-2. Setting up a
-   **tag rule**
+2. Setting up a **tag rule**
 
 ### Tagging Customers
 
@@ -45,7 +44,7 @@ Once you have applied tags to your customers, you can then apply **Tag Rules **t
 
 Any tags that you attach will also show up in your ‘Order cycle customer totals’ report, next to this customer’s order. If you take these reports to excel you can then filter your reports according to these tags, making it easy to sort your orders based on certain information.
 
-Note: If you are transferring an existing hub/shop onto the OFN there is no way to import your database of customers into the system. Customers will only show on this page after they place their first order on the OFN.
+Note: If you are transferring an existing hub/shop onto the FFW there is no way to import your database of customers into the system. Customers will only show on this page after they place their first order on the FFW.
 
 ### Tag Rules
 
@@ -78,7 +77,7 @@ Next you can select which condition your rule is based on.
 
 #### **Show or Hide Variants in my shopfront**
 
-This rule lets you make particular variants visible/invisible to tagged customers. For this rule to operate you need to have tagged the customer and the product variant **in your inventory** with the same tag. The screenshot below shows that my 10kg apple variant is tagged ‘wholesale’ in inventory.
+This rule lets you make particular variants visible/invisible to tagged customers. For this rule to operate you need to have tagged the customer and the product variant **in your inventory** with the same tag. The screenshot below shows that my 10lb apple variant is tagged ‘wholesale’ in inventory.
 
 [![](https://openfoodnetwork.org/wp-content/uploads/2015/10/Inventory-tagged.png "Inventory tagged")](https://openfoodnetwork.org/wp-content/uploads/2015/10/Inventory-tagged.png)
 
