@@ -8,7 +8,7 @@ The FFW functions as a directory, advertising platform, and an online marketplac
 
 A profile on the FFW is the simplest option, and offers a way for producers to market themselves. The profile can be used to promote your products and services, share your story and provide contact details. A profile makes you visible and contactable to customers and other enterprises who might wish to trade with you. Producers with a profile can also add products, which hub enterprises can then stock in their stores.
 
-1. A Shopfront
+   2.  A Shopfront
 
 An FFW shop, is like a profile, but it also includes all the functions needed for producers to sell directly to customers online. This includes the online shopfront with full checkout capabilities as well as behind the scenes tools to aid in administration, such as reporting of payments and inventory. The FFW is a network, so it allows shops to be connected with other shops. This way a producer can be stocking their products in their own independent store, as well as through a number of hub shops.
 
