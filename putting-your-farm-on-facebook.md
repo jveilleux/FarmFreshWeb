@@ -24,7 +24,7 @@ Select a profile picture for your farm. This is usually a logo, but you can also
 
 [![](https://openfoodnetwork.org/wp-content/uploads/2015/09/2-Profile-Picture.png "Profile Picture")](https://openfoodnetwork.org/wp-content/uploads/2015/09/2-Profile-Picture.png)
 
-##### 3\) Add to Favourites
+##### 3\) Add to Favorites
 
 So that you can easily find your page, you should ‘**add to favourites**‘. A link to your farm’s page will then appear in your menu, when you are logged into your personal account.
 
