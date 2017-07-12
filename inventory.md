@@ -40,7 +40,7 @@ When you first visit the Inventory page, you will see an alert that you have ‘
 
 [![](https://openfoodnetwork.org/wp-content/uploads/2015/06/New-products-alert.png "New products alert")](https://openfoodnetwork.org/wp-content/uploads/2015/06/New-products-alert.png)
 
-Clicking on**Review Now**will take you to your**New Products **list.
+Clicking on **Review Now **will take you to your **New Products **list.
 
 ## New Products
 
@@ -60,7 +60,7 @@ Your inventory products list is where you can override product details, set up s
 
 ### Overriding product details
 
-You can change product details in the Inventory Page. Any changes you make will over-ride the master product details, and your shopfront and reports will reflect these over-ridden values you have set. You can override the **SKU**,**Price**,**On Hand **value, and on hand/**on demand **setting. You can’t over-ride the product’s name, units, description or photograph.
+You can change product details in the Inventory Page. Any changes you make will over-ride the master product details, and your shopfront and reports will reflect these over-ridden values you have set. You can override the **SKU**, **Price**, **On Hand **value, and on hand/**on demand **setting. You can’t over-ride the product’s name, units, description or photograph.
 
 * **SKU **
   – if you wish to use an alternative SKU for a product, you can over-ride the producer’s SKU here by typing in an alternative.
@@ -101,5 +101,5 @@ In Order Cycle setup, under Advanced Settings, there is the option to control wh
 
 If the ‘**all available products**‘ setting is selected, the incoming inventory will include all products in the master products page. This makes hidden products \(and new\) in inventory available to other distributors in the outgoing section. Note that if the coordinator is a distributor, their outgoing product selection will always be restricted by their inventory pages and settings.
 
-If the ‘**coordinator’s inventory only**‘ setting is selected, the incoming inventory, and thus outgoing inventory to all distributors, will be restricted to the coordinator’s Inventory products. Their hidden products will not be available in the outgoing sections, nor their new products \(if their settings hide new products\). Any overridden detail in the coordinator’s invenotry will not carry through to the distributor’ shops e.g. price.
+If the ‘**coordinator’s inventory only**‘ setting is selected, the incoming inventory, and thus outgoing inventory to all distributors, will be restricted to the coordinator’s Inventory products. Their hidden products will not be available in the outgoing sections, nor their new products \(if their settings hide new products\). Any overridden detail in the coordinator’s inventory will not carry through to the distributor’ shops e.g. price.
 
