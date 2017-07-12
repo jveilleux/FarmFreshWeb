@@ -36,13 +36,13 @@ Although developed for slightly different contexts, here are a couple of very ba
 
 [The DIY Marketing Guide for Community Supported Agriculture](https://www.diigo.com/item/pdf/5pes7/r3jo)
 
-[Food Solution – A Community Food Enterprise Start-up Guide](https://www.diigo.com/item/pdf/5pes7/wnch) 
+[Food Solution – A Community Food Enterprise Start-up Guide](https://www.diigo.com/item/pdf/5pes7/wnch)
 
 Browse our other marketing resources on the public library [here](https://www.diigo.com/user/openfoodnetwork/marketing)
 
 ## 
 
-##### _This model can be implemented on the Open Food Network. To learn about setting up an online shop and using the OFN’s administrative tools, check out our _[_user guide_](/README.md) _or _[_email us_](mailto:hello@openfoodnetwork.org)_._
+##### _This model can be implemented on the Farm Fresh Web. To learn about setting up an online shop and using the FFW’s administrative tools, check out our _[_user guide_](/README.md) _or _[_email us_](mailto:hello@openfoodnetwork.org)_._
 
 
 
