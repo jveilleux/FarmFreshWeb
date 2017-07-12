@@ -16,8 +16,6 @@ If you manage or are involved in a farmers market and would like to create an FF
 
 Once we’ve created a group page for you, you can customize it with your own content, including an about us blurb, logo and photos. For more details about managing content on your group page [click here](/group-pages.md). Adding ‘enterprises’, or your members’s profiles, to your group page is discussed below.
 
-##### [Ask us](mailto:hello@openfoodnetwork.org) about embedding your Farmers’ Market group directory into your own website.
-
 ## Step 2: Add your stallholder’s profiles to the group page
 
 Once your page is setup the next step is to add profiles of your member enterprises to the group, this includes the market\(s\) itself and your stallholders. You can create a profile for your market\(s\) by following steps 1-4 in the [Hub setup guide](/hubs-set-up-guide.md) and then adding the profiles to the group. You can also add any stallholder profiles that are already on the FFW, just search for these in the group admin page. There are two options for setting up profiles for your members who don’t already have a profiles on the FFW.
