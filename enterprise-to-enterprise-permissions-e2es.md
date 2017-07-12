@@ -56,9 +56,9 @@ Similarly, if a user owns a producer enterprise, and then creates a hub, the pro
 
 _Do you distribute through buying groups? If so make sure to check out the E2E requirements for buying groups below._
 
-#### 2\) I want to stock the products of a producer who is already on the OFN in my shop, what E2Es do I need?
+#### 2\) I want to stock the products of a producer who is already on the FFW in my shop, what E2Es do I need?
 
-To start stocking the products of a producer who is already on the OFN, you must get the following E2E permissions from them.
+To start stocking the products of a producer who is already on the FFW, you must get the following E2E permissions from them.
 
 * At a minimum, to stock a producer’s products in your store, you’ll need P-OC to add them to your order cycles.
 * If you wish to modify the producer’s price or stock level, you’ll need them to grant you P-I.
@@ -88,9 +88,7 @@ Use the following examples to explore your options.
 #### 1\) I’m a producer and I stock my products through a hub. What E2Es do I need? What are my options?
 
 * Essential- For the hub to add your products to their shopfront, you’ll need to grant them P-OC. This allows the hub to stock your existing products.
-* Optional- In addition to P-OC, you might also want to give the hub permission to manage your products \(P-P\), to edit your profile \(P-Profile\) or to add to
-  [Inventory ](/inventory.md)
-  \(P-I\).
+* Optional- In addition to P-OC, you might also want to give the hub permission to manage your products \(P-P\), to edit your profile \(P-Profile\) or to add to [Inventory ](/inventory.md)\(P-I\).
 
 #### 2\) A hub that I supply to distributes through buying groups, do I need to give them permission?
 
