@@ -1,6 +1,6 @@
 # Opening more than one order cycle
 
-It is possible to have more than one order cycle open at the same time. This has the effect of creating two \(or more\) shopfronts within your OFN shop, which the customer can choose between. This feature is helpful when you want to have different ‘conditions’ in the two shopfronts such as different products \(wholesale or retail\), different enterprise fees \(such a non-member mark-ups\) or different order cycle opening and closing dates \(for different deliver runs\).
+It is possible to have more than one order cycle open at the same time. This has the effect of creating two \(or more\) shopfronts within your FFW shop, which the customer can choose between. This feature is helpful when you want to have different ‘conditions’ in the two shopfronts such as different products \(wholesale or retail\), different enterprise fees \(such a non-member mark-ups\) or different order cycle opening and closing dates \(for different deliver runs\).
 
 If you have two order cycles open, when the customer arrives at your shopfront, they will be prompted to select which order cycle they want to order in. An example is shown below, where the two order cycles have different delivery dates. Remember it is the ‘Ready for’ field in the order cycle set up which determines an order cycle’s name \(seen as ‘Thursday delivery’ in this case\).
 
@@ -14,5 +14,5 @@ Note: You can’t specify which shipping methods are available in an order cycle
 
 **Ordering your order cycles**
 
-You can choose whether you want your order cycles to be listed in the dropdown menu by closing date \(closing soonest first\) or by opening date \(opened earliest first\). This is setup in your enterprise settings, under ‘shop preferences’.
+You can choose whether you want your order cycles to be listed in the drop-down menu by closing date \(closing soonest first\) or by opening date \(opened earliest first\). This is setup in your enterprise settings, under ‘shop preferences’.
 
