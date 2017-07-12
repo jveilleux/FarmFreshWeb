@@ -51,7 +51,7 @@ The [producer](/producer-set-up-guide.md) and [hub](/hubs-set-up-guide.md) set-u
 
 ### Groups
 
-* Create and manage a group page, which acts as a sub directory within the FFW for regional producer groups, certification bodies, markets etc.
+* Create and manage a group page, which acts as a sub-directory within the FFW for regional producer groups, certification bodies, markets etc.
   [Read more](/group-pages.md)
 
 ### Social
