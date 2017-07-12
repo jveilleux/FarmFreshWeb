@@ -40,7 +40,7 @@ Here you can tell Facebook about the kinds of people you want visiting your page
 
 ##### Create a call-to-action button
 
-Click c**reate call to action**, at the top of your page. This button can be used to direct people to your online shop. Select the **shop now **button type, and provide the URL to your shop’s website \(this can be an OFN site, or an external online shop\).
+Click c**reate call to action**, at the top of your page. This button can be used to direct people to your online shop. Select the **shop now **button type, and provide the URL to your shop’s website \(this can be an FFW site, or an external online shop\).
 
 [![](https://openfoodnetwork.org/wp-content/uploads/2015/09/Create-a-call-to-action-button.png "Create a call-to-action button")](https://openfoodnetwork.org/wp-content/uploads/2015/09/Create-a-call-to-action-button.png)
 
@@ -52,7 +52,7 @@ This large picture sits at the top of your farm’s page. A picture says a thous
 
 ##### Add contact details and edit your page
 
-You can edit any of the information you provided during the creation of your page by clicking on**About**and**Page Info**. Here you can also provide contact details and write a longer description of your farm.
+You can edit any of the information you provided during the creation of your page by clicking on **About **and **Page Info**. Here you can also provide contact details and write a longer description of your farm.
 
 [![](https://openfoodnetwork.org/wp-content/uploads/2015/09/Edit-and-contact-details.png "Edit and contact details")](https://openfoodnetwork.org/wp-content/uploads/2015/09/Edit-and-contact-details.png)
 
