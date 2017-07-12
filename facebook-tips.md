@@ -12,7 +12,7 @@ There are lots of compelling reasons to get on Facebook, and invest in the time 
 * To engage in a dialogue with customers to better understand their preferences
 * To advocate for local food and differentiate yourself from conventionally food outlets
 
-If you think of the OFN as an online farmer’s market,  social media is analogous to the ‘G’day, how’s your week been’ chat that you might have with a customer at a real farmer’s market. When trading online, building this social connection is just as important, and it’s often what makes the difference to the customer between choosing the faceless supermarket, and choosing an alternative option. As well as other tools like email and newsletters, Facebook is a really great way to connect with your customers when you don’t necessarily see them face to face.
+If you think of the FFW as an online farmer’s market,  social media is analogous to the 'Hello, how’s your week been’ chat that you might have with a customer at a real farmer’s market. When trading online, building this social connection is just as important, and it’s often what makes the difference to the customer between choosing the faceless supermarket, and choosing an alternative option. As well as other tools like email and newsletters, Facebook is a really great way to connect with your customers when you don’t necessarily see them face to face.
 
 ## Getting Started
 
@@ -28,11 +28,11 @@ There are two ways to connect with people:
 
 The people who have ‘liked’ your page become your audience. They will receive updates whenever you post something on your wall. You should aim to have lots of people, including your new and potential customers ‘like’ your page. You can invite people to like your page in an email, or you can ask your existing Facebook friends to like your new page. It’s good to get a few dozen of your friends and family to like your page first, so that when the public visits your page they can see that it’s popular.
 
-Remember, people need a reason to ‘like’ you. If a facebook page hasn’t been updated in 6 months or doesn’t have any photos people are less likely to ‘like’ it. Customers will be more likely to ‘like’ your page if you share interesting content like updates about how your crops/animals are growing, interesting news stories related to food, funny anecdotes from the farm and recipes etc.
+Remember, people need a reason to ‘like’ you. If a Facebook page hasn’t been updated in 6 months or doesn’t have any photos people are less likely to ‘like’ it. Customers will be more likely to ‘like’ your page if you share interesting content like updates about how your crops/animals are growing, interesting news stories related to food, funny anecdotes from the farm and recipes etc.
 
 **2\) You can reach out to others and ‘like’ them.**
 
-In the search bar at the top of your page, search for other farms and organisations that you want to connect with. When you find one you’re interested in, click the **Like **button at the top of their page. When you like a page, they’ll see that you’ve liked them, and they might like you back. You’ll also start to see updates about what they’re doing in your news feed. It’s worthwhile ‘liking’ a couple of dozen organisations and businesses because it’s a good way of getting news updates from organisations e.g. Department of Agriculture, Australian Organic, MLA or other food movements. It’s also a good way to get access to interesting content, that you can share on your own page. If you’re new to Facebook you might also want to like other farm pages, to get some ideas from how other farmers are using Facebook.
+In the search bar at the top of your page, search for other farms and organisations that you want to connect with. When you find one you’re interested in, click the **Like **button at the top of their page. When you like a page, they’ll see that you’ve liked them, and they might like you back. You’ll also start to see updates about what they’re doing in your news feed. It’s worthwhile ‘liking’ a couple of dozen organisations and businesses because it’s a good way of getting news updates from organisations e.g. Department of Agriculture, MLA or other food movements. It’s also a good way to get access to interesting content, that you can share on your own page. If you’re new to Facebook you might also want to like other farm pages, to get some ideas from how other farmers are using Facebook.
 
 Note: As a business page on Facebook, rather than a personal profile, you can’t become friends with people, you can only ‘like’ other businesses. But people can ‘like’ you.
 
@@ -61,7 +61,7 @@ It’s important to be authentic on Facebook. You want to create a page which re
 
 # 5 star farm Facebook pages
 
-Need some ideas, check out what other farmers are doing to engage their customers and create interest in their products. Here are just a few of the great facebook pages out there:
+Need some ideas, check out what other farmers are doing to engage their customers and create interest in their products. Here are just a few of the great Facebook pages out there:
 
 [https://www.facebook.com/MountainViewOrganicDairy](https://www.facebook.com/MountainViewOrganicDairy)
 
