@@ -1,6 +1,6 @@
 # Enterprise to Enterprise permissions \(E2Es\)
 
-Within the OFN there are rules which govern the trading relationships between enterprises, which we call Enterprise to Enterprise permissions \(E2E\). Certain ‘permissions’ must be granted before an enterprise can act as a supplier to another enterprise. Similarly, before an enterprise can distribute on behalf of an enterprise they must also grant the appropriate E2Es.
+Within the FFW there are rules which govern the trading relationships between enterprises, which we call Enterprise to Enterprise permissions \(E2E\). Certain ‘permissions’ must be granted before an enterprise can act as a supplier to another enterprise. Similarly, before an enterprise can distribute on behalf of an enterprise they must also grant the appropriate E2Es.
 
 This article provides a description of the different types of E2E permissions. Users may also find it useful to look at the hub-specific, producer specific and buying-group specific examples provided in the tabs, accessible at the top of the page.
 
@@ -26,13 +26,13 @@ There are four different kinds of E2E permissions. Applying these E2Es in differ
 
 ## Granting and Managing E2Es {#grantingandmanagingE2Es}
 
-To grant, view and delete your E2E permissions, click on **Enterprises**in the blue horizontal menu, and then **Enterprise Relationships **in the green horizontal menu \(below\). Here you can view any E2E permissions that you have established previously, grant new ones or delete them.
+To grant, view and delete your E2E permissions, click on **Enterprises **in the blue horizontal menu, and then **Enterprise Relationships **in the green horizontal menu \(below\). Here you can view any E2E permissions that you have established previously, grant new ones or delete them.
 
-If you need another enterprise to grant you and E2E permission, you must contact them \(via email or phone\) and request for them to grant you permission through their account. There is no way of requesting permission from within the OFN, and you cannot grant E2Es from an enterprise if you are not the owner/manager.
+If you need another enterprise to grant you and E2E permission, you must contact them \(via email or phone\) and request for them to grant you permission through their account. There is no way of requesting permission from within the FFW, and you cannot grant E2Es from an enterprise if you are not the owner/manager.
 
 **Granting E2E permissions**
 
-In the first column, select the enterprise name you want to grant the permission \(in this menu you’ll only see enterprises you own/manage\). Then in the third column select the enterprise that you wish to give permission to \(in this menu you will see all enterprises on the OFN\). Then click on the types of permission you wish to grant in the right hand column. You can select any combination, or ‘everything’ to select all. Then hit **create.** You can also delete permissions and replace them at any time.
+In the first column, select the enterprise name you want to grant the permission \(in this menu you’ll only see enterprises you own/manage\). Then in the third column select the enterprise that you wish to give permission to \(in this menu you will see all enterprises on the FFW\). Then click on the types of permission you wish to grant in the right hand column. You can select any combination, or ‘everything’ to select all. Then hit **create.** You can also delete permissions and replace them at any time.
 
 [![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Granting-E2Es.png "Granting E2Es")](https://openfoodnetwork.org/wp-content/uploads/2015/05/Granting-E2Es.png)
 
@@ -52,7 +52,7 @@ The system is configured so that hubs creating producer profiles will have the c
 
 If a user owns a hub enterprise, and then creates a producer enterprise, automatically the new producer will grant the hub P-OC and P-I.
 
-Similarly, if a users owns a producer enterprise, and then creates a hub, the producer will automatically grant the hub P-OC and P-I.
+Similarly, if a user owns a producer enterprise, and then creates a hub, the producer will automatically grant the hub P-OC and P-I.
 
 _Do you distribute through buying groups? If so make sure to check out the E2E requirements for buying groups below._
 
