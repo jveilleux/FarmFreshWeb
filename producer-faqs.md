@@ -8,7 +8,7 @@ The FFW functions as a directory, advertising platform, and an online marketplac
 
 A profile on the FFW is the simplest option, and offers a way for producers to market themselves. The profile can be used to promote your products and services, share your story and provide contact details. A profile makes you visible and contactable to customers and other enterprises who might wish to trade with you. Producers with a profile can also add products, which hub enterprises can then stock in their stores.
 
-   2.  A Shopfront
+1. A Shopfront
 
 An FFW shop, is like a profile, but it also includes all the functions needed for producers to sell directly to customers online. This includes the online shopfront with full checkout capabilities as well as behind the scenes tools to aid in administration, such as reporting of payments and inventory. The FFW is a network, so it allows shops to be connected with other shops. This way a producer can be stocking their products in their own independent store, as well as through a number of hub shops.
 
@@ -93,7 +93,7 @@ Yes, you can restrict access to your shop to approved customers only.
 
 #### Why doesn't my profile show up when I filter for producers of meat on the producer listing page?
 
-The filter tool on the producer listing page allows customers to search for producers of certain product categories \(ie Fruit, or Meat\). The filter tool works by looking at the products that are assigned to each producer’s profile. If a producer has an online shop, their products will already be in the system. But if you only have a profile, this filter tool won’t capture you, until you add some dummy products. Once you have dummy products set up for the product categories that you produce, you’ll be captured by this filter tool.
+The filter tool on the producer listing page allows customers to search for producers of certain product categories \(i.e. Fruit, or Meat\). The filter tool works by looking at the products that are assigned to each producer’s profile. If a producer has an online shop, their products will already be in the system. But if you only have a profile, this filter tool won’t capture you, until you add some dummy products. Once you have dummy products set up for the product categories that you produce, you’ll be captured by this filter tool.
 
 #### How can I tell my customers about how my shop works? Including my delivery terms and conditions etc?
 
