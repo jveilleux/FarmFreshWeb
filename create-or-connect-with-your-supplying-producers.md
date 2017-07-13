@@ -32,15 +32,15 @@ This will take you to the same form that we saw in the ‘Your Profile’ sectio
 
 **Name:** Enter the name of the producer. If you get an error message saying that this name has already been taken, it means that there is already a profile for this producer. Therefore you can jump to option 2 below \([Supplying producer has a pre-existing FFW profile](/create-or-connect-with-your-supplying-producers.md)\).
 
-**Primary Producer:**Select this box, as you are adding a supplying producer.
+**Primary Producer: **Select this box, as you are adding a supplying producer.
 
-**Visible in Search:**You should discuss with the producer whether or not they wish to be visible on the FFW. If they wish to be invisible, their name and profile will still be shown next to their products in your shop, but they will not be searchable on the map or front-page lists.
+**Visible in Search: **You should discuss with the producer whether or not they wish to be visible on the FFW. If they wish to be invisible, their name and profile will still be shown next to their products in your shop, but they will not be searchable on the map or front-page lists.
 
-**Email and Phone:**This email and phone number will be visible on the profile. If this producer does not wish to be contacted by the public, then place your hub’s contact details here.
+**Email and Phone: **This email and phone number will be visible on the profile. If this producer does not wish to be contacted by the public, then place your hub’s contact details here.
 
-**About Us:**Remember the FFW is all about putting transparency into the food system and customers are increasingly interested in where their food has come from. Therefore, it pays to add plenty of detail about your producers and what makes them unique.
+**About Us: **Remember the FFW is all about putting transparency into the food system and customers are increasingly interested in where their food has come from. Therefore, it pays to add plenty of detail about your producers and what makes them unique.
 
-**Images:**We strongly recommend that all profiles have both logo and promo images. These images make the online experience for customers more enjoyable and engaging, and also lend credibility to the enterprises.
+**Images: **We strongly recommend that all profiles have both logo and promo images. These images make the online experience for customers more enjoyable and engaging, and also lend credibility to the enterprises.
 
 ## 2\) Supplying producer has a pre-existing FFW profile {#supplyingproducer}
 
