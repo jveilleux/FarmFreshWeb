@@ -10,7 +10,7 @@ The following screenshot shows the dashboard view for a profile-only user.
 
 The following screenshot shows the dashboard view for a shopfront user, with additional features for running and managing an online shop.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Dashboard-Shop.png "Dashboard \(Shop\)")
+![](/assets/Dashboard-Shop_The Dashboard_new.png "Dashboard \(Shop\)")
 
 From the dashboard you can edit the ‘[type](/producer-profile-types.md)’ of Profile you want, by clicking on **Change Package.**
 
