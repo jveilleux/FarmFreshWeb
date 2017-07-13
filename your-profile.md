@@ -4,7 +4,7 @@ Whether you are a profile only user, or you intend to have an online shop, youâ€
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Access-Profile-Edit-Hub.png "Access Profile Edit Hub")
 
-Remember to click Update within each section to save your changes. ![](http://openfoodfoundation.org/sites/default/files/Update_0.png)
+Remember to click Update within each section to save your changes. 
 
 #### Primary Details
 
