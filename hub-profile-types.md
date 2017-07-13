@@ -2,7 +2,7 @@
 
 When you first create your profile, you’ll be prompted to select the ‘type’ of profile you want. Your selection here dictates the functionality that your profile will have.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Two-hub-types.png "Two hub type options")
+![](/assets/Two-hub-types new.png "Two hub type options")
 
 _\* Note: The above relates to Australian users only. Local instances may vary._
 
