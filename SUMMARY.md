@@ -13,7 +13,7 @@
 * [Buying Group](buying-group.md)
 * [Multi-Farm Shop](multi-farm-shop.md)
 * [Create an account](create-an-account.md)
-* [Hub profile types](hub-profile-types.md)
+* [Farmers Market profile types](hub-profile-types.md)
 * [The dashboard](the-dashboard.md)
 * [Your profile](your-profile.md)
 * [Create or connect with your supplying producers](create-or-connect-with-your-supplying-producers.md)
