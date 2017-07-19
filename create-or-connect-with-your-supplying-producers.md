@@ -6,7 +6,7 @@ All products on the FFW must ‘belong’ to an FFW producer profile. This is an
 
 [![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Source-Identified.png "Source Identified")](https://openfoodnetwork.org/wp-content/uploads/2015/05/Source-Identified.png)
 
-So as a hub, what do you need to do before adding your products? Well, there are two possibilities, depending on whether or not your supplying producer already has an FFW profile.
+So as a farmers market, what do you need to do before adding your products? Well, there are two possibilities, depending on whether or not your supplying producer already has an FFW profile.
 
 How do I know if my producer has an FFW profile? Go to www.farmfreshweb.com/producers and search for them.
 
@@ -16,7 +16,7 @@ If a supplying producer does not have a profile on the FFW, you can create one o
 
 ### Things to consider before creating a producer profile:
 
-Before creating a profile for your supplying producers you should contact them and let them know that you are creating a profile for them on the FFW. They may wish to be involved in the process and even take some responsibility for managing the profile and their products etc. But most commonly producers will prefer that hubs own and manage their profiles for them.
+Before creating a profile for your supplying producers you should contact them and let them know that you are creating a profile for them on the FFW. They may wish to be involved in the process and even take some responsibility for managing the profile and their products etc. But most commonly producers will prefer that farmers markets own and manage their profiles for them.
 
 Be sure to ask the producer what information they would like shared on their profile. You can often take text and images from their existing websites or social media sites, however you should always ask permission before using any of their content. Once you have their information in front of you, a profile should take you no more than 10 minutes to create.
 
@@ -24,7 +24,7 @@ _Before you can create a producer profile you’ll need to email us. This is a s
 
 ### Creating a producer profile:
 
-You can create a new profile for a producer by clicking on **Enterprises **in the horizontal blue banner, and then clicking **+ New Enterprise**. Remember ‘enterprise’ is a general term used for any producer or hub profile on the FFW.
+You can create a new profile for a producer by clicking on **Enterprises **in the horizontal blue banner, and then clicking **+ New Enterprise**. Remember ‘enterprise’ is a general term used for any producer or farmers market profile on the FFW.
 
 [![](https://openfoodnetwork.org/wp-content/uploads/2015/05/New-Enterprise.png "New Enterprise button")](https://openfoodnetwork.org/wp-content/uploads/2015/05/New-Enterprise.png)
 
@@ -36,7 +36,7 @@ This will take you to the same form that we saw in the ‘Your Profile’ sectio
 
 **Visible in Search: **You should discuss with the producer whether or not they wish to be visible on the FFW. If they wish to be invisible, their name and profile will still be shown next to their products in your shop, but they will not be searchable on the map or front-page lists.
 
-**Email and Phone: **This email and phone number will be visible on the profile. If this producer does not wish to be contacted by the public, then place your hub’s contact details here.
+**Email and Phone: **This email and phone number will be visible on the profile. If this producer does not wish to be contacted by the public, then place your farmers market contact details here.
 
 **About Us: **Remember the FFW is all about putting transparency into the food system and customers are increasingly interested in where their food has come from. Therefore, it pays to add plenty of detail about your producers and what makes them unique.
 
@@ -44,9 +44,9 @@ This will take you to the same form that we saw in the ‘Your Profile’ sectio
 
 ## 2\) Supplying producer has a pre-existing FFW profile {#supplyingproducer}
 
-If a supplying producer already has an FFW profile, you will need to get their permission to add products to their profile \(if they haven’t already\) and to stock them in your shop. You will be able to find their contact details on their FFW profile. Keep in mind that the producer profile could be managed by another hub, but this is not a problem- the FFW can accommodate two hubs stocking the same producer’s products in their separate shops.
+If a supplying producer already has an FFW profile, you will need to get their permission to add products to their profile \(if they haven’t already\) and to stock them in your shop. You will be able to find their contact details on their FFW profile. Keep in mind that the producer profile could be managed by another farmers market, but this is not a problem- the FFW can accommodate two farmers markets stocking the same producer’s products in their separate shops.
 
-Within the FFW, [Enterprise to Enterprise Permissions \(E2E\)](/enterprise-to-enterprise-permissions-e2es.md) are used to control the nature of trading agreements between producers and hubs. Producers can grant hubs different kinds of E2E permissions, in different combinations, to specify exactly which elements of their account the hub can interact with. At the simplest level a producer can grant a hub permission to stock their products in the hub’s shop. They may also be happy to allow the hub to create and modify their products, or edit their profile.
+Within the FFW, [Enterprise to Enterprise Permissions \(E2E\)](/enterprise-to-enterprise-permissions-e2es.md) are used to control the nature of trading agreements between producers and hubs. Producers can grant farmers markets different kinds of E2E permissions, in different combinations, to specify exactly which elements of their account the farmers market can interact with. At the simplest level a producer can grant a farmers market permission to stock their products in the farmers market's shop. They may also be happy to allow the farmers market to create and modify their products, or edit their profile.
 
 [This page](/enterprise-to-enterprise-permissions-e2es.md) covers all of the details of the different E2E permissions available. Discuss with the producer which permissions you require. Instruction for how the producer can then then grant the agreed upon E2E permissions can be found [here](/enterprise-to-enterprise-permissions-e2es.md).
 
