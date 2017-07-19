@@ -1,4 +1,4 @@
-# [ ](https://openfoodnetwork.org/about/organisation/)Hub set-up guide
+# [ ](https://openfoodnetwork.org/about/organisation/)Farmers Market set-up guide
 
 ## Steps for creating and editing a hub profile:
 

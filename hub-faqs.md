@@ -1,21 +1,21 @@
-# Hub FAQs
+# Farmers Market FAQs
 
 ## General FAQs
 
-#### Does the FFW operate hubs?
+#### Does the FFW operate Farmers Markets?
 
-No the FFW doesn’t actually operate hubs, we just provide the software for enterprises such as food hubs, and producers to use. We do have lots of experience in running food hubs though, so understand the unique challenges and needs facing food distribution enterprises.
+No the FFW doesn’t actually operate Farmers Markets, we just provide the software for enterprises such as farmers markets, and producers to use. We do have lots of experience in running farmers markets though, so understand the unique challenges and needs facing food distribution enterprises.
 
 #### What is involved in being a food hub?
 
-Food hubs come in many different shapes and sizes, and include farmers markets, food coops, buying groups, farm gate stalls and more. You can chose how you want to run your hub, but essentially a food hub sources and sells to its community. Each hub is configured differently, and each chooses who they will source from, who their customers will be, how delivery or collection will be organised, payment methods, mark ups, fees etc.
+Farmers markets come in many different shapes and sizes, and include food hubs, food coops, buying groups, farm gate stalls and more. You can chose how you want to run your hub, but essentially a farmers market sources and sells to its community. Each farmers market is configured differently, and each chooses who they will source from, who their customers will be, how delivery or collection will be organised, payment methods, mark ups, fees etc.
 
 #### What's the difference between the FFW and other online store options?
 
 We think the FFW is pretty great, and unique to other options out there!
 
 * **Networked-**
-  The FFW differs from private online shops in that they can be networked with other enterprises. Food hubs stock the produce of multiple producers and customers can always see where their food has come from.
+  The FFW differs from private online shops in that they can be networked with other enterprises. Farmers markets stock the produce of multiple producers and customers can always see where their food has come from.
 * **Exposure-**
   The FFW has a directory functionality, so customers landing on our homepage may be driven to your store if your offerings match their search terms, or if you’re located close by to them. The FFW is a centralized place for people looking to access great, local produce, giving participating enterprises exposure to a wider customer base.
 * **Food enterprise specific-**
@@ -23,7 +23,7 @@ We think the FFW is pretty great, and unique to other options out there!
 * **Flexible-**
   The FFW is flexible in accommodating all kinds of shipping/collection and payment methods. Some online store offerings are restricted in the kinds of shipping and payment methods that can be accepted \(for example, limited strictly to postage\).
 * **Room to grow-**
-   Hubs can start with a profile, and easily build up to start selling to others, opening their own online store and starting to connect with growing numbers of suppliers. Once you have a profile, you can easily open your own store, and link with other groups, like customer buying groups, something that most software options cannot offer.
+   Farmers markets can start with a profile, and easily build up to start selling to others, opening their own online store and starting to connect with growing numbers of suppliers. Once you have a profile, you can easily open your own store, and link with other groups, like customer buying groups, something that most software options cannot offer.
 
 #### What is an FFW profile? What is an FFW shopfront? What's the difference?
 
@@ -33,7 +33,7 @@ The FFW functions as a directory, advertising platform, and an online marketplac
 
 A profile on the FFW is the simplest option, and offers a way for enterprises to market themselves. The profile can be used to promote your products and services, share your story and provide contact details. A profile makes you visible and contactable to customers and other enterprises who might wish to trade with you.
 
-   2. A Shopfront
+1. A Shopfront
 
 You have the option of adding an FFW shop onto your profile, giving you all the functions needed to run an online store. This includes the online shopfront with full checkout capabilities as well as behind the scenes tools to aid in administration, such as reporting of payments and inventory. The FFW works as a network, so all hubs are connected to the profiles of their supplying producers. It’s also designed to accommodate all different hub models, from the small and simple, to the large and complex.
 
@@ -47,13 +47,13 @@ Check out our feature list page, which describes the full functionalities of an 
 
 The FFW doesn’t dictate a payment method, and you can use any arrangement that works for you. Enterprises can also use manual methods including invoicing, cash on collection and direct deposit.
 
-#### Do hubs only source organic produce?
+#### Do farmers markets only source organic produce?
 
-Hubs choose who they source from and who they sell to. They may chose to only source and supply organics, or they may choose conventional, or a bit of both, depending on their customers’ needs.
+Farmers markets choose who they source from and who they sell to. They may chose to only source and supply organics, or they may choose conventional, or a bit of both, depending on their customers’ needs.
 
 #### Which farmers will supply a hub?
 
-The FFW doesn’t ‘match-make’ hubs with farmers. Rather we make connecting easier, by making it possible for groups to find one another and connect and trade. Check out the FFW map to find producers in your area, and view their profiles to find contact details.
+The FFW doesn’t ‘match-make’ farmers markets with farmers. Rather we make connecting easier, by making it possible for groups to find one another and connect and trade. Check out the FFW map to find producers in your area, and view their profiles to find contact details.
 
 #### Can we embed the FFW in an existing website?
 
@@ -61,15 +61,15 @@ In regards to embedding an FFW shopfront into your existing website, at the mome
 
 #### I'm a wholesaler, can I get involved?
 
-As a wholesaler you could certainly get set up on the FFW with a profile, and an online shopfront if that’s what you’re looking for. On the FFW we class enterprises that distribute/sell produce produced by others as “hubs”. This includes wholesalers, as well as lots of other kinds of enterprises, like buying groups, food coops and retailers.
+As a wholesaler you could certainly get set up on the FFW with a profile, and an online shopfront if that’s what you’re looking for. On the FFW we class enterprises that distribute/sell produce produced by others as farmers markets. This includes wholesalers, as well as lots of other kinds of enterprises, like buying groups, food coops and retailers.
 
 #### We are a Food Collective seeking an ecommerce solution to streamline our order processing, could the FFW help us?
 
-Yes, the FFW  is designed to make the processes of taking and managing orders and stock easier.  A food collective would be established as a hub on the FFW, with its own shopfront. In contrast to taking order through email or online forms, the FFW's checkout process is very easy to use for customers, and has the added advantage of generating order reports, which reduces the administration burden for the hub.
+Yes, the FFW  is designed to make the processes of taking and managing orders and stock easier.  A food collective would be established as a farmers market on the FFW, with its own shopfront. In contrast to taking order through email or online forms, the FFW's checkout process is very easy to use for customers, and has the added advantage of generating order reports, which reduces the administration burden for the farmers market.
 
-#### How long does it take to set up a hub on the FFW?
+#### How long does it take to set up a farmers market on the FFW?
 
-Each hub is different and set up times will depend on whether they hub is new, or simply transitioning to the FFW. It will also depend on the complexity of their sourcing, sales and distribution activities. Creating profiles for your suppliers who are not on the FFW can take some time, as can adding in your product range. But these are once off tasks, and once complete, administering day to day activities on the FFW is very efficient.
+Each farmers market is different and set up times will depend on whether the farmers market is new, or simply transitioning to the FFW. It will also depend on the complexity of their sourcing, sales and distribution activities. Creating profiles for your suppliers who are not on the FFW can take some time, as can adding in your product range. But these are once off tasks, and once complete, administering day to day activities on the FFW is very efficient.
 
 #### Does the FFW provide stores with data about their sales and orders?
 
