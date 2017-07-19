@@ -4,13 +4,13 @@ Whether you are a profile only user, or you intend to have an online shop, you�
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Access-Profile-Edit-Hub.png "Access Profile Edit Hub")
 
-Remember to click Update within each section to save your changes. 
+Remember to click Update within each section to save your changes.
 
 #### Primary Details
 
 **Name: **This is the name of your enterprise. It will be the title of your profile and store.
 
-**Primary Producer: **Select the producer box if your hub needs to add products which are ‘produced’ by your hub. If you do not select this option you’ll only be able to sell products that are produced by others. Hubs most commonly need to select this option when selling mixed boxes which they pack, that include items from multiple producers.
+**Primary Producer: **Select the producer box if your farmers market needs to add products which are ‘produced’ by your farmers market. If you do not select this option you’ll only be able to sell products that are produced by others. Farmers markets most commonly need to select this option when selling mixed boxes which they pack, that include items from multiple producers.
 
 **Visible in Search: **If your profile is ready to go public, select visible. If you’re still making adjustments, select not visible, until you are ready.
 
