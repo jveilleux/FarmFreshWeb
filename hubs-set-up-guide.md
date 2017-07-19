@@ -5,11 +5,11 @@
 1. [Create an account.](/create-an-account.md)
 2. [Select the ‘type’ of profile you’d like.](/hub-profile-types.md)
 3. [Head to your ‘Dashboard’](/the-dashboard.md)  \(the administration side of your new account\).
-4. [Update your hub’s profile](/your-profile.md)  on the FFW with your basic information, contact details and pictures.
+4. [Update your farmers market’s profile](/your-profile.md)  on the FFW with your basic information, contact details and pictures.
 
 ## Steps for establishing a hub shop \(farmers markets\):
 
-The following steps are only relevant to hubs who wish to establish an online shop. Profile only users can stop at step 4.
+The following steps are relevant to farmers markets who wish to establish an online shop. Profile only users can stop at step 4.
 
 1. [Create profiles for, or connect with your supplying producers.](/create-or-connect-with-your-supplying-producers.md) 
    You need to do this before you can add your products.
