@@ -1,4 +1,4 @@
-# Hub profile types
+# Farmers Market profile types
 
 When you first create your profile, you’ll be prompted to select the ‘type’ of profile you want. Your selection here dictates the functionality that your profile will have.
 
