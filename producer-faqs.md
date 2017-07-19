@@ -6,22 +6,22 @@ The FFW functions as a directory, advertising platform, and an online marketplac
 
 1. A Profile.
 
-A profile on the FFW is the simplest option, and offers a way for producers to market themselves. The profile can be used to promote your products and services, share your story and provide contact details. A profile makes you visible and contactable to customers and other enterprises who might wish to trade with you. Producers with a profile can also add products, which hub enterprises can then stock in their stores.
+A profile on the FFW is the simplest option, and offers a way for producers to market themselves. The profile can be used to promote your products and services, share your story and provide contact details. A profile makes you visible and contactable to customers and other enterprises who might wish to trade with you. Producers with a profile can also add products, which farmers markets can then stock in their stores.
 
-    2. A Shopfront
+1. A Shopfront
 
-An FFW shop, is like a profile, but it also includes all the functions needed for producers to sell directly to customers online. This includes the online shopfront with full checkout capabilities as well as behind the scenes tools to aid in administration, such as reporting of payments and inventory. The FFW is a network, so it allows shops to be connected with other shops. This way a producer can be stocking their products in their own independent store, as well as through a number of hub shops.
+An FFW shop, is like a profile, but it also includes all the functions needed for producers to sell directly to customers online. This includes the online shopfront with full checkout capabilities as well as behind the scenes tools to aid in administration, such as reporting of payments and inventory. The FFW is a network, so it allows shops to be connected with other shops. This way a producer can be stocking their products in their own independent store, as well as through a number of farmers markets.
 
 #### How can farmers make use of the FFW?
 
-The FFW can help farmers access a greater diversity of markets. This can be through direct sales, or through intermediary hubs or retailers, who perform the sales and logistics functions. The FFW enables transparency in the supply chain. Because all food traded on the FFW must be linked to the farmer who produced it, customers can see where their food originated from and how it was produced. In FFW shopfronts, the pricing is also transparent, so customers can see what cut of the sale price went to the producer. Our ultimate goal is fair price to farmers and affordable, good food for eaters.
+The FFW can help farmers access a greater diversity of markets. This can be through direct sales, or through intermediary farmers markets or retailers, who perform the sales and logistics functions. The FFW enables transparency in the supply chain. Because all food traded on the FFW must be linked to the farmer who produced it, customers can see where their food originated from and how it was produced. In FFW shopfronts, the pricing is also transparent, so customers can see what cut of the sale price went to the producer. Our ultimate goal is fair price to farmers and affordable, good food for eaters.
 
 #### What's the difference between the FFW and other online store / ecommerce options?
 
 We think the FFW is pretty great, and unique to other options out there!
 
 * **Networked-**
-  The FFW differs from private online shops in that they can be networked with other enterprises. Producers have the option of selling through their own, independently run store, but they can also choose to sell through another enterprise. Food hubs stock the produce of multiple producers and offer them more exposure and greater market access than they can achieve on their own.
+  The FFW differs from private online shops in that they can be networked with other enterprises. Producers have the option of selling through their own, independently run store, but they can also choose to sell through another enterprise. Farmers markets stock the produce of multiple producers and offer them more exposure and greater market access than they can achieve on their own.
 * **Exposure-**
   The FFW has a directory functionality, so customers landing on our homepage may be driven to your store if your offerings match their search terms, or if you’re located close by to them. The FFW is a centralized place for people looking to access great, local produce, giving participating producers exposure to a wider customer base.
 * **Food enterprise specific-**
@@ -37,13 +37,13 @@ Producers can create a professional and affordable online shop on the FFW, and b
 
 #### I'm thinking of setting up an online store to sell my products which I usually sell through farmers markets, would the FFW be suitable?
 
-A FFW online store is a good addition for producers who are already doing direct sales through farmer’s markets. The online store enables customers to order in advance, for a quick pick up at the market, and to access your products outside of market times. Some producers also find that the online store is preferable for hospitality customers who cannot attend markets.
+A FFW online store is a good addition for producers who are already doing direct sales through farmers markets. The online store enables customers to order in advance, for a quick pick up at the market, and to access your products outside of market times. Some producers also find that the online store is preferable for hospitality customers who cannot attend markets.
 
-#### I'm a producer and I want to sell my products through a hub, how can I go about this?
+#### I'm a producer and I want to sell my products through a farmers market, how can I go about this?
 
-The FFW aims to facilitate producers and hubs working together and forming networks of food movement and trade. We encourage producers to search for hubs in their area \(on the FFW map\) who could be compatible trading partners \(check out their profiles\).
+The FFW aims to facilitate producers and farmers markets working together and forming networks of food movement and trade. We encourage producers to search for farmers markets in their area \(on the FFW map\) who could be compatible trading partners \(check out their profiles\).
 
-To supply a hub, the producer must have a profile on the FFW and add their products to that profile. They must also make contact with the hub they wish to supply to discuss the agreement. If the hub is willing to stock the products, you can grant the hub permission to stock your products in the FFW E2E permissions. The hub can then add your products to their FFW shop front and start selling them!
+To supply a farmers market, the producer must have a profile on the FFW and add their products to that profile. They must also make contact with the farmers market they wish to supply to discuss the agreement. If the farmers market is willing to stock the products, you can grant the farmers market permission to stock your products in the FFW E2E permissions. The farmers market can then add your products to their FFW shop front and start selling them!
 
 #### I'm already selling my products directly to customers via an online shop, how can I get involved with the FFW?
 
@@ -53,7 +53,7 @@ Check out our feature list page, which describes the full functionalities of an 
 
 #### We have infrequent and unpredictable surplus stock which we'd like to sell, how could we do this through the FFW?
 
-Producers with an FFW profile can add products, which hubs can then sell through their FFW shopfronts. If you have irregular surplus stock, you can talk to hubs to arrange for them to stock your produce when you have it on hand.
+Producers with an FFW profile can add products, which farmers markets can then sell through their FFW shopfronts. If you have irregular surplus stock, you can talk to farmers markets to arrange for them to stock your produce when you have it on hand.
 
 #### We deliver weekly vegie boxes to customers and our orders are currently placed by email. Would the FFW be suitable for us?
 
@@ -65,7 +65,7 @@ There are a number of potential paths you could take:
 
 1. Each farmer within the farmers market can establish their own profile and online shop on the FFW. The farmers market’s website could then promote links to these independently run shops.
 2. The farmer’s markets could create a **group page **on the FFW. This is an umbrella profile, which can house the profiles and stores of member producers. With a unique URL and landing page, this group site allows for collective marketing and promotions.
-3. Farmer’s market groups who are willing to cooperate and work together can establish a hub. This hub has a single shopfront offering the entire product range of participating producers. Finding a way to coordinate the logistics of incoming and outgoing products can require some creative thinking, but using the farmer’s market days as a chance to aggregate and pack orders is one simple option.
+3. Farmer’s market groups who are willing to cooperate and work together can establish a farmers market. This farmers market has a single shopfront offering the entire product range of participating producers. Finding a way to coordinate the logistics of incoming and outgoing products can require some creative thinking, but using the farmer’s market days as a chance to aggregate and pack orders is one simple option.
 
 #### How is payment received in an FFW online shop?
 
