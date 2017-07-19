@@ -9,7 +9,7 @@
 * [Producer FAQs](producer-faqs.md)
 * [Farmers Market FAQs](hub-faqs.md)
 * [Case studies](case-studies.md)
-* [Farmers’ Markets](farmers-markets.md)
+* [Farmers’ Market](farmers-markets.md)
 * [Buying Group](buying-group.md)
 * [Multi-Farm Shop](multi-farm-shop.md)
 * [Create an account](create-an-account.md)
