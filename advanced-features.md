@@ -1,6 +1,6 @@
 # Advanced Features
 
-The [producer](/producer-set-up-guide.md) and [hub](/hubs-set-up-guide.md) set-up guides will walk you through the Farm Fresh Web’s basic features for enterprise users. Once you have familiarized yourself with these basic functionalities you can explore some of the more advanced features here.
+The [producer](/producer-set-up-guide.md) and [farmers market ](/hubs-set-up-guide.md)set-up guides will walk you through the Farm Fresh Web’s basic features for enterprise users. Once you have familiarized yourself with these basic functionalities you can explore some of the more advanced features here.
 
 ### Your Profile
 
@@ -17,7 +17,7 @@ The [producer](/producer-set-up-guide.md) and [hub](/hubs-set-up-guide.md) set-u
   [Read more](/pricing-irregular-indivisible-meat-items.md)
 * Apply ‘product properties’ to your products so customers can see which items are organic, spray free, free range etc.
   [Read more](/product-properties.md)
-* Use the inventory tool when you need more flexibility in your product management. This feature enables hubs to over-ride some details of their supplier’s products including price and SKU.
+* Use the inventory tool when you need more flexibility in your product management. This feature enables farmers markets to over-ride some details of their supplier’s products including price and SKU.
   [Read more](/inventory.md)
 * Use the group buy feature to aid in the administration of products which are purchased in bulk.
   [Read more](/group-buy.md)
