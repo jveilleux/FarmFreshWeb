@@ -10,7 +10,7 @@ Click **Enterprises **in the blue horizontal menu, and then click **Manage **nex
 
 ## Creating a new shipping method
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/New-Shipping-Method.png)
+![](/assets/20-ShippingMethods-2-New-Shipping-Method_old.png)
 
 The first step in setting up a Shipping Method is to tick your enterprise, in the box on the right hand side of the page titled Hubs.  This indicates that the shipping method you are about to create will apply to your enterprise.
 
