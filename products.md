@@ -24,13 +24,13 @@ This will take you to the New Product page.
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/New-Product2.png "New product page")
 
-**Supplier:**Select the enterprise who produces and supplies the product. Remember you’ll only be able to add products to producer profiles which you have created, or if you have been granted permission to manage the products of a pre-existing producer profile.
+**Supplier: **Select the enterprise who produces and supplies the product. Remember you’ll only be able to add products to producer profiles which you have created, or if you have been granted permission to manage the products of a pre-existing producer profile.
 
 **Product name: **This is the title of the product which will be displayed in the store.
 
 **Units: **What units is the product sold in? \(oz, lb, gal… or item \(bunch, bag, packet\)\)
 
-**Value:** What value of the above units is the product sold in? \( ie 100 ounces, 2 gal, 1 bunch\)
+**Value:** What value of the above units is the product sold in? \( i.e. 100 ounces, 2 gal, 1 bunch\)
 
 **Display As:** This field automatically shows you how the units and value fields will display, once you have filled the units and value fields. \(i.e. units = lb, value = 2, Display as = 2lb\)
 
@@ -40,9 +40,9 @@ If you have selected ‘**items**’ as your unit, the **display as** field will
 
 **Price:** Enter the price for the value noted above. Remember, this is the cost price charged by the producer. Mark-ups and fees are added in Enterprise Fees, Shipping Fees and Payment Methods.
 
-**On hand:**State how much/many of this product you have available and ready for sale. Use this field if you want to track your stock /inventory levels. As customers place orders, the stock level will reduce, and when the on hand amount reaches zero, the product will no longer be visible in your shop. If you don’t want to track inventory in this way, click on demand.
+**On hand: **State how much/many of this product you have available and ready for sale. Use this field if you want to track your stock /inventory levels. As customers place orders, the stock level will reduce, and when the on hand amount reaches zero, the product will no longer be visible in your shop. If you don’t want to track inventory in this way, click on demand.
 
-**On demand:**If you select this box, it will indicate that this product is always available. This stops the software from tracking inventory levels for products, and instead it will always show that the product is in stock.
+**On demand: **If you select this box, it will indicate that this product is always available. This stops the software from tracking inventory levels for products, and instead it will always show that the product is in stock.
 
 **Product description:** This allows you to tell your customers a little bit about this product.
 
@@ -50,7 +50,7 @@ If you have selected ‘**items**’ as your unit, the **display as** field will
 
 **Tax category: **If you would like the price of this product to include Tax, select **Tax **from the drop-down menu. The producer enterprise must be set to charge Tax in the profile settings to do this. If you leave this field blank, or select **none**, or not set the enterprise as being Tax registered, the price will not include Tax.
 
-Some examples of how to list different types of products, and how these listing will present in your online store are provided below.
+Some examples of how to list different types of products and how these listings will present in your online store are provided below.
 
 Note: For products usually sold by the lb, it’s best to list the product for sale in increments, of 10 ounce or higher, depending on the product. This makes it easier to list and prepare the order.
 
