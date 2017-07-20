@@ -44,6 +44,8 @@ To setup a PayPal payment method, you need a PayPal business or merchant account
 
 [![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Paypal-tools-API-credentials.png "Paypal tools API credentials")](https://openfoodnetwork.org/wp-content/uploads/2015/05/Paypal-tools-API-credentials.png)
 
+
+
 1. Click on ‘View API Signature’  and you will see the API details you’ll need to set up Paypal in FFW.
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/API-Access.png "API Access")
@@ -82,7 +84,7 @@ Set up of this service needs to be done through your bank.
 
 ## Fees on Payment Methods
 
-[![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Calculator.png "Calculator")](https://openfoodnetwork.org/wp-content/uploads/2015/05/Calculator.png)
+![](/assets/19-PaymentMethods-7-Calculator_old.png)
 
 You can attach a fee to payment methods. Most commonly this is used to pass on a payment fee to the customer, such as the PayPal charge. First you should select a fee calculator, then enter the value. A full description of the various fee calculators is below.
 
