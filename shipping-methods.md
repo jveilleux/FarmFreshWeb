@@ -30,7 +30,7 @@ By clicking **Create, **the shipping method will be created, and you will then b
 
 #### Fee Calculators
 
-**Weight \(per lb\) **– this fee is applied to products on a per kg basis. The fee will only be applied to products which are priced at a per lb rate, not products listed as items \(e.g. A product listed as ‘1 bunch of parsley’ will not receive this fee\)
+**Weight \(per lb\) **– this fee is applied to products on a per lb basis. The fee will only be applied to products which are priced at a per lb rate, not products listed as items \(e.g. A product listed as ‘1 bunch of parsley’ will not receive this fee\)
 
 **Flat Percent **– This fee is charged as a percentage of the total amount charged in the order.
 
