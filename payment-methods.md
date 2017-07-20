@@ -18,7 +18,7 @@ Then, the first step in setting up a Payment Method is to tick your enterprise, 
 
 **Description:** Here you can provide further details of the payment method. For instance, for a bank transfer, you would need to provide details of the bank account and request that customers provide you with the receipt number following payment. This description will be displayed at checkout and in order confirmation emails. An example of a description message displayed at checkout is shown below. The customer has selected ‘cash on collection/delivery’ and the ‘correct change…’ note is displayed.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Payment-at-checkout.png "Payment message displayed at checkout")
+![](/assets/19-PaymentMethods-2-Payment-at-checkout_old.png)
 
 **Active: **This field allows you to select whether this payment method will be currently visible and available.
 
