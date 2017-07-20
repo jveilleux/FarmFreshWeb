@@ -18,7 +18,7 @@ The first step in setting up a Shipping Method is to tick your enterprise, in th
 
 **Description:** Here you can provide further details about the shipping method. This will be visible to the customer when they checkout. For instance, the screenshot below shows that when this customer selects ‘collection from farm’, the grey box on the right hand side shows the description ‘We are happy for you to collect direct from the farm…’
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Shipping-view-at-checkout.png "Shipping view at checkout")
+![](/assets/20-ShippingMethods-3-Shipping-view-at-checkout_old.png)
 
 **Zone: **Select the appropriate zone.
 
