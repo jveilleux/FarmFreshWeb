@@ -4,7 +4,7 @@ This step is a necessary precursor to adding your products to your shop.
 
 All products on the FFW must ‘belong’ to an FFW producer profile. This is an important feature on the FFW, as it enables customers to trace the origin of products. An example of how this displays in the shopfront is shown below.
 
-[![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Source-Identified.png "Source Identified")](https://openfoodnetwork.org/wp-content/uploads/2015/05/Source-Identified.png)
+![](/assets/17-CreateOrConnect-1-Source-Identified_new.png)
 
 So as a farmers market, what do you need to do before adding your products? Well, there are two possibilities, depending on whether or not your supplying producer already has an FFW profile.
 
