@@ -4,7 +4,7 @@ Enterprise fees are most relevant to producers and hubs who are working together
 
 When an enterprise fee is applied, it will be added to the total price of the product, and customers will be able to view what percentage of the price is attributable to enterprise fees. They can do this in the store by clicking on the pie graph icon, next to each product. See below for an example.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Enterprsie-fee-in-shopfront.png "Enterprsie fee in shopfront")
+![](/assets/21-EnterpriseFees-1-Enterprsie-fee-in-shopfront_old.png)
 
 ## Accessing Enterprise Fees
 
