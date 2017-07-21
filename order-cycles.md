@@ -48,15 +48,13 @@ The **Add Fee **button is where you can apply an enterprise fee, belonging to th
 
 This fee will be applied to all of the Producer of Fruit’s products which are purchased. The fee is calculated according to the fee calculator which was selected when the [Enterprise Fee](/enterprise-fees.md) was created.
 
-
-
 ![](/assets/22-OrderCycles-6-Enterprise-Fee_old.png)
 
 ### Outgoing
 
-The distributor\(s\) selected in the outgoing section, will have a shopfront created from this order cycle. In simple hub models, there is only one distributor, the hub. So select the hub in the distributor column, and then select all products that should be visible in the online store during this order cycle. More complex hubs might have buying groups, in which case each is selected as a distributor, and will consequently have their own shopfront created. You then have the capacity to select specific products to be available in each buying group’s shop.
+The distributor\(s\) selected in the outgoing section, will have a shopfront created from this order cycle. In simple farmers market models, there is only one distributor, the farmers market. So select the farmers market in the distributor column, and then select all products that should be visible in the online store during this order cycle. More complex farmers markets might have buying groups, in which case each is selected as a distributor, and will consequently have their own shopfront created. You then have the capacity to select specific products to be available in each buying group’s shop.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Outoging-New.png "Outgoing Section")
+![](/assets/22-OrderCycles-7-Outoging-New_old.png)
 
 The **tags **column is where you can tag your order cycle \(see [Customer Accounts and Tagging](/customer-accounts-and-tagging.md)\).The **‘ready for \(ie Date/Time\)’ **box tells the customer when their order will be ready for either collection or delivery. If your order cycle is a perpetual one, which fulfills orders on an individual basis rather then in bulk, you should enter something like ‘Two days after order is received’. The example below shows how ‘Friday 9th’ is displayed in a store.
 
