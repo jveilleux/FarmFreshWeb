@@ -62,7 +62,9 @@ The **tags **column is where you can tag your order cycle \(see [Customer Accoun
 
 The note is also shown at check out, when the customer selects their shipping method \(see below\) and is included in the order confirmation email.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/shipping-info.png "Ready for info in email")
+
+
+![](/assets/22-OrderCycles-9-shipping-info_old.png)
 
 The **Pick-Up Instructions **message will be included in the customer’s order confirmation email, below the message that corresponds to their chosen shipping method \(see below\). This note is designed to only be visible to customers, so you can include more sensitive information like addresses, or phone numbers etc. See below for an example of the order confirmation email.
 
