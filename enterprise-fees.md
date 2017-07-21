@@ -20,17 +20,17 @@ Click **Enterprises **in the blue horizontal menu, and then click **Manage **nex
 
 **Fee Type: **Select the service that this fee applied to.
 
-**Name:**Choose a name for this fee.
+**Name: **Choose a name for this fee.
 
-**Tax Category:**Select the appropriate tax rate.
+**Tax Category: **Select the appropriate tax rate.
 
-**Calculator:**The fee can be calculated in a number of ways. Select the calculator which best applies.
+**Calculator: **The fee can be calculated in a number of ways. Select the calculator which best applies.
 
 Click Update, to create the enterprise fee. Once the fee has been created you can specify how the fee will be calcuated in the Calculator Values column.
 
 ### Fee Calculators
 
-[![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Fee-calculators.png "Fee calculators")](https://openfoodnetwork.org/wp-content/uploads/2015/05/Fee-calculators.png)
+![](/assets/21-EnterproseFees-4-Fee-calculators_old.png)
 
 **Weight \(per lb\) **– this fee is applied to products on a per lb basis. The fee will only be applied to products which are priced at a per lb rate, not products listed as items \(e.g. A product listed as ‘1 bunch of parsley’ will not receive this fee\)
 
