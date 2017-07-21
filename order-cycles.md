@@ -40,8 +40,6 @@ Select the coordinator of the order cycle. The enterprise which coordinates an o
 
 The incoming section is where you can select the producers, and their produce, which will be available in this order cycle. In the drop-down menu you will see all producers who have granted you permission to add their produce to your order cycle \(See _Relationships with Producers_ section for details\). After selecting a supplier and clicking **Add Supplier** all of the products associated with that supplier will be visible. Check those products you wish to add to the store, or click **select all. **Note: Products which have an ‘on hand’ value of zero \(no stock available\) will still be visible, so be careful to check that you have adequate on hand inventory for the products selected.
 
-
-
 ![](/assets/22-OrderCycles-5-Incomiing_old.png)
 
 The **Receival Details **fields are optional. If you wish to use the **Notify Producers **button, to send orders to your supplying producers, you should write your stock receival instructions here. \(more info in the Notify Producers section at the bottom of this page\).
@@ -50,7 +48,9 @@ The **Add Fee **button is where you can apply an enterprise fee, belonging to th
 
 This fee will be applied to all of the Producer of Fruit’s products which are purchased. The fee is calculated according to the fee calculator which was selected when the [Enterprise Fee](/enterprise-fees.md) was created.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Enterprise-Fee.png "Apply enterprise fee to incoming supplier")
+
+
+![](/assets/22-OrderCycles-6-Enterprise-Fee_old.png)
 
 ### Outgoing
 
