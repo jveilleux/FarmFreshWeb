@@ -10,11 +10,11 @@ When an enterprise fee is applied, it will be added to the total price of the pr
 
 Click **Enterprises **in the blue horizontal menu, and then click **Manage **next to your enterprise. Then, click Enterprise Fees in the menu on the left hand side.
 
-[](https://openfoodnetwork.org/wp-content/uploads/2015/05/Access-demo-farm.png)![](/assets/21-EnterpriseFees-2-Access-demo-farm_old.png)
+![](/assets/21-EnterpriseFees-2-Access-demo-farm_old.png)
 
 ## Adding Enterprise Fees
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Enterprise-Fees-Screenshot.png "Enterprise Fees Screenshot")
+![](/assets/21-EnterpriseFees-3-Enterprise-Fees-Screenshot_old.png)
 
 **Enterprise:** In the first column, select the enterprise who will receive this fee.
 
