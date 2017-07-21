@@ -44,7 +44,7 @@ _Note: You cannot set an order to ‘shipped’ unless that order’s Payment St
 
 On the right hand side of the listing view you can update the payment/shipping state of an order.
 
-Click on the tick icon to indicate that payment has been received \([![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Tick.png "paid")](https://openfoodnetwork.org/wp-content/uploads/2015/05/Tick.png)\).  
+Click on the tick icon to indicate that payment has been received \(![](/assets/23-ViewOrders-2-Tick_old.png)\).  
 Click on the road icon to indicate that the order has been shipped \(![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Shipped.png "Shipped button")\).  
 Click on the edit icon \([![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Edit-order.png "Edit order button")](https://openfoodnetwork.org/wp-content/uploads/2015/05/Edit-order.png)\) to edit an order and view more detailed information about it \(discussed below\).
 
