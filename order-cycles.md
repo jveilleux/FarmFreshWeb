@@ -34,15 +34,15 @@ Select the coordinator of the order cycle. The enterprise which coordinates an o
 
 **Add Coordinator Fee: **As a farmers market, the coordinator is most likely you. Here you can apply your Enterprise Fee which acts as the markup. The fee will be calculated according to the calculator selected in [Enterprise Fees](/enterprise-fees.md). You can only apply an enterprise fee which has previously been created.
 
-
-
 ![](/assets/22-OrderCycles-4-New-order-cycle-3_old.png)
 
 ### Incoming
 
 The incoming section is where you can select the producers, and their produce, which will be available in this order cycle. In the drop-down menu you will see all producers who have granted you permission to add their produce to your order cycle \(See _Relationships with Producers_ section for details\). After selecting a supplier and clicking **Add Supplier** all of the products associated with that supplier will be visible. Check those products you wish to add to the store, or click **select all. **Note: Products which have an ‘on hand’ value of zero \(no stock available\) will still be visible, so be careful to check that you have adequate on hand inventory for the products selected.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Incomiing.png "Incoming")
+
+
+![](/assets/22-OrderCycles-5-Incomiing_old.png)
 
 The **Receival Details **fields are optional. If you wish to use the **Notify Producers **button, to send orders to your supplying producers, you should write your stock receival instructions here. \(more info in the Notify Producers section at the bottom of this page\).
 
