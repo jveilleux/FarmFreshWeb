@@ -66,15 +66,13 @@ The note is also shown at check out, when the customer selects their shipping me
 
 The **Pick-Up Instructions **message will be included in the customer’s order confirmation email, below the message that corresponds to their chosen shipping method \(see below\). This note is designed to only be visible to customers, so you can include more sensitive information like addresses, or phone numbers etc. See below for an example of the order confirmation email.
 
-
-
 ![](/assets/22-OrderCycles-11-Collection-details_old.png)
 
 **Add Fee: **Again, a previously created enterprise fee can be assigned to this distributor.
 
 ### Create the order cycle, opening the shopfront
 
-Click Create to save this order cycle.![](http://openfoodfoundation.org/sites/default/files/create.png).
+Click Create to save this order cycle.
 
 **\*\* When you create an order cycle, and the opening and closing dates fall either side of the present, a shopfront will become live on the homepage. If you are not ready to have your store open, temporarily put the opening and closing dates in the past \(this can be edited when you are ready to open\).**
 
