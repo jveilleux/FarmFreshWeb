@@ -78,7 +78,9 @@ Click Create to save this order cycle.
 
 For periodic, repetitive order cycles, you can copy an existing order cycle and change the dates, to make the process quicker. See below.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/copy-order-cycle.png "duplicate an order cycle")
+
+
+![](/assets/22-OrderCycles-12-copy-order-cycle_old.png)
 
 Order cycles will display as green when they are active, yellow when schedules for a future date, and grey when they have closed. When an order cycle close over one month ago, it will no longer display on this list. To view all of your past order cycles click ‘show more’ at the top of the list.
 
