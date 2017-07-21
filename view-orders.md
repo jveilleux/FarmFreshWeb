@@ -8,7 +8,7 @@ The listing order page shows a list view of all orders placed through your shop\
 
 The page has filters which allow you to select which orders you want to view. You can filter by date, status or the email and name of the customer.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Listing-Orders1.png "Listing orders page")
+![](/assets/23-ViewOrders-1-Listing-Orders1_old.png)
 
 **Distributor: **This is the enterprise whose shop the order was placed through
 
