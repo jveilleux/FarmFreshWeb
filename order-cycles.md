@@ -22,7 +22,7 @@ Below is the first stage in creating an order cycle.
 
 \*Remember, you cannot create an order cycle until you have set up [shipment](/shipping-methods.md) and [payment](/payment-methods-2.md) methods.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Set-coordinator.png "Set order cycle coordinator")
+![](/assets/22-OrderCycles-3-Set-coordinator_old.png)
 
 Select the coordinator of the order cycle. The enterprise which coordinates an order cycle has full powers and permissions to edit and manage an order cycle. Other enterprises involved in the order cycle \(such as suppliers or distributors\) have restricted abilities to edit an order cycle \(for more information click here\). After the coordinator is selected, the subsequent order cycle will be restricted according to who has granted this coordinator permission to add them to an order cycle \(P-OC\).For more information about Enterprise to Enterprise permissions go here.
 
