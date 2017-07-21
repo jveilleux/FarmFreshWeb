@@ -58,7 +58,7 @@ The distributor\(s\) selected in the outgoing section, will have a shopfront cre
 
 The **tags **column is where you can tag your order cycle \(see [Customer Accounts and Tagging](/customer-accounts-and-tagging.md)\).The **‘ready for \(ie Date/Time\)’ **box tells the customer when their order will be ready for either collection or delivery. If your order cycle is a perpetual one, which fulfills orders on an individual basis rather then in bulk, you should enter something like ‘Two days after order is received’. The example below shows how ‘Friday 9th’ is displayed in a store.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Ready-for.png "ready for field")
+![](/assets/22-OrderCycles-8-Ready-for_old.png)
 
 The note is also shown at check out, when the customer selects their shipping method \(see below\) and is included in the order confirmation email.
 
