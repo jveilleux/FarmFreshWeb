@@ -64,7 +64,7 @@ The note is also shown at check out, when the customer selects their shipping me
 
 
 
-![](/assets/22-OrderCycles-9-shipping-info_old.png)
+![](/assets/22-OrderCycles-10-Order-conf-email_old.png)
 
 The **Pick-Up Instructions **message will be included in the customer’s order confirmation email, below the message that corresponds to their chosen shipping method \(see below\). This note is designed to only be visible to customers, so you can include more sensitive information like addresses, or phone numbers etc. See below for an example of the order confirmation email.
 
