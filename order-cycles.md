@@ -2,19 +2,19 @@
 
 In the FFW, you create an active online store within the ‘order cycle’ functionality. An order cycle is a duration of time when an online store is visible, open and can accept orders. Each time an order cycle is created, the owner of the store can select which products will be stocked in the store.
 
-Some hubs may wish to have an online store which is perpetually open, and to fulfill orders on a one by one basis, as they are received. However, many hubs operate on a periodic ordering system, which allows them to process orders in bulk, making their packing and distribution activities more efficient. Let’s use an example to illustrate a common periodic ordering cycle structure.
+Some farmers markets may wish to have an online store which is perpetually open, and to fulfill orders on a one by one basis, as they are received. However, many farmers markets operate on a periodic ordering system, which allows them to process orders in bulk, making their packing and distribution activities more efficient. Let’s use an example to illustrate a common periodic ordering cycle structure.
 
-For instance, each Monday morning a hub might assess the availability of their stock for the week. Based on this information they will create an order cycle by Monday afternoon and open their store. Customers can then place orders in their store, until the order cycle closes on Wednesday at midnight. On Thursday all of the orders can be packed by the hub and prepared for delivery on Friday. The following week the cycle will begin again, and with the creation of a new order cycle. By structuring order cycles in this way, and dealing with orders in bulk, hubs can make their ordering, sorting, packing and transport activities much more efficient than if they process orders individually as they are placed.
+For instance, each Monday morning a farmers market might assess the availability of their stock for the week. Based on this information they will create an order cycle by Monday afternoon and open their store. Customers can then place orders in their store, until the order cycle closes on Wednesday at midnight. On Thursday all of the orders can be packed by the farmers market and prepared for delivery on Friday. The following week the cycle will begin again, and with the creation of a new order cycle. By structuring order cycles in this way, and dealing with orders in bulk, hubs can make their ordering, sorting, packing and transport activities much more efficient than if they process orders individually as they are placed.
 
 ## Accessing Order Cycles
 
 You can create an order cycle, and view previous order cycles by clicking on **Manage Order Cycles **on your dashboard.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Order-Cycle.png)
+![](/assets/22-OrderCycles-1-Order-Cycle_old.png)
 
 Or from the horizontal menu at the top of the page.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Access-order-cycle.png "Access order cycle")
+![](/assets/22-OrderCycles-2-Access-order-cycle_old.png)
 
 ## Creating a New Order Cycle
 
