@@ -78,15 +78,13 @@ Click Create to save this order cycle.
 
 For periodic, repetitive order cycles, you can copy an existing order cycle and change the dates, to make the process quicker. See below.
 
-
-
 ![](/assets/22-OrderCycles-12-copy-order-cycle_old.png)
 
 Order cycles will display as green when they are active, yellow when schedules for a future date, and grey when they have closed. When an order cycle close over one month ago, it will no longer display on this list. To view all of your past order cycles click ‘show more’ at the top of the list.
 
 ##### ‘Notify Producers’ Button
 
-Some hubs use this tool as a way to notify their suppliers of which items have been ordered, in what quantities and also to give them receival instructions. Clicking this button will send the following email to the contact email of the producer’s profile. It is sent to all producers included in this order cycle and will sum all of the orders placed in that order cycle.
+Some farmers markets use this tool as a way to notify their suppliers of which items have been ordered, in what quantities and also to give them receival instructions. Clicking this button will send the following email to the contact email of the producer’s profile. It is sent to all producers included in this order cycle and will sum all of the orders placed in that order cycle.
 
 Dear**&lt;Producer’s Name&gt;**,
 
@@ -104,7 +102,7 @@ Here is a summary of the orders for your products:
 
 Thanks and best wishes,
 
-**&lt;Hub Name, address, phone number, email&gt;**
+**&lt;Farmers Market Name, address, phone number, email&gt;**
 
 ##### Advanced Settings
 
