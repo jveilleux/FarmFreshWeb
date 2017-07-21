@@ -30,7 +30,9 @@ Click Update, to create the enterprise fee. Once the fee has been created you ca
 
 ### Fee Calculators
 
-![](/assets/21-EnterproseFees-4-Fee-calculators_old.png)
+
+
+![](/assets/21-EnterproseFees-4-Fee-calculators__new.png)
 
 **Weight \(per lb\) **– this fee is applied to products on a per lb basis. The fee will only be applied to products which are priced at a per lb rate, not products listed as items \(e.g. A product listed as ‘1 bunch of parsley’ will not receive this fee\)
 
