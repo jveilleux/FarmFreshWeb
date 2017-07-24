@@ -122,17 +122,19 @@ Within Bulk Order Management, you can apply filters, so that only the orders tha
 
 **Producer:** You can filter for a given producer. This can narrow down the display, if you’re only interested in one product, supplied by one producer.
 
-**Hub: **You can filter according to the hub at which the order was placed.
+**Farmers Market: **You can filter according to the farmers market at which the order was placed.
 
 **Order Cycle:** Perhaps the most useful filter, the order cycle filter, will display only those orders which were placed within a selected order cycle.
 
-**Quick Search:** Before or after applying filters, you can narrow your search down even further by searching for a key word. This could be a name, product, hub, producer, date, order number…
+**Quick Search:** Before or after applying filters, you can narrow your search down even further by searching for a key word. This could be a name, product, farmers market, producer, date, order number…
 
 **Actions: **You can select the check-boxes of multiple orders, to perform a function to all of them, such as delete.
 
 **Columns:** You can select which fields you do or do not want to be displayed \(see below\)
 
-[![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Bulk-Order-Man-Columns.png "Bulk Order Management Columns")](https://openfoodnetwork.org/wp-content/uploads/2015/05/Bulk-Order-Man-Columns.png)
+[](https://openfoodnetwork.org/wp-content/uploads/2015/05/Bulk-Order-Man-Columns.png)
+
+![](/assets/23-ViewOrders-17-Bulk-Order-Man-Columns_old.png)
 
 You can also sort the rows according to the contents of a column. For example, if you click on the Order Date column title, the table will be arranged in chronological order, according to the value in this field. Clicking the Name column heading will arrange the table in alphabetical order of the customer’s name.
 
