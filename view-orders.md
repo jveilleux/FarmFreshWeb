@@ -100,13 +100,13 @@ Clicking on adjustments \(![](/assets/23-ViewOrders-12-Adjustments_old.png)\). F
 
 Your customers can view a list of their orders when they login to the FFW, and click on their account \(see below\).
 
-[](https://openfoodnetwork.org/wp-content/uploads/2015/05/Account-login.png)
+
 
 ![](/assets/23-ViewOrders-13-Account-login_old.png)
 
 Here your customers will be able to see the past orders and payments as well as a running balance at your shop. This should be kept up to date so customers can view an accurate balance.
 
-[![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Orders.png "Customer Account")](https://openfoodnetwork.org/wp-content/uploads/2015/05/Orders.png)
+[](https://openfoodnetwork.org/wp-content/uploads/2015/05/Orders.png)![](/assets/23-ViewOrders-14-Orders_old.png)
 
 ## Bulk order management
 
