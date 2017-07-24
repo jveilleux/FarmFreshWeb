@@ -48,15 +48,13 @@ Click on the tick icon to indicate that payment has been received \(![](/assets/
 Click on the road icon to indicate that the order has been shipped \(![](/assets/23-ViewOrders-3-Shipped_old.png)\).  
 Click on the edit icon \(![](/assets/23-ViewOrders-4-Edit-order_old.png)\) to edit an order and view more detailed information about it \(discussed below\).
 
-
-
 ![](/assets/23-ViewOrders-5-tracking-orders_old.png)
 
 ##### Editing an order
 
 After clicking the edit button on the right hand side of an order \(see image above\) you’ll be taken to a detailed view of the order \(below\). Functionalities within this page will be discussed below.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/View-Order.png "View Order")
+![](/assets/23-ViewOrders-6-View-Order_old.png)
 
 **Adding and removing products from an order**
 
