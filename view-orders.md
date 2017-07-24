@@ -132,7 +132,7 @@ Within Bulk Order Management, you can apply filters, so that only the orders tha
 
 **Columns:** You can select which fields you do or do not want to be displayed \(see below\)
 
-[](https://openfoodnetwork.org/wp-content/uploads/2015/05/Bulk-Order-Man-Columns.png)
+
 
 ![](/assets/23-ViewOrders-17-Bulk-Order-Man-Columns_old.png)
 
@@ -153,7 +153,7 @@ This can be done in bulk order management, as follows:
 3. Click on the product ‘Tomatoes’ in the Product:Unit column.
 4. A box will appear at the top of the page, showing the total quantity ordered \(across the date range/order cycle you’ve selected\).
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/BOM-1.png "Bulk Order Management")
+![](/assets/23-ViewOrders-18-BOM-1_old.png)
 
 You can then adjust the quantity of each unique order in the Quantity column. The Total Quantity Ordered in the box at the top will update automatically as you adjust orders, in this case going down, as you reduce each order for the tomatoes.
 
