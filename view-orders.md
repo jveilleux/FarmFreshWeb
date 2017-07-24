@@ -175,15 +175,11 @@ We’ll use an example of a leg of lamb to illustrate. In this case the producer
 
 1. Filter for the order cycle or date range of interest.
 2. Search for the leg of lamb product to view all customer orders for the product.
-3. Make the
-   **Weight/Volume**
-   and
-   **Price**
-   columns visible.
+3. Make the **Weight/Volume **and **Price **columns visible.
 4. Enter the actual weight of the leg of lamb that each customer will receive in the weight/volume column. The price will automatically recalculate based on this weight.
 5. Click update.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Meat-BOMM.png "Bulk Order Management example")
+![](/assets/23-ViewOrders-21-Meat-BOMM_old.png)
 
 _Have a suggestion for how we could improve this feature? Send us an email or join the conversation on our community forum._
 
