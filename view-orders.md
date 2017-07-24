@@ -132,8 +132,6 @@ Within Bulk Order Management, you can apply filters, so that only the orders tha
 
 **Columns:** You can select which fields you do or do not want to be displayed \(see below\)
 
-
-
 ![](/assets/23-ViewOrders-17-Bulk-Order-Man-Columns_old.png)
 
 You can also sort the rows according to the contents of a column. For example, if you click on the Order Date column title, the table will be arranged in chronological order, according to the value in this field. Clicking the Name column heading will arrange the table in alphabetical order of the customer’s name.
@@ -159,7 +157,7 @@ You can then adjust the quantity of each unique order in the Quantity column. Th
 
 You could also then see the emails of these customers, and send them an alert._An alert is not automatically generated when adjustments are made in bulk order management._
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/BOM-2.png "Bulk Order Management")
+![](/assets/23-ViewOrders-19-BOM-2_old.png)
 
 ##### **The ‘Shared Resource’ checkbox**
 
