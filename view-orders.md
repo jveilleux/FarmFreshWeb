@@ -161,9 +161,9 @@ You could also then see the emails of these customers, and send them an alert._A
 
 ##### **The ‘Shared Resource’ checkbox**
 
-In the screenshot above you will see a checkbox called ‘shared resource’ in the top right hand corner of the blue, producer order totals box. When you select this checkbox, the total displayed will be inclusive of all product variants that fall under the master product. By not checking it, you can see the total for a single product variant. In the example below, you can see that when the shared resource box is selected, the total includes orders for both my 1lb apple variant and my 3lb apple variant. So I know that in total, I need 5lbof apples. If I just want to know how many 3lb bags to pack, I can uncheck the shared resource box, and click on the 3lb variant in the Product:Unit column.
+In the screenshot above you will see a checkbox called ‘shared resource’ in the top right hand corner of the blue, producer order totals box. When you select this checkbox, the total displayed will be inclusive of all product variants that fall under the master product. By not checking it, you can see the total for a single product variant. In the example below, you can see that when the shared resource box is selected, the total includes orders for both my 1lb apple variant and my 3lb apple variant. So I know that in total, I need 5lb of apples. If I just want to know how many 3lb bags to pack, I can uncheck the shared resource box, and click on the 3lb variant in the Product: Unit column.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Shared-Resource.png "Shared Resource checked")
+![](/assets/23-ViewOrders-20-Shared-Resource_old.png)
 
 #### Example 2: Updating the final weight of products.
 
