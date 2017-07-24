@@ -20,7 +20,7 @@ The picture below shows the information contained in an Order Cycle Customer Tot
 
 The picture below shows the information contained in an Order Cycle Supplier Totals report. Like the above report, this report can also be generated to reflect a particular order cycle by selecting an order cycle from the dropdown menu. As you can see, you may also select to download a CSV copy of this report \(an excel file\). In the report, the supplier is listed on the left. Next is listed all of the **products **and their **variants**, and the **amount** of each that sold. At the closing of an order cycle, this report clearly shows you how much of each product you will need on hand to successfully pack and fulfill all of the orders placed.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Order-Cycle-Supplier-Totals.png "Order Cycle Supplier Totals report")
+![](/assets/24-Reports-4-Order-Cycle-Supplier-Totals_old.png)
 
 ### Mailing List
 
