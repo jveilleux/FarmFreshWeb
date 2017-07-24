@@ -78,7 +78,9 @@ To send an invoice to the customer, click the ‘send invoice’ button. This wi
 
 Click the cancel button to cancel an order.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Invoice-example.png "Invoice example")
+
+
+![](/assets/23-ViewOrders-8-Invoice-example_old.png)
 
 **Mark an order as paid**
 
