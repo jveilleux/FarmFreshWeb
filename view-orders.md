@@ -90,11 +90,11 @@ After payment has been received the Ship button will be visible at the top of th
 
 **View customer details**
 
-Clicking on customer details \([](https://openfoodnetwork.org/wp-content/uploads/2015/05/Customer-details.png)![](/assets/23-ViewOrders-11-Customer-details_old.png)\) in the right hand menu will take you to a complete view of the customer’s details.
+Clicking on customer details \(![](/assets/23-ViewOrders-11-Customer-details_old.png)\) in the right hand menu will take you to a complete view of the customer’s details.
 
 **Add or subtract from the order balance**
 
-Clicking on adjustments \([![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Adjustments.png "Adjustments")](https://openfoodnetwork.org/wp-content/uploads/2015/05/Adjustments.png)\). From here you can remove fees that are already on an order, or add/subtract from the order total by clicking on + New Adjustment. You also have the capacity to select the tax setting of the adjustment. Remember, for a fee to include tax, the enterprise must be set to charge tax in its profile settings.
+Clicking on adjustments \([](https://openfoodnetwork.org/wp-content/uploads/2015/05/Adjustments.png)![](/assets/23-ViewOrders-12-Adjustments_old.png)\). From here you can remove fees that are already on an order, or add/subtract from the order total by clicking on + New Adjustment. You also have the capacity to select the tax setting of the adjustment. Remember, for a fee to include tax, the enterprise must be set to charge tax in its profile settings.
 
 ##### Customer’s View
 
