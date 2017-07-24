@@ -2,7 +2,7 @@
 
 Access reports by clicking on **Reports **in the horizontal heading.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Access-Reports.png "Access Reports")
+![](/assets/24-Reports-1-Access-Reports_old.png)
 
 This will take you to a table listing all of the reports available.
 
