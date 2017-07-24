@@ -60,7 +60,7 @@ After clicking the edit button on the right hand side of an order \(see image ab
 
 You can select a product to add to the order. To remove a product click the rubbish bin icon on the right hand side of a product. You can also change the quantity ordered. Remember to click the **update and recalculate fees **button to save changes.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Order-actions.png "Order actions")
+![](/assets/23-ViewOrders-7-Order-actions_old.png)
 
 **Resend confirmation email**
 
