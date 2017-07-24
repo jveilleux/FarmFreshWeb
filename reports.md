@@ -26,13 +26,13 @@ The picture below shows the information contained in an Order Cycle Supplier Tot
 
 The mailing list report shows the names and email addresses of customers who have placed orders in your store. You can filter the report according to order cycle, allowing you to alert customers if there are stock outs or changes to the delivery shedule. See below for an example. As with all reports, the list can be downloaded as a CSV file.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Mailing-List.png "Mailing List report")
+![](/assets/24-Reports-5-Mailing-List_old.png)
 
 ### Addresses
 
 The Addresses report details your customer’s names, addresses, emails, phone numbers and the hub, or store, they shopped with. Again, this report can be filtered by order cycle.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Addresses.png "Addresses report")
+![](/assets/24-Reports-6-Addresses_old.png)
 
 ### All Products and Inventory \(on hand\)
 
