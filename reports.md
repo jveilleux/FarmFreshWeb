@@ -90,8 +90,6 @@ In Xero go to **Accounts**, **Sales **and click Import.
 
 Next you will select your downloaded FFW Xero report for upload. The settings you should select are shown below.
 
-
-
 ![](/assets/24-Reports-11-Xero-import-steps_old.png)
 
 Ignoring the address details will ensure your Xero customer data is unaltered. Selecting **Tax Exclusive **will ensure that products you have set to include tax in the FFW will include tax, but your tax free items will remain tax free.
@@ -115,7 +113,7 @@ This is an example of where the bulk ordering quantity has been reached:
 
 This is an example where the bulk order quantity has not been reached:
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Bok-Choy.png "Bok Choy")
+![](/assets/24-Reports-13-Bok-Choy_old.png)
 
 * _Note the ‘Bulk Co-op Allocations’ report is similar in function to this report, but shows each customer’s order individually, rather than the cumulative total across all customers._
 
