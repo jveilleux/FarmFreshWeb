@@ -116,7 +116,7 @@ Access Bulk Oder Management by clicking **Orders **in the blue horizontal menu, 
 
 Within Bulk Order Management, you can apply filters, so that only the orders that you are interested in will display.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Filter-Bulk-order-man.png "Filtering within bulk order management")
+![](/assets/23-ViewOrders-16-Filter-Bulk-order-man_old.png)
 
 **Start Date and End Date:** You can filter to display all orders that were placed within a given window of time.
 
