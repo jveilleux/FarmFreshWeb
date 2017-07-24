@@ -64,8 +64,6 @@ This report creates CSV files which can be imported into the accounting package 
 
 #### Generating the report
 
-
-
 ![](/assets/24-Reports-9-Xero-Report_old.png)
 
 **Date range: **You can filter orders by the date placed.
@@ -88,13 +86,15 @@ This report creates CSV files which can be imported into the accounting package 
 
 In Xero go to **Accounts**, **Sales **and click Import.
 
-[](https://openfoodnetwork.org/wp-content/uploads/2015/05/Xero-Import.png)
+
 
 ![](/assets/24-Reports-10-Xero-Import_old.png)
 
-Next you will select your downloaded OFN Xero report for upload. The settings you should select are shown below.
+Next you will select your downloaded FFW Xero report for upload. The settings you should select are shown below.
 
-[![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Xero-import-steps.png "Xero import steps")](https://openfoodnetwork.org/wp-content/uploads/2015/05/Xero-import-steps.png)
+[](https://openfoodnetwork.org/wp-content/uploads/2015/05/Xero-import-steps.png)
+
+![](/assets/24-Reports-11-Xero-import-steps_old.png)
 
 Ignoring the address details will ensure your Xero customer data is unaltered. Selecting**Tax Exclusive**will ensure that products you have set to include tax in the OFN will include tax, but your tax free items will remain tax free.
 
