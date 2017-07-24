@@ -8,11 +8,11 @@ This will take you to a table listing all of the reports available.
 
 ![](/assets/24-Reports-2-Reports-table_old.png)
 
-The two most useful and commonly used reports are the **Order Cycle Supplier Totals **and the **Order Cycle Customer Totals**. If you plan to fulfill orders on a indivdual basis, the Order Cycle Customer Totals report will be most relevant to you. If you intend to fulfill orders in batches corresponding to an order cycle routine, the Order Cycle Supplier Totals will also be useful. The **Mailing List **and **Addresses **reports are also helpful for managing your customer’s details. The **Sales Tax **report is useful for enterprises dealing with Tax reporting. Finally, the **Bulk Co-op **report helps with bulk ordering decision making.
+The two most useful and commonly used reports are the **Order Cycle Supplier Totals **and the **Order Cycle Customer Totals**. If you plan to fulfill orders on a individual basis, the Order Cycle Customer Totals report will be most relevant to you. If you intend to fulfill orders in batches corresponding to an order cycle routine, the Order Cycle Supplier Totals will also be useful. The **Mailing List **and **Addresses **reports are also helpful for managing your customer’s details. The **Sales Tax **report is useful for enterprises dealing with Tax reporting. Finally, the **Bulk Co-op **report helps with bulk ordering decision making.
 
 ### Order Cycle Customer Totals
 
-The picture below shows the information contained in an Order Cycle Customer Totals report. This report can be generated to reflect a particular order cycle by selecting an order cycle from the dropdown menu. As you can see, you may also select to download a CSV copy of this report \(an excel file\). The report shows each customers order, including thier email and contact details, the **product **they ordered, the **amount,**the **item \($\) **and the TOTAL. Lastly it also shows the shipping method they have selected. If you are fulfilling orders on an individual basis, this report gives you all the information to pack the order, contact the customer and arrange for delviery or collection. If you are preparing orders in bulk at the closing of an order cycle, this report can be used to guide your packing and delivery.
+The picture below shows the information contained in an Order Cycle Customer Totals report. This report can be generated to reflect a particular order cycle by selecting an order cycle from the dropdown menu. As you can see, you may also select to download a CSV copy of this report \(an excel file\). The report shows each customers order, including their email and contact details, the **product **they ordered, the **amount,**the **item \($\) **and the TOTAL. Lastly it also shows the shipping method they have selected. If you are fulfilling orders on an individual basis, this report gives you all the information to pack the order, contact the customer and arrange for delivery or collection. If you are preparing orders in bulk at the closing of an order cycle, this report can be used to guide your packing and delivery.
 
 ![](/assets/24-Reports-3-Order-Cycle-Customer-Totals_old.png)
 
@@ -24,7 +24,7 @@ The picture below shows the information contained in an Order Cycle Supplier Tot
 
 ### Mailing List
 
-The mailing list report shows the names and email addresses of customers who have placed orders in your store. You can filter the report according to order cycle, allowing you to alert customers if there are stock outs or changes to the delivery shedule. See below for an example. As with all reports, the list can be downloaded as a CSV file.
+The mailing list report shows the names and email addresses of customers who have placed orders in your store. You can filter the report according to order cycle, allowing you to alert customers if there are stock outs or changes to the delivery schedule. See below for an example. As with all reports, the list can be downloaded as a CSV file.
 
 ![](/assets/24-Reports-5-Mailing-List_old.png)
 
@@ -78,7 +78,7 @@ This report creates CSV files which can be imported into the accounting package 
 
 **Due date:** You can select the due date to be marked on the Xero invoices. Again this is editable in Xero.
 
-**Account code:** If you place a Xero account code here, all items in the invoice will be assigned to this account. This it aditable in Xero.
+**Account code:** If you place a Xero account code here, all items in the invoice will be assigned to this account. This is editable in Xero.
 
 **Download as CSV: **When you are ready to download the file for import click this box and hit the **search **button.
 
@@ -86,28 +86,24 @@ This report creates CSV files which can be imported into the accounting package 
 
 In Xero go to **Accounts**, **Sales **and click Import.
 
-
-
 ![](/assets/24-Reports-10-Xero-Import_old.png)
 
 Next you will select your downloaded FFW Xero report for upload. The settings you should select are shown below.
 
-[](https://openfoodnetwork.org/wp-content/uploads/2015/05/Xero-import-steps.png)
+
 
 ![](/assets/24-Reports-11-Xero-import-steps_old.png)
 
-Ignoring the address details will ensure your Xero customer data is unaltered. Selecting**Tax Exclusive**will ensure that products you have set to include tax in the OFN will include tax, but your tax free items will remain tax free.
+Ignoring the address details will ensure your Xero customer data is unaltered. Selecting **Tax Exclusive **will ensure that products you have set to include tax in the FFW will include tax, but your tax free items will remain tax free.
 
 ### Bulk Co-op  Totals By Suppliers Report
 
-This report tells shop managers whether they have reached their bulk ordering threshold, and by how much they have exceeded or fallen short of this amount. Note you need to setup bulk sizes for your products before using this feature, see the [Group Buy](https://openfoodnetwork.org/user-guide/advanced-features/group-buy/)advanced feature for instructions.
+This report tells shop managers whether they have reached their bulk ordering threshold, and by how much they have exceeded or fallen short of this amount. Note you need to setup bulk sizes for your products before using this feature, see the [Group Buy](https://openfoodnetwork.org/user-guide/advanced-features/group-buy/) advanced feature for instructions.
 
 When their order cycle closes, this report can help the shop to answer the following questions:
 
 * Did customers order enough of this product to justify ordering the bulk size from the supplier?
-* If the
-  [Group Buy](https://openfoodnetwork.org/user-guide/advanced-features/group-buy/)
-  tool is enabled, how much extra product are my customers willing to purchase to help the group reach the bulk size threshold?
+* If the [Group Buy](https://openfoodnetwork.org/user-guide/advanced-features/group-buy/) tool is enabled, how much extra product are my customers willing to purchase to help the group reach the bulk size threshold?
 * How many bulk sizes should the shop order to meet the customer demand?
 * If the shop orders the bulk size, how much stock will be left over? Or alternatively, how many customers will be disappointed if this product isn’t ordered?
 
@@ -115,7 +111,7 @@ See the example below for an illustration of how this report can be used:
 
 This is an example of where the bulk ordering quantity has been reached:
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Radishess.png "Radishes")
+![](/assets/24-Reports-12-Radishess_old.png)
 
 This is an example where the bulk order quantity has not been reached:
 
