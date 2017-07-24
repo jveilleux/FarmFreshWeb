@@ -112,7 +112,7 @@ While the listing view shows you orders, and details about who the customer is a
 
 Access Bulk Oder Management by clicking **Orders **in the blue horizontal menu, and **Bulk Order Management **in the horizontal green menu.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Bulk-Order-Management.png "Accessing bulk order management")
+![](/assets/23-ViewOrders-15-Bulk-Order-Management_old.png)
 
 Within Bulk Order Management, you can apply filters, so that only the orders that you are interested in will display.
 
