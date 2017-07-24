@@ -36,9 +36,9 @@ The Addresses report details your customer’s names, addresses, emails, phone n
 
 ### All Products and Inventory \(on hand\)
 
-The All Products and Inventory \(on hand\) reports can be used as a paper copy ordering sheet, for any customers who prefer to order on paper. It lists all of your products and their prices \(see below\). The**All Products**report lists all of your products regardless of whether they have on hand quantities above 0. The**Inventory \(on hand\)**report shows only products which have a positive on hand value.
+The All Products and Inventory \(on hand\) reports can be used as a paper copy ordering sheet, for any customers who prefer to order on paper. It lists all of your products and their prices \(see below\). The **All Products **report lists all of your products regardless of whether they have on hand quantities above 0. The **Inventory \(on hand\) **report shows only products which have a positive on hand value.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/all-products.png "all products report")
+![](/assets/24-Reports-7-all-products_old.png)
 
 ### Packing Reports
 
