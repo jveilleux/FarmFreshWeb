@@ -64,13 +64,13 @@ This report creates CSV files which can be imported into the accounting package 
 
 #### Generating the report
 
-[](https://openfoodnetwork.org/wp-content/uploads/2015/05/Xero-Report.png)
+
 
 ![](/assets/24-Reports-9-Xero-Report_old.png)
 
 **Date range: **You can filter orders by the date placed.
 
-**Report type:**You can select to download a ‘detailed’ report, which includes a line item for each item the customer purchased, including any fees and adjustments to their order.
+**Report type: **You can select to download a ‘detailed’ report, which includes a line item for each item the customer purchased, including any fees and adjustments to their order.
 
 **Hub and order cycle: **As with all reports, the data can be filtered by the Hub when orders were placed and the order cycle they were in.
 
@@ -88,7 +88,9 @@ This report creates CSV files which can be imported into the accounting package 
 
 In Xero go to **Accounts**, **Sales **and click Import.
 
-[![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Xero-Import.png "Xero Import")](https://openfoodnetwork.org/wp-content/uploads/2015/05/Xero-Import.png)
+[](https://openfoodnetwork.org/wp-content/uploads/2015/05/Xero-Import.png)
+
+![](/assets/24-Reports-10-Xero-Import_old.png)
 
 Next you will select your downloaded OFN Xero report for upload. The settings you should select are shown below.
 
