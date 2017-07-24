@@ -56,7 +56,7 @@ This report lists each supplier and their products. Next to each product is the 
 
 This report is useful to separate the tax component of sales, delivery and fees.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Sales-Tax-Report.png "Sales Tax Report")
+![](/assets/24-Reports-8-Sales-Tax-Report_old.png)
 
 ### Xero Invoices
 
