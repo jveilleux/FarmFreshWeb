@@ -8,13 +8,13 @@ This will take you to a table listing all of the reports available.
 
 ![](/assets/24-Reports-2-Reports-table_old.png)
 
-The two most useful and commonly used reports are the **Order Cycle Supplier Totals **and the **Order Cycle Customer Totals**. If you plan to fulfill orders on a indivdual basis, the Order Cycle Customer Totals report will be most relevant to you. If you intend to fulfill orders in batches corresponding to an order cycle routine, the Order Cycle Supplier Totals will also be useful. The **Mailing List **and **Addresses **reports are also helpful for managing your customer’s details. The **Sales Tax **report is useful for enterprises dealing with GST reporting. Finally, the **Bulk Co-op **report helps with bulk ordering decision making.
+The two most useful and commonly used reports are the **Order Cycle Supplier Totals **and the **Order Cycle Customer Totals**. If you plan to fulfill orders on a indivdual basis, the Order Cycle Customer Totals report will be most relevant to you. If you intend to fulfill orders in batches corresponding to an order cycle routine, the Order Cycle Supplier Totals will also be useful. The **Mailing List **and **Addresses **reports are also helpful for managing your customer’s details. The **Sales Tax **report is useful for enterprises dealing with Tax reporting. Finally, the **Bulk Co-op **report helps with bulk ordering decision making.
 
 ### Order Cycle Customer Totals
 
 The picture below shows the information contained in an Order Cycle Customer Totals report. This report can be generated to reflect a particular order cycle by selecting an order cycle from the dropdown menu. As you can see, you may also select to download a CSV copy of this report \(an excel file\). The report shows each customers order, including thier email and contact details, the **product **they ordered, the **amount,**the **item \($\) **and the TOTAL. Lastly it also shows the shipping method they have selected. If you are fulfilling orders on an individual basis, this report gives you all the information to pack the order, contact the customer and arrange for delviery or collection. If you are preparing orders in bulk at the closing of an order cycle, this report can be used to guide your packing and delivery.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Order-Cycle-Customer-Totals.png "Order Cycle Customer Totals report")
+![](/assets/24-Reports-3-Order-Cycle-Customer-Totals_old.png)
 
 ### Order Cycle Supplier Totals
 
