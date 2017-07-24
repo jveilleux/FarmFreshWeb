@@ -94,13 +94,15 @@ Clicking on customer details \(![](/assets/23-ViewOrders-11-Customer-details_old
 
 **Add or subtract from the order balance**
 
-Clicking on adjustments \([](https://openfoodnetwork.org/wp-content/uploads/2015/05/Adjustments.png)![](/assets/23-ViewOrders-12-Adjustments_old.png)\). From here you can remove fees that are already on an order, or add/subtract from the order total by clicking on + New Adjustment. You also have the capacity to select the tax setting of the adjustment. Remember, for a fee to include tax, the enterprise must be set to charge tax in its profile settings.
+Clicking on adjustments \(![](/assets/23-ViewOrders-12-Adjustments_old.png)\). From here you can remove fees that are already on an order, or add/subtract from the order total by clicking on + New Adjustment. You also have the capacity to select the tax setting of the adjustment. Remember, for a fee to include tax, the enterprise must be set to charge tax in its profile settings.
 
 ##### Customer’s View
 
 Your customers can view a list of their orders when they login to the FFW, and click on their account \(see below\).
 
-[![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Account-login.png "Customer account login")](https://openfoodnetwork.org/wp-content/uploads/2015/05/Account-login.png)
+[](https://openfoodnetwork.org/wp-content/uploads/2015/05/Account-login.png)
+
+![](/assets/23-ViewOrders-13-Account-login_old.png)
 
 Here your customers will be able to see the past orders and payments as well as a running balance at your shop. This should be kept up to date so customers can view an accurate balance.
 
