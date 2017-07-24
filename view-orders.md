@@ -78,13 +78,11 @@ To send an invoice to the customer, click the ‘send invoice’ button. This wi
 
 Click the cancel button to cancel an order.
 
-
-
 ![](/assets/23-ViewOrders-8-Invoice-example_old.png)
 
 **Mark an order as paid**
 
-To mark an order as paid, click the tick icon on the listing order page. Or click on ‘Payments’ in the menu on the right and then click the tick icon \([![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Tick.png "paid")](https://openfoodnetwork.org/wp-content/uploads/2015/05/Tick.png)\).
+To mark an order as paid, click the tick icon on the listing order page. Or click on ‘Payments’ in the menu on the right and then click the tick icon \([](https://openfoodnetwork.org/wp-content/uploads/2015/05/Tick.png)![](/assets/23-ViewOrders-9-Tick2_old.png)\).
 
 **Mark an order as shipped**
 
