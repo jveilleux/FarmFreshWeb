@@ -86,11 +86,11 @@ To mark an order as paid, click the tick icon on the listing order page. Or clic
 
 **Mark an order as shipped**
 
-After payment has been received the Ship button will be visible at the top of the page \([](https://openfoodnetwork.org/wp-content/uploads/2015/05/Ship.png)![](/assets/23-ViewOrders-10-Ship_old.png)\). Click this to record that shipment has occurred.
+After payment has been received the Ship button will be visible at the top of the page \(![](/assets/23-ViewOrders-10-Ship_old.png)\). Click this to record that shipment has occurred.
 
 **View customer details**
 
-Clicking on customer details \([![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Customer-details.png "customer details")](https://openfoodnetwork.org/wp-content/uploads/2015/05/Customer-details.png)\) in the right hand menu will take you to a complete view of the customer’s details.
+Clicking on customer details \([](https://openfoodnetwork.org/wp-content/uploads/2015/05/Customer-details.png)![](/assets/23-ViewOrders-11-Customer-details_old.png)\) in the right hand menu will take you to a complete view of the customer’s details.
 
 **Add or subtract from the order balance**
 
