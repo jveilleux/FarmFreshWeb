@@ -64,7 +64,9 @@ This report creates CSV files which can be imported into the accounting package 
 
 #### Generating the report
 
-[![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Xero-Report.png "Xero Report fields")](https://openfoodnetwork.org/wp-content/uploads/2015/05/Xero-Report.png)
+[](https://openfoodnetwork.org/wp-content/uploads/2015/05/Xero-Report.png)
+
+![](/assets/24-Reports-9-Xero-Report_old.png)
 
 **Date range: **You can filter orders by the date placed.
 
