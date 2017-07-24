@@ -82,11 +82,11 @@ Click the cancel button to cancel an order.
 
 **Mark an order as paid**
 
-To mark an order as paid, click the tick icon on the listing order page. Or click on ‘Payments’ in the menu on the right and then click the tick icon \([](https://openfoodnetwork.org/wp-content/uploads/2015/05/Tick.png)![](/assets/23-ViewOrders-9-Tick2_old.png)\).
+To mark an order as paid, click the tick icon on the listing order page. Or click on ‘Payments’ in the menu on the right and then click the tick icon \(![](/assets/23-ViewOrders-9-Tick2_old.png)\).
 
 **Mark an order as shipped**
 
-After payment has been received the Ship button will be visible at the top of the page \([![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Ship.png "Ship")](https://openfoodnetwork.org/wp-content/uploads/2015/05/Ship.png)\). Click this to record that shipment has occurred.
+After payment has been received the Ship button will be visible at the top of the page \([](https://openfoodnetwork.org/wp-content/uploads/2015/05/Ship.png)![](/assets/23-ViewOrders-10-Ship_old.png)\). Click this to record that shipment has occurred.
 
 **View customer details**
 
