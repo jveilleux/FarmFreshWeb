@@ -10,10 +10,10 @@ _\* Note: The above relates to Australian users only. Local instances may vary._
    This option allows you to create a profile on the FFW. Your profile is a way for you to share your story with others and makes you visible and contactable to customers and other enterprises who may wish to trade with you. A producer with a profile can also add products, which may be stocked in other FFW shopfronts.
 2. **Producer Shop- sell your own produce: **
    This option allows producers to create their own FFW shopfront through which to sell their produce. Note that producers can conduct sales through their own shopfront and simultaneously act as a supplier to another shopfront.
-3. **Producer Hub- sell produce from self and others:  **
+3. **Producer Farmers Market- sell produce from self and others:  **
    This option is for producers who wish to sell their own produce, as well and products created by other producers.
 
 You can change your account type at any time in the future. This can be done by clicking the ‘**Change package**‘ button on the [dashboard](/the-dashboard.md). Or you can change your producer/non producer status and and profile/shop package by selecting **Enterprise **on the blue horizontal banner, and then editing your enterprise’s settings \(see below\).
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Change-package.png "Change package")
+![](/assets/26-ProducerProfileTypes-2-Change-package_old.png)
 
