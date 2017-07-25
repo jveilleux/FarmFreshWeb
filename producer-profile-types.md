@@ -2,7 +2,7 @@
 
 When you first create your profile, you’ll be prompted to select the ‘type’ of profile you want. Your selection here dictates the functionality that your profile will have.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Three-producer-types.png "Three producer type options")
+![](/assets/26-PoducerProfileTypes-1-Three-producer-types_old.png)
 
 _\* Note: The above relates to Australian users only. Local instances may vary._
 
