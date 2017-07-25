@@ -37,7 +37,7 @@ The [producer](/producer-set-up-guide.md) and [farmers market ](/hubs-set-up-gui
   [Read more](/enterprise-to-enterprise-permissions-e2es.md)
 * Learn how E2E permission impact each party in multi-enterprise order cycles.
   [Read more](/permissions-in-multi-enterprise-order-cycles.md)
-* Buying groups can function as an extension of a hub’s distribution network.
+* Buying groups can function as an extension of a farmers market's distribution network.
   [Read more](/buying-group-ofn-setup-process.md)
 
 ### Order Cycles
