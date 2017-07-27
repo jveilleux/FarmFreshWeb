@@ -6,7 +6,7 @@ Access your dashboard from the homepage by first logging in ![](https://openfood
 
 The following screenshot shows the dashboard view for a profile-only user.
 
-![](/assets/Dashboard-Profile-Only_TheDashboard_new.png "Dashboard \(Profile Only\)")
+![](/assets/27-TheDashboard-1-Supplier-Only_old.png)
 
 The following screenshot shows the dashboard view for a shopfront user, with additional features for running and managing an online shop.
 
