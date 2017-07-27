@@ -10,7 +10,7 @@ The following screenshot shows the dashboard view for a profile-only user.
 
 The following screenshot shows the dashboard view for a shopfront user, with additional features for running and managing an online shop.
 
-![](/assets/Dashboard-Shop_The Dashboard_new.png "Dashboard \(Shop\)")
+![](/assets/27-TheDashboard-2-Has-shopfront_old.png)
 
 From the dashboard you can edit the ‘[type](/producer-profile-types.md)’ of Profile you want, by clicking on **Change Package.**
 
