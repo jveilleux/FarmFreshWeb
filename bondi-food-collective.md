@@ -1,6 +1,6 @@
 # Bondi Food Collective
 
-[    
+[      
 ](https://openfoodnetwork.org/wp-content/uploads/2016/05/BFC-banner.png)![](/assets/31-Bondi-1-BFC-banner_old.png)
 
 ## Background
@@ -27,15 +27,15 @@ Bondi Food Collective fulfills between 10-35 orders each week. Their product ran
 
 Each Friday afternoon members receive an order sheet from the BFC which lists the products which will be available for the coming week. They have until Sunday evening to return their form. The BFC manager will then collate the orders, and forward the order quantities to suppliers.
 
-[](https://openfoodnetwork.org/wp-content/uploads/2016/05/BFC.jpg)![](/assets/31-Bondi-2-BFC_old.jpg)
+![](/assets/31-Bondi-2-BFC_old.jpg)
 
-Shann and Kirsten with OFN members, learning to use the OFN.
+Shann and Kirsten with FFW members, learning to use the FFW.
 
 ### Procurement
 
 BFC is supplied by 41 different producers throughout the year. Since the BFC has started, suppliers wanting to distribute their products through the BFC are increasingly making contact. This is an encouraging sign for the BFC who delight in seeing more links forming between producers and eaters.
 
-The majority of the BFC’s key suppliers deliver their orders directly to the BFC shed, which can be accessed independently and without supervision by approved suppliers. Some orders, where the order quantity is too low for the supplier to justify delivery, must be collected by a BFC volunteer. Alternatively, the product will be unavailable until a bulk order can be made. For instance, a single order for walnuts to the nut supplier may not justify free shipping, but an order of walnuts, cashews and pepitas would.
+The majority of the BFC’s key suppliers deliver their orders directly to the BFC shed, which can be accessed independently and without supervision by approved suppliers. Some orders, where the order quantity is too low for the supplier to justify delivery, must be collected by a BFC volunteer. Alternatively, the product will be unavailable until a bulk order can be made. For instance, a single order for walnuts to the nut supplier may not justify free shipping, but an order of walnuts, cashews and peanuts would.
 
 ### Packing
 
@@ -49,7 +49,7 @@ BFC customers pick up their orders from the BFC packing shed in a 1.5 hour windo
 
 The BFC customers are encouraged to join as members, which requires an annual payment of $45 and the commitment to volunteer occasionally with packing or administration. Non-members may shop through BFC but pay a 60% mark-up, relative to the 30% mark-up enjoyed by members. Bondi’s population is relatively transient, so the BFC membership base experiences a lot of flux.
 
-Member retention is also a challenge for BFC. Joining and shopping through BFC, as opposed to traditional supermarket shopping is a significant lifestyle change for new members. Despite best intentions, some new customers inevitably find the new routine, of placing orders days in advance, and committing to a collect their order in a narrow time slot, difficult to uphold. While BFC accepts that their structure won’t suit everyone, minimising any barriers to participation is always a priority.
+Member retention is also a challenge for BFC. Joining and shopping through BFC, as opposed to traditional supermarket shopping is a significant lifestyle change for new members. Despite best intentions, some new customers inevitably find the new routine, of placing orders days in advance, and committing to a collect their order in a narrow time slot, difficult to uphold. While BFC accepts that their structure won’t suit everyone, minimizing any barriers to participation is always a priority.
 
 ## The Challenge of Scale
 
