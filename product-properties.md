@@ -13,6 +13,7 @@ You can apply product properties to your products, as a way of letting your cust
 * Naturally Ripened
 
 * No Preservatives
+
 * Organic- Certified
 * Organic- Not Certified
 * Free Range
