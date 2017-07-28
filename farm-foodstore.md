@@ -1,7 +1,7 @@
 # Case Study: Farm Foodstore
 
 [  
-![](https://openfoodnetwork.org/wp-content/uploads/2016/01/Farm-Food-Store-image.png "Farm Food Store image")](https://openfoodnetwork.org/wp-content/uploads/2016/01/Farm-Food-Store-image.png)
+](https://openfoodnetwork.org/wp-content/uploads/2016/01/Farm-Food-Store-image.png)![](/assets/30-FarmFoodstore-1-Farm-Food-Store-image_old.png)
 
 ## Background
 
