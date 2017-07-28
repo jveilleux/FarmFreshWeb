@@ -1,12 +1,10 @@
 # Westies Dry Goods Buying Group
 
-
-
 ![](/assets/32-Westies-1-Family-Pickup_old.jpg)
 
 ## Background
 
-Westies Buying Group is an informal, not for profit community group which utilises collective purchasing power to attain bulk dry goods at wholesale prices. The buying group makes organic products affordable for members, in an area of Melbourne where there are few organic retailers. The group also has a strong emphasis on reducing food packaging as members are required to supply reusable containers to pack their orders into. In addition to the monthly dry goods ordering, the group also has a thriving Facebook group where members can connect with likeminded people, share skills and explore ideas around sustainable living.
+Westies Buying Group is an informal, not for profit community group which utilizes collective purchasing power to attain bulk dry goods at wholesale prices. The buying group makes organic products affordable for members, in an area of Melbourne where there are few organic retailers. The group also has a strong emphasis on reducing food packaging as members are required to supply reusable containers to pack their orders into. In addition to the monthly dry goods ordering, the group also has a thriving Facebook group where members can connect with like minded people, share skills and explore ideas around sustainable living.
 
 The buying group identifies the following core values:
 
@@ -26,7 +24,9 @@ Westies was started in 2013 by a group of 8-9 families who got together to order
 
 Today, ordering takes place once each month. Members have a window of time to place their order in Westie’s online shopfront, which is hosted on the Open Food Network. Members who have placed orders are asked to drop off their containers at Kemmy’s house ready for packing. When the order cycle closes, Kemmy sorts, weighs and packs the orders in her dining room. Then, when orders have been packed, Kemmy will put a post on Facebook telling members that they can collect their orders. Collection is from Kemmy’s house, where she leaves the orders on the porch. So far there has been no food stolen. Some members have organised secondary pick up points with other members who live close to each other, taking it in turns to collect the orders from Kemmy’s house. The whole packing and collection process usually takes about a week after the ordering deadline. Payment is then expected within 2 weeks, via bank transfer.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2016/10/IMG_20160930_160942.jpg)
+
+
+![](/assets/32-Westies-2-woman_old.jpg)
 
 ### Staff/volunteers
 
