@@ -91,17 +91,15 @@ For Pin Payments you only require your API key. You need to set up an account wi
 
 ![](/assets/28-PaymentMethods2-8-API-Keys_old.png)
 
-
-
-
-
 ![](/assets/28-PaymentMethods2-9-API-2_old.png)
 
 **Server:**Type ‘live’ – this is case sensitive.
 
 ## Fees on Payment Methods
 
-[![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Calculator.png "Calculator")](https://openfoodnetwork.org/wp-content/uploads/2015/05/Calculator.png)
+[](https://openfoodnetwork.org/wp-content/uploads/2015/05/Calculator.png)
+
+![](/assets/28-PaymentMethods2-10-Calculator_old.png)
 
 You can attach a fee to payment methods. Most commonly this is used to pass on a payment fee to the customer, such as the PayPal charge. First you should select a fee calculator, then enter the value. A full description of the various fee calculators is below.
 
