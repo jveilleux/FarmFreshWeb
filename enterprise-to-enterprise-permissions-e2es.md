@@ -22,8 +22,6 @@ There are four different kinds of E2E permissions. Applying these E2Es in differ
 
 ##### Permission to edit profile \(P-Profile\)
 
-[](https://openfoodnetwork.org/wp-content/uploads/2015/05/P-Profile.png)
-
 ![](/assets/41-E2E-4-P-Profile_old.png)
 
 ## Granting and Managing E2Es {#grantingandmanagingE2Es}
@@ -36,7 +34,7 @@ If you need another enterprise to grant you and E2E permission, you must contact
 
 In the first column, select the enterprise name you want to grant the permission \(in this menu you’ll only see enterprises you own/manage\). Then in the third column select the enterprise that you wish to give permission to \(in this menu you will see all enterprises on the FFW\). Then click on the types of permission you wish to grant in the right hand column. You can select any combination, or ‘everything’ to select all. Then hit **create.** You can also delete permissions and replace them at any time.
 
-[![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Granting-E2Es.png "Granting E2Es")](https://openfoodnetwork.org/wp-content/uploads/2015/05/Granting-E2Es.png)
+[](https://openfoodnetwork.org/wp-content/uploads/2015/05/Granting-E2Es.png)![](/assets/41-E2E-5-Granting-E2Es_old.png)
 
 ## Automatically generated E2Es
 
