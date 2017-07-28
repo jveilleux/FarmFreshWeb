@@ -1,6 +1,8 @@
 # Farm Shop \(on-farm / on roadside / online\)
 
-![](https://openfoodnetwork.org/wp-content/uploads/2016/08/Farm-Shop.jpg "Farm Shop")
+
+
+![](/assets/40-FarmShop-1-Farm-Shop_old.jpg)
 
 As the name suggests, this model involves the establishment of a retail store to enable direct-marketing to customers. This can be in the form of an on-farm shop, by a roadside, online or a mix of these.
 
