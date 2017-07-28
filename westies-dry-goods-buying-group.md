@@ -60,15 +60,13 @@ Shopping with minimal packaging is also hard to pass up for customers who are en
 
 Further, members often acknowledge that the social opportunities and feelings of inclusion are another one of the primary appeals of the group. The membership are like minded people who can bond and connect over their shared values of sustainability and supporting fairer, healthier food systems. It’s common for members to mingle and share recipes and baked goods when they collect their orders. One member enjoyed the activity of cooperating with others on pickup days, but interestingly she suspects that this feeling of relying on others and committing to the group could be a turn off for people who have never been part of a coop or buying group before. Members who find that Westie’s approach to buying food doesn’t fit in with their lifestyle will drop off, so overall the members who stick around are accepting of the convenience trade off that comes with shopping through a buying group and embrace it.
 
-
-
 ![](/assets/32-Westies-5-Customer-Collection-2_old.jpg)
 
 ## The Facebook group
 
-Shortly after the group expanded a Facebook group was created as a place where members could communicate and share ideas. The page also came to function as place for trading outside of the regular buying group schedule. The Facebook group is a testament to how engaged the network of members is. The page sees plenty of dialogue and connections form between members, through skill sharing, or advertising events of common interest. There’s an unspoken rule that any cultures or starters for fermenting various things are not to be sold on the facebook page, but should instead be shared freely amongst members, to encourage social interaction between members.
+Shortly after the group expanded a Facebook group was created as a place where members could communicate and share ideas. The page also came to function as place for trading outside of the regular buying group schedule. The Facebook group is a testament to how engaged the network of members is. The page sees plenty of dialogue and connections form between members, through skill sharing, or advertising events of common interest. There’s an unspoken rule that any cultures or starters for fermenting various things are not to be sold on the Facebook page, but should instead be shared freely among members, to encourage social interaction between members.
 
 ## The Future
 
-Westies doesn’t currently have any plans to change their operations in the future. They recognise that there is demand for organic food in their area beyond what Westies can cater to. Kemmy would love to see more food hubs and buying groups start up in the west of Melbourne, but sees that time and getting the startup finance pose significant barriers to this.
+Westies doesn’t currently have any plans to change their operations in the future. They recognize that there is demand for organic food in their area beyond what Westies can cater to. Kemmy would love to see more food hubs and buying groups start up in the west of Melbourne, but sees that time and getting the startup finance pose significant barriers to this.
 
