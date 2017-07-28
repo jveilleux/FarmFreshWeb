@@ -1,7 +1,5 @@
 # Farmers’ Markets
 
-
-
 ![](/assets/33-FarmersMarket2-1-Farmers-Marketsss_old.png)
 
 Farmers’ markets are physical markets that run periodically in urban and regional areas to improve access to local food and to give producers an opportunity to market directly to consumers, thus achieving higher margins and developing face-to-face relationships. Farmers’ markets may be accredited through various farmers’ market associations to ensure that stallholders are truly the growers and that no produce is coming from the wholesale markets.
@@ -10,7 +8,7 @@ Accredited Farmers’ Markets are underpinned by guiding principles, which inclu
 
 Farmers’ Markets play an integral role in connect eaters with the people who grow their food and enable producers to educate their customers on seasonal variations, alternative cuts of meat, challenges on farm etc.
 
-A challenge of farmers’ markets for producers is that it favours farms that are located within easy commuting distance to cities. There is a large time commitment to attend regular markets, with some families unable to be away from the farm for that long. There is also a limited number of stalls available, as well as a lot of work involved to build up a loyal and strong customer base.
+A challenge of farmers’ markets for producers is that it favors farms that are located within easy commuting distance to cities. There is a large time commitment to attend regular markets, with some families unable to be away from the farm for that long. There is also a limited number of stalls available, as well as a lot of work involved to build up a loyal and strong customer base.
 
 Farmers’ Markets have been a driving force behind the local food movement and offer a fair and sustainable alternative to large retail models. They are great for farmers as they give them immediate access to a customer base. There is immense scope to extend the success of Farmers’ Markets beyond their physical location.
 
@@ -36,7 +34,7 @@ Retail outlets to mirror the farmers’ market experience and range, with improv
 
 [Regional Farmers Market](http://www.rfm.net.au/)
 
-##### _This model can be implemented on the Open Food Network. To learn about setting up a directory for your farmer’s market, or to read more about the online shop and administrative tools that the OFN offers, _[_click here_](https://openfoodnetwork.org/user-guide/model/farmers-market/)_or_[_email us_](mailto:hello@openfoodnetwork.org)_._
+##### _This model can be implemented on the Farm Fresh Web._
 
 
 
