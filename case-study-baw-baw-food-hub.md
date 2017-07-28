@@ -4,7 +4,7 @@
 
 ## Background
 
-The Baw Baw Food Hub is a non-profit group based in Warragul, in West Gippsland, Victoria Australia,. The hub sources local produce from organic and natural farmers in the region and makes this available to local customers throughout the year. Customers are encouraged to sign up for a ‘season’s’ worth of produce, in the form of mixed boxes which they pick up weekly. The hub’s consistent growth since its inception in 2013 is evidence of strong support from the hub’s broad and diverse customer base.
+The Baw Baw Food Hub is a non-profit group based in Warragul, in West Gippsland, Victoria Australia. The hub sources local produce from organic and natural farmers in the region and makes this available to local customers throughout the year. Customers are encouraged to sign up for a ‘season’s’ worth of produce, in the form of mixed boxes which they pick up weekly. The hub’s consistent growth since its inception in 2013 is evidence of strong support from the hub’s broad and diverse customer base.
 
 The hub operates under a number of core values which include improving the accessibility of quality food to everyone in the community; promoting the value the West Gippsland region’s produce;  supporting fair prices for farmers; encouraging land stewardship and agricultural diversity; and championing alternative food distribution business models.
 
@@ -32,7 +32,7 @@ The hub has also hosted functions to engage their customers and volunteers more 
 
 ## Baw Baw Food Hub’s Operational Model
 
-![](https://openfoodnetwork.org/wp-content/uploads/2016/01/Baw-Baw-33.png "Baw Baw Packing")
+![](/assets/29-BawBaw-2-Baw-Baw-33_old.png)
 
 ## Ordering
 
