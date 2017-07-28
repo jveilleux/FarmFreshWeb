@@ -1,7 +1,5 @@
 # Consumer Buying Groups
 
-
-
 ![](/assets/35-ConsumerBG-1-Group_old.png)
 
 A buying group is a group of people who traditionally live within close proximity to each other and who have come together to pool their resources and buy food in bulk. Collective buying often opens the group up to bulk discounts, which may be a driving factor, however the decision to start a Buying Group is often founded on shared values around food purchasing and consumption.
@@ -10,9 +8,9 @@ The group will jointly determine their values or sourcing criteria, which will i
 
 A buying group can purchase any number of items, be it fruit and vegetables, meat, dairy, dry goods or a mix of all. Depending on where, what and how they coordinate their buying, there will be a number of food safety standards to investigate and adhere to. The proper storage of meat, dairy and eggs often requires the most planning.
 
-Participants of a buying group are normally involved in the planning, shopping, sorting, and delivering of food. The time donated by certain members may be paid for in free or discounted food, as a way to incentivise the ongoing administration of the group.
+Participants of a buying group are normally involved in the planning, shopping, sorting, and delivering of food. The time donated by certain members may be paid for in free or discounted food, as a way to incentivize the ongoing administration of the group.
 
-Depending on the size and nature of the group, food may be delivered to someone’s house or a community hub \(hall, school, childcare centre\) for collection by other members. If the Buying Group includes the purchase of perishables, then the group will require access to a fridge/esky or other cold storage option at the delivery location.
+Depending on the size and nature of the group, food may be delivered to someone’s house or a community hub \(hall, school, childcare center\) for collection by other members. If the Buying Group includes the purchase of perishables, then the group will require access to a fridge or other cold storage option at the delivery location.
 
 The frequency of orders can again be determined by the Group and will also largely depend on the types of products included. For example, dry goods could be distributed less frequently than perishables.
 
@@ -20,7 +18,7 @@ Buying Groups may develop individual relationships with farmers, suppliers and p
 
 The resounding feedback from Buying Groups is that their success often depends on a couple of ‘champions’ who take on a lot of the administration, coordination and recruitment. Like any group or collective, a Buying Group also needs a leader or two. They are also more successful when an inherent sense of community already exists, whether it be in a regional town, suburb or through an existing school, group or club. It is not impossible to create a Buying Group in an area of identified need without an existing community structure, but it may take longer.
 
-Consumer buying groups can be informal of formalised as an incorporated association or a fully fledged consumer cooperative \(using a cooperative legal structure\).
+Consumer buying groups can be informal of formalized as an incorporated association or a fully fledged consumer cooperative \(using a cooperative legal structure\).
 
 ## Stories & Resources
 
