@@ -89,11 +89,15 @@ For Pin Payments you only require your API key. You need to set up an account wi
 
 **API Key: **Enter your “Live Secret API Key’ here – you can find this in your PinPayments account \(see below\). First from your account, select API Keys. Then once you have generated an API key, copy the ‘Live Secret API Key’ and paste it into the API key field in FFW.
 
-
-
 ![](/assets/28-PaymentMethods2-8-API-Keys_old.png)
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/API-2.png "API 2")**Server:**Type ‘live’ – this is case sensitive.
+
+
+
+
+![](/assets/28-PaymentMethods2-9-API-2_old.png)
+
+**Server:**Type ‘live’ – this is case sensitive.
 
 ## Fees on Payment Methods
 
