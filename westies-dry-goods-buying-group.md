@@ -1,9 +1,8 @@
 # Westies Dry Goods Buying Group
 
-  
 
 
-![](https://openfoodnetwork.org/wp-content/uploads/2016/10/Family-Pickup.jpg "Family Pickup")
+![](/assets/32-Westies-1-Family-Pickup_old.jpg)
 
 ## Background
 
@@ -35,7 +34,7 @@ The administration tasks of this group are completed almost solely by Kemmy, one
 
 ### Products and Suppliers
 
-Westies regularly offers a large range of dry goods, dairy and cleaning products. In total the average monthly order cycle will have around 300 products available for order.  Occasionally when excess produce becomes available from producers, members, or platforms like Yume, it is also traded through Westie’s facebook page. The group’s approach to selecting products is to prioritise organic or spray free items first, and secondly to select those which are Australian grown over imported. When Kemmy has received all of the orders she will see which items reached the bulk wholesale quantity, and place these orders with the suppliers. For products which had low quantities ordered, Kemmy will either not order them, or if they have a long shelf life and are likely to sell next month, she will order them and hold any leftover stock. The group has a total of seven suppliers; four dry goods wholesalers, one manufacturer, and two producers. Three of the suppliers deliver and Kemmy collects the stock from the other suppliers.
+Westies regularly offers a large range of dry goods, dairy and cleaning products. In total the average monthly order cycle will have around 300 products available for order.  Occasionally when excess produce becomes available from producers, members, or platforms like Yume, it is also traded through Westie’s facebook page. The group’s approach to selecting products is to prioritise organic or spray free items first, and secondly to select those which are Australian grown over imported. When Kemmy has received all of the orders she will see which items reached the bulk wholesale quantity, and place these orders with the suppliers. For products which had low quantities ordered, Kemmy will either not order them, or if they have a long shelf life and are likely to sell next month, she will order them and hold any leftover stock. The group has a total of seven suppliers; four dry goods wholesalers, one manufacturer, and two producers. Three of the suppliers deliver and Kemmy collects the stock from the other suppliers.
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2016/10/Prius-v-is-a-pretty-good-pick-up-car.jpg "Prius v is a pretty good pick up car!")
 
@@ -74,6 +73,4 @@ Shortly after the group expanded a Facebook group was created as a place where m
 ## The Future
 
 Westies doesn’t currently have any plans to change their operations in the future. They recognise that there is demand for organic food in their area beyond what Westies can cater to. Kemmy would love to see more food hubs and buying groups start up in the west of Melbourne, but sees that time and getting the startup finance pose significant barriers to this.
-
-
 
