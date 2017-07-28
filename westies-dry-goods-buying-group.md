@@ -50,8 +50,6 @@ Managing the group’s size is important to how effectively and efficiently the 
 
 While growing the group has benefits, it was important to restrict the group’s size, not only because of limitations around Kemmy’s capacity and the space she has available, but also to maintain the integrity of this model, which emphasizes fostering local connections and social capital. Kemmy believes that keeping the membership small and growing it by referrals only, is also vital for accountability. Westies’ customers often receive their goods in advance of paying, so it’s important that they are trustworthy and emotionally and socially invested in the buying group’s well being. Limiting the sizes of group means that Westies has a long waiting list, which is testament to the group’s positive reputation in the community.
 
-## 
-
 ![](/assets/32-Westies-4-Stockroom_old.jpg)
 
 ## Customers
