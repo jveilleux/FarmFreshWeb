@@ -21,7 +21,7 @@ Let’s use an example of almonds to illustrate, whereby a total order quantity 
 
 To designate the group buy feature to a product, go to Products in the horizontal blue menu, and then click edit next to the corresponding product \(see below\).
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/06/Edit-almonds.png "Edit almonds for group buy")
+![](/assets/36-GroupBuy-2-Edit-almonds_old.png)
 
 Then select **Yes **under **Group Buy **\(see below\).
 
