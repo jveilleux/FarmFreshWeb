@@ -50,15 +50,15 @@ Next, there are 2 fields when applying an enterprise property:
 
 _\* You can apply multiple properties to your enterprise_
 
-
-
 ![](/assets/38-ProductProperties-3-ent-properties_old.png)
 
 ## 2\) Assigning a property to a product
 
 To assign a property to a single product, rather than an enterprise’s entire product range, click on **Products **in the horizontal blue banner, and then edit an existing product \(you cannot apply a product property when you are first creating a product\).
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Property-to-product.png "Assigning a property to a product")
+
+
+![](/assets/38-ProductProperites-4-Property-to-product_old.png)
 
 Once you are editing the product,  click on ![](http://openfoodfoundation.org/sites/default/files/Product properties click.png)on the right hand side.
 
