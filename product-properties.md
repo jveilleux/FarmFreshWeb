@@ -15,6 +15,7 @@ You can apply product properties to your products, as a way of letting your cust
 * No Preservatives
 
 * Organic- Certified
+
 * Organic- Not Certified
 * Free Range
 * Biodynamic- Certified
@@ -23,7 +24,7 @@ _\*If you wish to apply a product property which is not listed here, get in touc
 
 There are two ways to assign properties to your products:
 
-1\) You can assign a property to an enterprise, so that all products belonging to that enterprise will carry this propoerty \(unless it’s manually removed, which is covered in the **“Inherited Properties” **section below\).
+1\) You can assign a property to an enterprise, so that all products belonging to that enterprise will carry this property \(unless it’s manually removed, which is covered in the **“Inherited Properties” **section below\).
 
 2\) You can assign properties to particular products, on an individual basis.
 
@@ -31,9 +32,9 @@ There are two ways to assign properties to your products:
 
 When you assign a property to an enterprise, all products belonging to that enterprise will, by default, carry that product property. For instance, if all of your products are ‘Minimum Spray’, you can assign this property to your enterprise, to save you from needing to manually apply this property to every product. If a property only applies to a few of your products, it’s better to apply it to the product, instead of the enterprise \(instructions below\).
 
-You can acess enterprise properties in one of two ways: In the **Enterprise **tab, you can select ‘Properties’ next to the corresponding enterprise \(below\).
+You can access enterprise properties in one of two ways: In the **Enterprise **tab, you can select ‘Properties’ next to the corresponding enterprise \(below\).
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Access-properties.png "access properties")
+![](/assets/38-Product Properties-1-Access-properties_old.png)
 
 Or you can click **Properties **in the enterprise profile management section \(below\).
 
