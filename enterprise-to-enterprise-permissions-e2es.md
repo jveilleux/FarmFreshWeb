@@ -10,7 +10,9 @@ There are four different kinds of E2E permissions. Applying these E2Es in differ
 
 ##### Permission to add to order cycle \(P-OC\)
 
-[![](https://openfoodnetwork.org/wp-content/uploads/2015/05/P-OC-table.png "P-OC")](https://openfoodnetwork.org/wp-content/uploads/2015/05/P-OC-table.png)
+[](https://openfoodnetwork.org/wp-content/uploads/2015/05/P-OC-table.png)
+
+![](/assets/41-E2E-1-P-OC-table_new.png)
 
 ##### Permission to [Add to Inventory](/inventory.md) \(P-I\) \(previously P-VO\)
 
