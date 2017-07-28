@@ -45,15 +45,15 @@ To setup a PayPal payment method, you need a PayPal business or merchant account
 
 2. Click Tools and then select API credentials
 
-
-
 ![](/assets/28-PaymentMethods2-4-Paypal-tools-API-credentials_old.png)
 
 1. Click on ‘View API Signature’  and you will see the API details you’ll need to set up PayPal in FFW.
 
 ![](/assets/28-PaymentMethods2-5-API-Access_old.png)
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Api-Signature.png "Api Signature")
+
+
+![](/assets/28-PaymentMethods2-6-Api-Signature_old.png)
 
 1. In FFW, make sure you are logged in as your Enterprise User. Go to an Enterprise and create a Payment Method. Select PayPal and fill in the details from the PayPal site.
 
