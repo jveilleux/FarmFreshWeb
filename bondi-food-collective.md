@@ -1,7 +1,7 @@
 # Bondi Food Collective
 
 [  
-![](https://openfoodnetwork.org/wp-content/uploads/2016/05/BFC-banner.png "BFC banner")](https://openfoodnetwork.org/wp-content/uploads/2016/05/BFC-banner.png)
+](https://openfoodnetwork.org/wp-content/uploads/2016/05/BFC-banner.png)![](/assets/31-Bondi-1-BFC-banner_old.png)
 
 ## Background
 
@@ -54,6 +54,4 @@ Member retention is also a challenge for BFC. Joining and shopping through BFC, 
 ## The Challenge of Scale
 
 Presently, the major goal for the BFC is to increase the size of their membership base that regularly order each week. This will allow them to offer better prices to their customers, and will also open the potential to offer additional collection points and times, to cater to a wider customer base.
-
-
 
