@@ -31,22 +31,17 @@ The **Group Buy Unit Size **is the amount that the group’s collective order ne
 
 ## Adjusting orders in Bulk Order Management
 
-In bulk order management you can view and edit customer orders for Bulk Buy products. In this case, I want to see if my customers have ordered at least 5kg of almonds. If they haven’t, I also want to see if I can raise their orders, according to their designated max quantities, to reach this 5kg threshold.
+In bulk order management you can view and edit customer orders for Bulk Buy products. In this case, I want to see if my customers have ordered at least 5lb of almonds. If they haven’t, I also want to see if I can raise their orders, according to their designated max quantities, to reach this 5lb threshold.
 
 1. Firstly I would select the order cycle or date range of interest.
 2. Then I would search for the product ‘almonds’.
 3. Make sure the ‘Max’ column is displayed so I can see each customers maximum order quantity.
-4. Next, click on Almonds in the Product:Unit column, to display the orders total box. Here I can see the cumulative minimum and maximum orders. In this case, the
-   **total quantity ordered**
-   is 4kg, which falls short of my bulk order quantity. But the
-   **max quantity ordered**
-   is 6kg, which shows that some customers are willing to raise their orders.
-5. Next, I can look at each customer’s max value, and raise their order
-   **Quantity**
-   , until the 5kg threshold is reached. Note: any changes to quantity will will be automatically captured in the price column.
+4. Next, click on Almonds in the Product:Unit column, to display the orders total box. Here I can see the cumulative minimum and maximum orders. In this case, the **total quantity ordered **is 4lb, which falls short of my bulk order quantity. But the
+   **max quantity ordered **is 6lb, which shows that some customers are willing to raise their orders.
+5. Next, I can look at each customer’s max value, and raise their order **Quantity **, until the 5lb threshold is reached. Note: any changes to quantity will will be automatically captured in the price column.
 6. Click update to save changes to customer orders.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/06/BOM-almonds.png "Bulk order management and group buy")
+![](/assets/36-GroupBuy-4-BOM-almonds_old.png)
 
 What does Current Fulfilled Orders and Max Fulfilled Order tell me?
 
