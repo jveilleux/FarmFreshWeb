@@ -1,6 +1,6 @@
 # Case Study: Baw Baw Food Hub
 
-![](https://openfoodnetwork.org/wp-content/uploads/2016/01/Bawww.jpg "Baw Baw")
+![](/assets/29-BawBaw-1-Bawww_old.jpg)
 
 ## Background
 
