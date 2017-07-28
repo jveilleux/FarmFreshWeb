@@ -18,13 +18,13 @@ There are four different kinds of E2E permissions. Applying these E2Es in differ
 
 ##### Permission to manage products \(P-P\)
 
-[](https://openfoodnetwork.org/wp-content/uploads/2015/05/P-P.png)
-
 ![](/assets/41-E2E-3-P-P_old.png)
 
 ##### Permission to edit profile \(P-Profile\)
 
-[![](https://openfoodnetwork.org/wp-content/uploads/2015/05/P-Profile.png "P-Profile")](https://openfoodnetwork.org/wp-content/uploads/2015/05/P-Profile.png)
+[](https://openfoodnetwork.org/wp-content/uploads/2015/05/P-Profile.png)
+
+![](/assets/41-E2E-4-P-Profile_old.png)
 
 ## Granting and Managing E2Es {#grantingandmanagingE2Es}
 
