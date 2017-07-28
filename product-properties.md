@@ -68,7 +68,7 @@ There are 2 fields when applying a product property:
 
 You can apply multiple product properties by clicking “**+ Add Product Properties**“
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/add-product-property.png "Add product property")
+![](/assets/38-ProductProperties-6-add-product-property_old.png)
 
 Remember to click **update **when you are finished.
 
