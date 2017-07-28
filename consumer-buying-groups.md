@@ -1,6 +1,8 @@
 # Consumer Buying Groups
 
-![](https://openfoodnetwork.org/wp-content/uploads/2016/08/Group.png "Group")
+
+
+![](/assets/35-ConsumerBG-1-Group_old.png)
 
 A buying group is a group of people who traditionally live within close proximity to each other and who have come together to pool their resources and buy food in bulk. Collective buying often opens the group up to bulk discounts, which may be a driving factor, however the decision to start a Buying Group is often founded on shared values around food purchasing and consumption.
 
