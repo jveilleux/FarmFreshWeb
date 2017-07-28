@@ -1,6 +1,6 @@
 # Bondi Food Collective
 
-[  
+[    
 ](https://openfoodnetwork.org/wp-content/uploads/2016/05/BFC-banner.png)![](/assets/31-Bondi-1-BFC-banner_old.png)
 
 ## Background
@@ -15,19 +15,19 @@ While this site allowed the BFC to trial their model, it had a number of drawbac
 
 ## Start-up resources which contributed to success
 
-Shann, a BFC founder, and the current president, emphasises how much assistance the BFC received in its early stages from other cooperatives. This came in the way of advice, sharing administration techniques, sharing supplier lists and also providing moral support and encouragement. In the early stages BFC had reached out to other cooperatives in the area, hosting a barbeque and meet and greet. This provided a valuable opportunity to network with others, opening channels for the sharing of knowledge and experiences. Since this initial barbeque a coop conference has been started in Sydney. Shann’s main piece of advice for others thinking of starting a food cooperative is to reach out to others working in the space. After all, she says, everyone is wanting the same thing so is willing to work together and cooperate.
+Shann, a BFC founder, and the current president, emphasizes how much assistance the BFC received in its early stages from other cooperatives. This came in the way of advice, sharing administration techniques, sharing supplier lists and also providing moral support and encouragement. In the early stages BFC had reached out to other cooperatives in the area, hosting a barbecue and meet and greet. This provided a valuable opportunity to network with others, opening channels for the sharing of knowledge and experiences. Since this initial barbecue a coop conference has been started in Sydney. Shann’s main piece of advice for others thinking of starting a food cooperative is to reach out to others working in the space. After all, she says, everyone is wanting the same thing so is willing to work together and cooperate.
 
 Another resource which the BFC attributes their early success to was their social media and public relations savvy member, Justin, who’s efforts in promoting the BFC increased the size of the membership base dramatically.
 
 ## BFC’s Operational Model
 
-Bondi Food Collective fulfils between 10-35 orders each week. Their product range includes fresh fruit and vegetables, meat, fish, nuts, grains, bread and assorted pantry items. One of the BFC’s points of difference from other produce delivery schemes is that customers can select the exact content of their order, rather than choosing from set produce boxes.
+Bondi Food Collective fulfills between 10-35 orders each week. Their product range includes fresh fruit and vegetables, meat, fish, nuts, grains, bread and assorted pantry items. One of the BFC’s points of difference from other produce delivery schemes is that customers can select the exact content of their order, rather than choosing from set produce boxes.
 
 ### Member Ordering
 
 Each Friday afternoon members receive an order sheet from the BFC which lists the products which will be available for the coming week. They have until Sunday evening to return their form. The BFC manager will then collate the orders, and forward the order quantities to suppliers.
 
-[![](https://openfoodnetwork.org/wp-content/uploads/2016/05/BFC.jpg "BFC members")](https://openfoodnetwork.org/wp-content/uploads/2016/05/BFC.jpg)
+[](https://openfoodnetwork.org/wp-content/uploads/2016/05/BFC.jpg)![](/assets/31-Bondi-2-BFC_old.jpg)
 
 Shann and Kirsten with OFN members, learning to use the OFN.
 
