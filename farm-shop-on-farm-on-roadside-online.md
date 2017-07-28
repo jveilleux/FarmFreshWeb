@@ -1,7 +1,5 @@
 # Farm Shop \(on-farm / on roadside / online\)
 
-
-
 ![](/assets/40-FarmShop-1-Farm-Shop_old.jpg)
 
 As the name suggests, this model involves the establishment of a retail store to enable direct-marketing to customers. This can be in the form of an on-farm shop, by a roadside, online or a mix of these.
@@ -10,7 +8,7 @@ A direct marketing approach to selling is often a viable option for small-to-med
 
 Running a Farm Shop effectively cuts out the middleman and the costs associated with this, allowing for higher margins. There is, however, often a greater investment of time and resources to build a customer base. This model suits producers who have opted for high value production practices such as free range, organic, biodynamic, diversified crops etc.
 
-Farm Shops are also more common amongst farmers who live within close proximity to a town or city, with a continuous access to market. They are also common amongst farmers who value transparency and are happy to invite customers in to learn about their farming style.
+Farm Shops are also more common among farmers who live within close proximity to a town or city, with a continuous access to market. They are also common among farmers who value transparency and are happy to invite customers in to learn about their farming style.
 
 When considering whether to set-up a Farm Shop it is important to assess the farms’ ability to support the initial start-up costs, support the opening hours, offer affordable delivery options for online orders, administer the chosen system or program and look at how to supplement farm income whilst the direct marketing approach grows.
 
@@ -44,7 +42,7 @@ Browse our other marketing resources on the public library [here](https://www.di
 
 ## 
 
-##### _This model can be implemented on the Farm Fresh Web. To learn about setting up an online shop and using the FFW’s administrative tools, check out our _[_user guide_](/README.md) _or email us at hellow@farmfreshweb.com._
+##### _This model can be implemented on the Farm Fresh Web. To learn about setting up an online shop and using the FFW’s administrative tools, check out our _[_user guide_](/README.md) _or email us at hello@farmfreshweb.com._
 
 
 
