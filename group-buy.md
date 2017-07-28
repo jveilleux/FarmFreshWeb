@@ -27,7 +27,7 @@ Then select **Yes **under **Group Buy **\(see below\).
 
 The **Group Buy Unit Size **is the amount that the group’s collective order needs to reach. In this case we need a total order of 5kg or more, so I’ll write 5000. Note: The Group Buy Unit Size is in g \(for products sold by weight\) and L \(for products sold by volume\).
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/06/Group-Buy-Unit-Size.png "Group Buy Unit Size")
+![](/assets/36-GroupBuy-3-Group-Buy-Unit-Size_old.png)
 
 ## Adjusting orders in Bulk Order Management
 
