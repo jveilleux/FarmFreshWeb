@@ -90,11 +90,9 @@ In the shopfront, customers can see product properties by clicking on the produc
 
 Properties which apply to the product are shown as an icon, next to the product category.
 
-
-
 ![](/assets/38-ProductProperties-9-Corn-cob-pop-out-window_old.png)
 
 Customers can also search according to product properties within a shop. This tool is placed in the top right hand corner of the store and allows customer to search for products according to their properties.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/filter-by-property.png "Filter by property in shop")
+![](/assets/38-ProductProperties-10-filter-by-property_old.png)
 
