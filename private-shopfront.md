@@ -4,13 +4,15 @@ If you don’t want your shopfront to be visible to the public, or for anybody t
 
 To set this up, you should first maintain your **Customer **list.
 
-[](https://openfoodnetwork.org/wp-content/uploads/2015/10/Customerssssss.png)
+
 
 ![](/assets/37-PrivateShop-1-Customers_old.png)
 
 The list will include all customers who have previously placed an order in your shop. You can also add customers manually, at the bottom of the list. Then in future, if they come to shop with you, they’ll be permitted.
 
-[![](https://openfoodnetwork.org/wp-content/uploads/2016/04/Add-new-customer.png "Add new customer")](https://openfoodnetwork.org/wp-content/uploads/2016/04/Add-new-customer.png)
+[](https://openfoodnetwork.org/wp-content/uploads/2016/04/Add-new-customer.png)
+
+![](/assets/37-PrivateShop-2-Add-new-customer_old.png)
 
 You can also delete customers who you no longer want to be able to see your shop.
 
