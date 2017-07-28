@@ -18,7 +18,5 @@ After updating your customer list, you can set your shopfront to private. Go to 
 
 Now customers will be prompted to login before they can see your shop, and only those on your customer list will be permitted into the shop.
 
-[](https://openfoodnetwork.org/wp-content/uploads/2016/04/Demo-login-required.png)
-
 ![](/assets/37-PrivateShop-4-Demo-login-required_old.png)
 
