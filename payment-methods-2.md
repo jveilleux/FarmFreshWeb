@@ -51,8 +51,6 @@ To setup a PayPal payment method, you need a PayPal business or merchant account
 
 ![](/assets/28-PaymentMethods2-5-API-Access_old.png)
 
-
-
 ![](/assets/28-PaymentMethods2-6-Api-Signature_old.png)
 
 1. In FFW, make sure you are logged in as your Enterprise User. Go to an Enterprise and create a Payment Method. Select PayPal and fill in the details from the PayPal site.
@@ -63,7 +61,7 @@ To setup a PayPal payment method, you need a PayPal business or merchant account
 
 **Signature:**Type the Signature  in this field.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/New-Payment-Paypal-1.png "New Payment Paypal")
+![](/assets/28-PaymentMethods2-7-New-Payment-Paypal-1_old.png)
 
 **Server**
 
