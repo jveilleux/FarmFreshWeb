@@ -19,6 +19,7 @@ You can apply product properties to your products, as a way of letting your cust
 * Organic- Not Certified
 
 * Free Range
+
 * Biodynamic- Certified
 
 _\*If you wish to apply a product property which is not listed here, get in touch and we will consider creating a new on, if there is widespread demand._
@@ -39,8 +40,6 @@ You can access enterprise properties in one of two ways: In the **Enterprise **t
 
 Or you can click **Properties **in the enterprise profile management section \(below\).
 
-
-
 ![](/assets/38-ProductProperties-2-access-properties-2_old.png)
 
 Next, there are 2 fields when applying an enterprise property:
@@ -51,7 +50,9 @@ Next, there are 2 fields when applying an enterprise property:
 
 _\* You can apply multiple properties to your enterprise_
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/ent-properties.png "Enterprise properties fields")
+
+
+![](/assets/38-ProductProperties-3-ent-properties_old.png)
 
 ## 2\) Assigning a property to a product
 
