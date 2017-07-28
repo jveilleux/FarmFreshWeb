@@ -1,6 +1,6 @@
 # Case Study: Farm Foodstore
 
-[    
+[      
 ](https://openfoodnetwork.org/wp-content/uploads/2016/01/Farm-Food-Store-image.png)![](/assets/30-FarmFoodstore-1-Farm-Food-Store-image_old.png)
 
 ## Background
@@ -23,7 +23,9 @@ On a weekly basis, Kellie opens her FFW shopfront which is stocked with products
 
 In addition to fresh produce sourced through the SEFH, Farm Foodstore also sources dry goods and pantry items for sale in their once monthly online dry goods store. Customers can add items such as flour, tea and nuts to their vegetable order. The hub also sells baked goods on behalf of a local disability support service, to raise funds for their programs.
 
-[![](https://openfoodnetwork.org/wp-content/uploads/2016/01/farm-food-store-pic.png "Farm food store order")](https://openfoodnetwork.org/wp-content/uploads/2016/01/farm-food-store-pic.png)
+[](https://openfoodnetwork.org/wp-content/uploads/2016/01/farm-food-store-pic.png)
+
+![](/assets/30-FarmFoodstore-2-farm-food-store-pic_old.png)
 
 ## Customers
 
