@@ -4,7 +4,7 @@ The Group Buy function is designed for enterprises who purchase some of their in
 
 When a product is allocated to group buy it will display differently in the shopfront \(see below\).
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/06/Group-Buy.png "Group buy in shopfront")
+![](/assets/36-GroupBuy-1-Group-Buy_old.png)
 
 Customer are asked to indicate:
 
