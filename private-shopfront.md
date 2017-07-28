@@ -8,8 +8,6 @@ To set this up, you should first maintain your **Customer **list.
 
 The list will include all customers who have previously placed an order in your shop. You can also add customers manually, at the bottom of the list. Then in future, if they come to shop with you, they’ll be permitted.
 
-
-
 ![](/assets/37-PrivateShop-2-Add-new-customer_old.png)
 
 You can also delete customers who you no longer want to be able to see your shop.
@@ -20,5 +18,7 @@ After updating your customer list, you can set your shopfront to private. Go to 
 
 Now customers will be prompted to login before they can see your shop, and only those on your customer list will be permitted into the shop.
 
-[![](https://openfoodnetwork.org/wp-content/uploads/2016/04/Demo-login-required.png "Login required message")](https://openfoodnetwork.org/wp-content/uploads/2016/04/Demo-login-required.png)
+[](https://openfoodnetwork.org/wp-content/uploads/2016/04/Demo-login-required.png)
+
+![](/assets/37-PrivateShop-4-Demo-login-required_old.png)
 
