@@ -2,7 +2,7 @@
 
 Any customers who have placed an order in your shop will be listed on the **Customer Page**. Each unique email address used, will be listed as a unique customer. You can also add customer emails to your list by typing the email in the Add New Customer field. Once customers are in your customers page, you will be able to apply tags to them  \(see below\).
 
-## [![](https://openfoodnetwork.org/wp-content/uploads/2015/10/customers.png "customers")](https://openfoodnetwork.org/wp-content/uploads/2015/10/customers.png)
+## [](https://openfoodnetwork.org/wp-content/uploads/2015/10/customers.png)![](/assets/43-CustomerAccounts-1-customers_old.png)
 
 ## Customer Billing and Shipping Address
 
