@@ -71,15 +71,13 @@ Firstly, you’ll need to select which tag your new tag rule will apply to. To d
 
 Next you can select which condition your rule is based on.
 
-
-
 ![](/assets/43-CustomerAccounts-5-Rule-Typess_old.png)
 
 #### **Show or Hide Variants in my shopfront**
 
 This rule lets you make particular variants visible/invisible to tagged customers. For this rule to operate you need to have tagged the customer and the product variant **in your inventory** with the same tag. The screenshot below shows that my 10lb apple variant is tagged ‘wholesale’ in inventory.
 
-[![](https://openfoodnetwork.org/wp-content/uploads/2015/10/Inventory-tagged.png "Inventory tagged")](https://openfoodnetwork.org/wp-content/uploads/2015/10/Inventory-tagged.png)![](/assets/43-CustomerAccounts-6-Inventory-tagged_old.png)
+[](https://openfoodnetwork.org/wp-content/uploads/2015/10/Inventory-tagged.png)![](/assets/43-CustomerAccounts-6-Inventory-tagged_old.png)
 
 * **Invisible:**
    If by default your variants are visible, you can select to make them invisible for customers with a particular tag.
