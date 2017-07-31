@@ -42,7 +42,7 @@ When a user owns multiple enterprises, E2E permissions are created automatically
 
 No automatic E2Es are created between enterprises owned by different users.
 
-# E2Es from a hub’s perspective
+# E2Es from a farmers market perspective
 
 The following scenarios demonstrate the E2Es structures required in different circumstances.
 
@@ -69,9 +69,9 @@ _Do you distribute through buying groups? If so make sure to check out the E2E r
 
 #### 3\) My farmers market distributes through buying groups, what E2Es will the buying group need with my farmers market, and my producers?
 
-For a hub to designate a buying group as a distributor in an order cycle, they must have P-OC from that buying group enterprise.
+For a farmers market to designate a buying group as a distributor in an order cycle, they must have P-OC from that buying group enterprise.
 
-* If the user who owns the farmers market also owns the buying group, P-OC will automatically be granted to the hub.
+* If the user who owns the farmers market also owns the buying group, P-OC will automatically be granted to the farmers market.
 * If the hub and buying group are owned by different users, the buying group owner will need to grant P-OC to the farmers market, so that they can act as a distributor.
 
 Further, buying groups must have P-OC from all producers, of any products that will be distributed through the buying group.
@@ -96,7 +96,7 @@ Use the following examples to explore your options.
 
 #### 3\) I run my own shopfront and also stock through a farmers market. The farmers market wants me to give them P-P so they can change my stock levels and product prices. But this will impact on how I run my shop. What should I do?
 
-The scenario described can be solved by granting P-I \([**Add to Inventory**](/inventory.md)\). This allows the hub to stock your products in their shop, but to set their own prices and inventory levels. When you stock your own shop with your products, they will continue to reflect the prices and stock levels that you have set.
+The scenario described can be solved by granting P-I \([**Add to Inventory**](/inventory.md)\). This allows the farmers market to stock your products in their shop, but to set their own prices and inventory levels. When you stock your own shop with your products, they will continue to reflect the prices and stock levels that you have set.
 
 # E2Es from a buying group’s perspective
 
