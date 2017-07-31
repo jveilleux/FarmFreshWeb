@@ -10,7 +10,7 @@ You can charge the average price of the product, and then reimburse or charge th
 
 When you know the real weight of your products, you can update orders in Bulk Order Management. Search for the Leg of Lamb so that you view all orders containing this product. Make the ‘weight/volume’ column visible. The values in this column can be edited to reflect the real weights of the legs of lamb allocated to each customer. The example below shows that when Claire’s order is adjusted to a 1.5lb leg of lamb, the price automatically recalculates. Click update to save this change.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Change-to-order-weightvolume.png "bulk order management change to weight/volume")
+![](/assets/42-PriceIrregular-1-Change-to-order-weightvolume_old.png)
 
 Now, when you view Claire’s order, the correct total will display, and all reports will reflect this change. You may wish to resend the order confirmation to the customer as well.
 
