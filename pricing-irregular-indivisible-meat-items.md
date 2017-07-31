@@ -22,7 +22,7 @@ This is a similar approach to above, but instead of listing the average you can 
 
 If you have the unique items on hand, you can list each individual item, with its accurate weight and price. For instance, the example below shows pre-weighed and packed frozen legs of lamb listed as unique variants, with an on hand value of 1. The image below shows how the product variants are entered, and how they will display in the shopfront.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Leg-of-lamb-example.png "Pricing a leg of lamb in shopfront")
+![](/assets/42-PriceIrregular-2-Leg-of-lamb-example_old.png)
 
 #### Irregular supply
 
