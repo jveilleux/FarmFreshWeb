@@ -86,7 +86,7 @@ This rule lets you make particular variants visible/invisible to tagged customer
 
 The example below shows that my wholesale variants are invisible by default. A rule has been created so that variants tagged wholesale are made visible just for customers tagged ‘wholesale’.
 
-[](https://openfoodnetwork.org/wp-content/uploads/2015/10/Inventory-taggedd.png)
+
 
 ![](/assets/43-CustomerAccounts-7-Inventory-tagged_old.png)
 
