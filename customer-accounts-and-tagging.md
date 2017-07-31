@@ -32,7 +32,7 @@ Using the tagging feature involves two main steps:
 
 ### Tagging Customers
 
-Any customer’s who have placed an order in your shop will be listed on the C**ustomers **page \([https://www.openfoodnetwork.org.au/admin/customers](https://www.openfoodnetwork.org.au/admin/customers)\). Each unique email address used, will be listed as a unique customer.
+Any customer’s who have placed an order in your shop will be listed on the C**ustomers **page. Each unique email address used, will be listed as a unique customer.
 
 You can create a tag for groups of customers, such as your members or your wholesale customers, for whom you will set up tag rules \(which carry a discount, or special shipping methods\). To create a tag, type the tag in the **tag** column next to a customer and hit the enter button when you’re done. You should do this for all customers in the group \(this could just be one, or many customers\). You can add multiple tags to a single customer also. Remember to type the tag with identical characters each time \(tags are case sensitive\).
 
