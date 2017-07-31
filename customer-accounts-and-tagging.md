@@ -61,7 +61,7 @@ By default, all items will be visible to all customers whether they are tagged o
 
 The example below shows that my shipping methods tagged ‘wholesale’ will now be invisible by default. If I then wish to make these shipping methods available to customers tagged wholesale I’ll need to set up a Tag Rule below overriding this default.
 
-[](https://openfoodnetwork.org/wp-content/uploads/2015/10/Default-tags.png)
+
 
 ![](/assets/43-CustomerAccounts-4-Default-tags_old.png)
 
@@ -73,7 +73,9 @@ Firstly, you’ll need to select which tag your new tag rule will apply to. To d
 
 Next you can select which condition your rule is based on.
 
-[![](https://openfoodnetwork.org/wp-content/uploads/2015/10/Rule-Typess.png "Rule Types")](https://openfoodnetwork.org/wp-content/uploads/2015/10/Rule-Typess.png)
+[](https://openfoodnetwork.org/wp-content/uploads/2015/10/Rule-Typess.png)
+
+![](/assets/43-CustomerAccounts-5-Rule-Typess_old.png)
 
 #### **Show or Hide Variants in my shopfront**
 
