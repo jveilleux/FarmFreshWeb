@@ -36,7 +36,7 @@ Any customer’s who have placed an order in your shop will be listed on the C**
 
 You can create a tag for groups of customers, such as your members or your wholesale customers, for whom you will set up tag rules \(which carry a discount, or special shipping methods\). To create a tag, type the tag in the **tag** column next to a customer and hit the enter button when you’re done. You should do this for all customers in the group \(this could just be one, or many customers\). You can add multiple tags to a single customer also. Remember to type the tag with identical characters each time \(tags are case sensitive\).
 
-[](https://openfoodnetwork.org/wp-content/uploads/2015/10/Customer-taggs.png)![](/assets/43-CustomerAccounts-3-Customer-taggs_old.png)
+![](/assets/43-CustomerAccounts-3-Customer-taggs_old.png)
 
 Once you have applied tags to your customers, you can then apply **Tag Rules **to control certain setting for customers in certain tag groups \(see Tag Rules below\).
 
@@ -61,7 +61,9 @@ By default, all items will be visible to all customers whether they are tagged o
 
 The example below shows that my shipping methods tagged ‘wholesale’ will now be invisible by default. If I then wish to make these shipping methods available to customers tagged wholesale I’ll need to set up a Tag Rule below overriding this default.
 
-[![](https://openfoodnetwork.org/wp-content/uploads/2015/10/Default-tags.png "Default tags")](https://openfoodnetwork.org/wp-content/uploads/2015/10/Default-tags.png)
+[](https://openfoodnetwork.org/wp-content/uploads/2015/10/Default-tags.png)
+
+![](/assets/43-CustomerAccounts-4-Default-tags_old.png)
 
 ### Tag Rules
 
