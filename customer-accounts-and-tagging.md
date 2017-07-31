@@ -12,8 +12,6 @@ What’s the benefit of saving default address details? These details will be au
 
 If a customer changes address, they can also update their default address records during checkout by selecting the ‘save as default’ checkbox:
 
-## [](https://openfoodnetwork.org/wp-content/uploads/2015/10/save.png)
-
 ## ![](/assets/43-CustomerAccounts-2-save_old.png)
 
 ## Customer Tagging
