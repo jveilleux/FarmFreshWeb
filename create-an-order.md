@@ -14,8 +14,6 @@ The next step is to add in the customer’s details. If it is a customer who is 
 
 Click **Continue **to select a shipping method. Then click **Update**.
 
-[](https://openfoodnetwork.org/wp-content/uploads/2015/12/Shipping.png)
-
 ![](/assets/45-CreateOrder-3-Shipping_old.png)
 
 Next you will be able to make any adjustments to the order, such as including a fee. Once you have done this click **Continue**.
