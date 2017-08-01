@@ -114,7 +114,9 @@ This rule lets you make particular payment methods specifically available or una
 
 This rule lets you make certain order cycles visible to certain customers only. For this rule to operate you need to have tagged the customer and the order cycle with the same tag. To tag an order cycle, see the Tags tab in the outgoing section of an order cycle \(see below\).
 
-[![](https://openfoodnetwork.org/wp-content/uploads/2015/10/Outgoing.png "Tag OC in Outgoing")](https://openfoodnetwork.org/wp-content/uploads/2015/10/Outgoing.png)
+[](https://openfoodnetwork.org/wp-content/uploads/2015/10/Outgoing.png)
+
+![](/assets/43-CustomerAccounts-10-Outgoing_old.png)
 
 * **Invisible:**
    If by default your order cycles are visible, when you set the rule where ‘Order cycles tagged\_are invisible’ order cycles with the tag will be hidden from customers with a matching tag. Untagged order cycles will still be visible to these customers.
