@@ -86,15 +86,13 @@ This rule lets you make particular variants visible/invisible to tagged customer
 
 The example below shows that my wholesale variants are invisible by default. A rule has been created so that variants tagged wholesale are made visible just for customers tagged ‘wholesale’.
 
-
-
 ![](/assets/43-CustomerAccounts-7-Inventory-tagged_old.png)
 
 #### **Show/Hide shipping methods**
 
 This rule lets you make particular shipping methods specifically available or unavailable to certain customers. For this rule to operate you need to have tagged the customer and the shipping method with the same tag. To tag a shipping method, go to **edit shipping method **and apply the relevant tag. E.g. the shipping method below has been tagged ‘wholesale’.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/10/Tagging-a-shipping-method.png "Tagging a shipping method")
+![](/assets/43-CustomerAccounts-8-Tagging-a-shipping-method_old.png)
 
 * **Invisible:**
    If by default your shipping methods are visible, when you set the rule where ‘shipping methods tagged\_are invisible’ shipping methods with the tag will be hidden from customers with a matching tag when they checkout. Untagged shipping methods will still be visible to these customers.
@@ -105,7 +103,9 @@ This rule lets you make particular shipping methods specifically available or un
 
 This rule lets you make particular payment methods specifically available or unavailable to particular customers. For this rule to operate you first need to have tagged the customer and the payment method with the same tag. To tag a shipping method, go to **edit payment method **and apply the relevant tag. E.g. the payment method below has been tagged ‘wholesale’.
 
-[![](https://openfoodnetwork.org/wp-content/uploads/2015/10/Tagged-payment.png "Tagged payment method")](https://openfoodnetwork.org/wp-content/uploads/2015/10/Tagged-payment.png)
+[](https://openfoodnetwork.org/wp-content/uploads/2015/10/Tagged-payment.png)
+
+![](/assets/43-CustomerAccounts-9-Tagged-payment_old.png)
 
 * **Invisible:**
    If by default your payment methods are visible, when you set the rule where ‘payment methods tagged\_are invisible’ payment methods with the tag will be hidden from customers with a matching tag when they checkout. Untagged payment methods will still be visible to these customers.
