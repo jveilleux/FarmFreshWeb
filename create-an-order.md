@@ -1,8 +1,8 @@
 # Create an order
 
-Sometimes you may wish to manually put an order into the system. This may be on behalf of a customer, or so that your reports will capture an order from a different sales stream. You can create an order by going to **Orders **and clicking on the**+ New Order **button.
+Sometimes you may wish to manually put an order into the system. This may be on behalf of a customer, or so that your reports will capture an order from a different sales stream. You can create an order by going to **Orders **and clicking on the **+ New Order **button.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/12/New-Order.png "New order")
+![](/assets/45-CreateOrder-1-New-Order_old.png)
 
 Firstly you will be prompted to select the distributor that the order will be placed with. This will usually be your hub or producer shopfront, but you may also wish to place an order into a buying group that is associated with you hub. Next you will need to select the order cycle that you want the order to be placed in. You choice of order cycle will dictate which products will be available to be added into the order and the fees applied. For example, if you select the June order cycle, you won’t be able to put products that were not in that order cycle into your new order.
 
