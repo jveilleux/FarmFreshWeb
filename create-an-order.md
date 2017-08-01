@@ -20,5 +20,9 @@ Next you will be able to make any adjustments to the order, such as including a 
 
 Finally you can select the customer’s payment method.
 
-[![](https://openfoodnetwork.org/wp-content/uploads/2015/12/Payment-method.png "Payment method")](https://openfoodnetwork.org/wp-content/uploads/2015/12/Payment-method.png)Clicking **update **will finalise this order and send an email confirmation to the customer.
+[](https://openfoodnetwork.org/wp-content/uploads/2015/12/Payment-method.png)
+
+![](/assets/45-CreateOrder-4-Payment-method_old.png)
+
+Clicking **update **will finalise this order and send an email confirmation to the customer.
 
