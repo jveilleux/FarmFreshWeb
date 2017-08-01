@@ -103,8 +103,6 @@ This rule lets you make particular shipping methods specifically available or un
 
 This rule lets you make particular payment methods specifically available or unavailable to particular customers. For this rule to operate you first need to have tagged the customer and the payment method with the same tag. To tag a shipping method, go to **edit payment method **and apply the relevant tag. E.g. the payment method below has been tagged ‘wholesale’.
 
-[](https://openfoodnetwork.org/wp-content/uploads/2015/10/Tagged-payment.png)
-
 ![](/assets/43-CustomerAccounts-9-Tagged-payment_old.png)
 
 * **Invisible:**
