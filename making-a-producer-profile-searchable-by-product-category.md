@@ -1,8 +1,8 @@
 # Making a producer profile searchable by product category
 
-When customers come to the Open Food Network, they are able to search for producers by name or location. They are also able to filter the producer profiles according to what kinds of products the producers stock \(see below\).
+When customers come to Farm Fresh Web, they are able to search for producers by name or location. They are also able to filter the producer profiles according to what kinds of products the producers stock \(see below\).
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/08/Filter-by-product.png "Filter by product")
+![](/assets/47-MakingSearchable-1-Filter-by-product_old.png)
 
 Producers with online shops on the FFW have products in the system, which get picked up by the search filter tool. However, producers who don’t have an FFW shop \(just a profile\) won’t be searchable in this way, unless they add some fake products into the system. By adding a dummy product for each product category that you want to be searchable under, you’ll show up when customers search for your products.
 
