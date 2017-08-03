@@ -8,7 +8,7 @@ Using an example of Corn Cobs, let’s imagine that you want to sell individual 
 
 When you first create the product, fill out the details of one of your product variants \(one corn cob for $0.80\).
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Corn-cobs.png "corn cob product")
+![](/assets/48-ProductVariants-2-Corn-cobs_old.png)
 
 On the **Bulk Edit Products **page, you will see the previously created product ‘corn cobs’. By clicking on the plus symbol to the left of the product, a new variant will be created below. Because we will have two variants, we’ll need to click this button twice \(the original does not count once a variant is created\). You’ll now see two additional rows appear below the original product.
 
