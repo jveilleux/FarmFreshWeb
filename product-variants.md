@@ -38,7 +38,7 @@ Note: You can add as many variants as you like.
 
 The diagram below shows the completed variant form for the corn cobs, and also how this will be presented in the online store.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Corn-Cobs3.png "Corn cob variants")
+![](/assets/48-ProductVariants-4-Corn-Cobs3_old.png)
 
 When finished, click **Save Changes**.
 
