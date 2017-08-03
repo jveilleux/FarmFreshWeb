@@ -12,7 +12,7 @@ When you first create the product, fill out the details of one of your product v
 
 On the **Bulk Edit Products **page, you will see the previously created product ‘corn cobs’. By clicking on the plus symbol to the left of the product, a new variant will be created below. Because we will have two variants, we’ll need to click this button twice \(the original does not count once a variant is created\). You’ll now see two additional rows appear below the original product.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Add-variant.png)
+![](/assets/48-ProductVariants-3-Add-variant_old.png)
 
 The top row represents this collection of variants. The name in this row, Corn Cobs, will be the heading of this collection of variants. We can leave the top row as it is.
 
