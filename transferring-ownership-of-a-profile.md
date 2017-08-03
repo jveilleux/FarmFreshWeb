@@ -1,6 +1,6 @@
 # Transferring ownership of a profile
 
-There are some cases where users need to transfer ownership of a profile to other users. For instance, when a hub or group page is getting set up, producer profiles are often created by the hub or group, on behalf of the producer. This page outlines how, as a profile owner, you can transfer ownership of a profile to someone else.
+There are some cases where users need to transfer ownership of a profile to other users. For instance, when a farmers market or group page is getting set up, producer profiles are often created by the farmers market or group, on behalf of the producer. This page outlines how, as a profile owner, you can transfer ownership of a profile to someone else.
 
 The first step is to go to the **Users **section of the profile.
 
