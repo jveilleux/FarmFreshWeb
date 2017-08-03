@@ -44,7 +44,7 @@ When finished, click **Save Changes**.
 
 Two additional examples of product variants are provided below.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Carton-of-Eggs2.png "carton of eggs variants")
+![](/assets/48-ProductVariants-5-Carton-of-Eggs2_old.png)
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/JamVariants.png "jam product variants")
 
