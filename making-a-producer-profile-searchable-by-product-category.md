@@ -18,5 +18,7 @@ Because you don’t have an FFW shopfront, this product won’t be visible anywh
 
 Their summary profile will also indicate that they sell meat products \(below\).
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/08/Meat.png "Meat icon on profile")
+
+
+![](/assets/47-MakingSearchable-4-Meat_old.png)
 
