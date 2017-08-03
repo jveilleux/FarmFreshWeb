@@ -46,5 +46,5 @@ Two additional examples of product variants are provided below.
 
 ![](/assets/48-ProductVariants-5-Carton-of-Eggs2_old.png)
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/JamVariants.png "jam product variants")
+![](/assets/48-ProductVariants-6-JamVariants_old.png)
 
