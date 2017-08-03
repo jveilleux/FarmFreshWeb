@@ -4,9 +4,9 @@ If you are listing two or more products which are very similar, but only vary on
 
 Using an example of Corn Cobs, let’s imagine that you want to sell individual corn cobs for $0.80 each, or 5 corn cobs for the discounted price of $3. Each of these products will be a product variant. Below, is the final product listing on the FFW store. The following section will describe the steps involved in creating this listing.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/CornCob-Variants.png "corn cob listing with two variants")
+![](/assets/48-ProductVariants-1-CornCob-Variants_old.png)
 
-When you first create the product, fill out the details of one of your product variants \(one corn cob for $0.80\). 
+When you first create the product, fill out the details of one of your product variants \(one corn cob for $0.80\).
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Corn-cobs.png "corn cob product")
 
@@ -19,7 +19,7 @@ The top row represents this collection of variants. The name in this row, Corn C
 The second row, will be the first variant \(1 Corn Cob, for $0.80\).
 
 * The **name **column will be automatically filled, from the original product. However, we want to overwrite this to say _Corn Cob_, instead of _Corn Cobs._
-* In the **unit/value **column, we type _1 _because this variant is for an individual cob.
+* In the **unit/value **column, we type \_1 \_because this variant is for an individual cob.
 * The **display as **column will automatically fill with ‘1 Corn Cobs’ in the store. This isn’t quite right, so we can overwrite this with _1 corn cob _.
 * Enter the **price **for this 1 Corn Cob \(.80\) 
 * Lastly indicate what quantity of this product you have **on hand**.
@@ -28,7 +28,7 @@ The second row, will be the first variant \(1 Corn Cob, for $0.80\).
 
 The third row, will be for the second variant \(5 cobs for $3\).
 
-* Because we want this variant to display as ‘5 corn cobs’, we can accept the automatically filled _Corn Cobs _in the **name **column.
+* Because we want this variant to display as ‘5 corn cobs’, we can accept the automatically filled \_Corn Cobs \_in the **name **column.
 * In the **unit/value **column, we type _5._
 * The **display as **column will automatically fill with _5 Corn Cobs_, which is correct.
 * Enter the **price **for 5 corn cobs \($3\)
