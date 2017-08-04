@@ -6,7 +6,7 @@ The coordinator has the highest degree of control over an order cycle. Other pla
 
 ### The Coordinator
 
-_When the Coordinator of an order cycle is a hub, the full OC interface is loaded…_
+_When the Coordinator of an order cycle is a farmers market, the full OC interface is loaded…_
 
 * Create order cycles
 * Set and edit the name of the order cycle and the opening and closing dates.
@@ -33,7 +33,7 @@ _When the Coordinator of an order cycle is a hub, the full OC interface is loade
 To do this the distributor must be:
 
 1. valid \(have verified their confirmation email, as this is where order confirmations will be sent from and to\). \(a warning message will show if this condition is not met\)
-2. be a hub \(type ‘any’\)
+2. be a farmers market \(type ‘any’\)
 3. have granted the coordinator P-OC
 4. have at least one active shipping and payment method. \(a warning message will show if this condition is not met\)
 
