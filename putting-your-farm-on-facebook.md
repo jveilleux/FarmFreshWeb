@@ -6,7 +6,9 @@ To create a page for your farm \(or business\) on Facebook, you’ll first need 
 
 Once you have an account and you are logged in, click on **Home **in the top menu and then click **create page **in the left hand vertical menu.
 
-[![](https://openfoodnetwork.org/wp-content/uploads/2015/09/create-page.png "create page")](https://openfoodnetwork.org/wp-content/uploads/2015/09/create-page.png)
+[](https://openfoodnetwork.org/wp-content/uploads/2015/09/create-page.png)
+
+![](/assets/55-PuttingOnFB-1-create-page_old.png)
 
 Next, select the **local business or place **option, and fill out your details \(see below\). The ‘business or place name’ field will be the name of your farm’s new Facebook page.
 
