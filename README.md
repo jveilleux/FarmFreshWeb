@@ -1,4 +1,4 @@
-# [**User Guide**](https://openfoodnetwork.org/user-guide/)
+# [User Guide](https://farmfreshweb.com/user-guide)
 
 This short video will give you a brief introduction to how FarmFreshWeb.Com works, and what it can do for your business.
 
