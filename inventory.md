@@ -79,13 +79,13 @@ The **enable stock level reset **column allows you to reset the On Hand amount t
 
 If you have not applied any overrides to a product’s details, the **Inherit **check box will automatically be selected. This tells you that the product’s details will be drawn from the Master product list- these values are shown in grey. When you make an overrides, the check box will un-select, indicating that some product details will be taken from your **Inventory **list, rather than inherited from the **Product **list. If at any point you want to remove your overrides, you can re-select **Inherit **and that product will revert to its master settings.
 
-[](https://openfoodnetwork.org/wp-content/uploads/2015/06/Inherited.png)![](/assets/49-Inventory-7-Inherited_old.png)
+![](/assets/49-Inventory-7-Inherited_old.png)
 
 ### Hide
 
 As in the **New Products **list, you can also **hide **products from your **Inventory List**. Clicking on the hide button will shift the product to your **Hidden Products **list. This has the effect of making it disappear from your order cycle set up and thus disabling the option of adding it to your shop.
 
-Remember to save changes [![](https://openfoodnetwork.org/wp-content/uploads/2015/06/Save-changes.png "Save changes")](https://openfoodnetwork.org/wp-content/uploads/2015/06/Save-changes.png)
+Remember to save changes [](https://openfoodnetwork.org/wp-content/uploads/2015/06/Save-changes.png)![](/assets/49-Inventory-8-Save-changes_old.png)
 
 ## Hidden Products
 
