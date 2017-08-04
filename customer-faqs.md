@@ -2,7 +2,7 @@
 
 #### What is FarmFreshWeb.com?
 
-FarmFreshWeb.com is a website which provides an online directory and ecommerce software to farmers and other vendors at farmers markets. All of the vendors on FarmFreshWeb.com are independently owned and operated. While some farmers might offer mixed fruit and vegetable boxes, others might take custom orders, or just package your order at the farmers market. To find details of how a specific farm or other vendor operates and what they offer, check out their profile on FarmFreshWeb.com.
+FarmFreshWeb.com is a website which provides an online directory and e-commerce software to farmers and other vendors at farmers markets. All of the vendors on FarmFreshWeb.com are independently owned and operated. While some farmers might offer mixed fruit and vegetable boxes, others might take custom orders, or just package your order at the farmers market. To find details of how a specific farm or other vendor operates and what they offer, check out their profile on FarmFreshWeb.com.
 
 FarmFreshWeb.com is based on software developed by the OpenFoodNetwork, a project to help local farmers and their customers find each other.  The OpenFoodNetwork was developed in Australia and is now in operation all over the world.
 
