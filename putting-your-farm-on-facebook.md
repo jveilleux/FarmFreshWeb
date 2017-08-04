@@ -48,13 +48,13 @@ Click c**reate call to action**, at the top of your page. This button can be use
 
 This large picture sits at the top of your farm’s page. A picture says a thousand words, so choose a cover image that’s engaging and tells visitors about your farm at a glance. This image can also be updated as often as you wish.
 
-[](https://openfoodnetwork.org/wp-content/uploads/2015/09/Add-a-cover.png)![](/assets/55-PuttingOnFB-8-Add-a-cover_old.png)
+![](/assets/55-PuttingOnFB-8-Add-a-cover_old.png)
 
 ##### Add contact details and edit your page
 
 You can edit any of the information you provided during the creation of your page by clicking on **About **and **Page Info**. Here you can also provide contact details and write a longer description of your farm.
 
-[![](https://openfoodnetwork.org/wp-content/uploads/2015/09/Edit-and-contact-details.png "Edit and contact details")](https://openfoodnetwork.org/wp-content/uploads/2015/09/Edit-and-contact-details.png)
+[](https://openfoodnetwork.org/wp-content/uploads/2015/09/Edit-and-contact-details.png)![](/assets/55-PuttingOnFB-9-Edit-and-contact-details_old.png)
 
 **Great! Your farm’s page is all set up, and now you’re ready to start using Facebook to connect with customers and others in your industry. To learn about using Facebook, check out our **[**Facebook Tips**](/facebook-tips.md) **page.**
 
