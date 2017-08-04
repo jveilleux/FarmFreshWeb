@@ -34,7 +34,9 @@ So that you can easily find your page, you should ‘**add to favorites**‘. A 
 
 Here you can tell Facebook about the kinds of people you want visiting your page. This includes their location, age, gender etc and their interests. In the interests section, select any topics that you think correlate well with your farm. When you do this, Facebook will suggest to people who are already interested in local food or organic agriculture for example, that they should visit your page.
 
-[![](https://openfoodnetwork.org/wp-content/uploads/2015/09/4-Prefered-Page-Audiance.png "Prefered Page Audiance")](https://openfoodnetwork.org/wp-content/uploads/2015/09/4-Prefered-Page-Audiance.png)
+[](https://openfoodnetwork.org/wp-content/uploads/2015/09/4-Prefered-Page-Audiance.png)
+
+![](/assets/55-PuttingOnFB-6-4-Prefered-Page-Audiance_old.png)
 
 ##### Well done, you’ve created a page for your farm! But, you’re not finished yet! There are extra features on Facebook to take advantage of!
 
