@@ -16,7 +16,9 @@ Next you will be prompted to provide details about your farm \(or business\), in
 
 ##### 1\) About
 
-[![](https://openfoodnetwork.org/wp-content/uploads/2015/09/1-About.png "About")](https://openfoodnetwork.org/wp-content/uploads/2015/09/1-About.png)
+[](https://openfoodnetwork.org/wp-content/uploads/2015/09/1-About.png)
+
+![](/assets/55-PuttingOnFB-3-1-About_old.png)
 
 ##### 2\) Profile Picture
 
