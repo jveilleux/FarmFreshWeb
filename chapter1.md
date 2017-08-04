@@ -6,5 +6,5 @@ Browse these FAQs to find answers to some commonly asked questions from customer
 
 [PRODUCER FAQS](/producer-faqs.md)
 
-[HUB FAQS](/hub-faqs.md)
+[Farmers Markets FAQS](/hub-faqs.md)
 
