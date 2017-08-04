@@ -85,11 +85,13 @@ If you have not applied any overrides to a product’s details, the **Inherit **
 
 As in the **New Products **list, you can also **hide **products from your **Inventory List**. Clicking on the hide button will shift the product to your **Hidden Products **list. This has the effect of making it disappear from your order cycle set up and thus disabling the option of adding it to your shop.
 
-Remember to save changes [](https://openfoodnetwork.org/wp-content/uploads/2015/06/Save-changes.png)![](/assets/49-Inventory-8-Save-changes_old.png)
+Remember to save changes ![](/assets/49-Inventory-8-Save-changes_old.png)
 
 ## Hidden Products
 
-[![](https://openfoodnetwork.org/wp-content/uploads/2015/06/Hidden-products.png "Hidden products")](https://openfoodnetwork.org/wp-content/uploads/2015/06/Hidden-products.png)
+[](https://openfoodnetwork.org/wp-content/uploads/2015/06/Hidden-products.png)
+
+![](/assets/49-Inventory-9-Hidden-products_old.png)
 
 This list shows any products you have chosen to hide \(this can be done from either the Inventory Product or New Products lists\). A hidden product will longer show up in your order cycle set-up interface, which can make it less cluttered for those with many products. Here you can choose to **+Add **them back to your Inventory Products list. This will make it possible to add them to Order Cycles again and to apply any inventory functions to them.
 
