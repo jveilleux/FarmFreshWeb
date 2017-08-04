@@ -48,7 +48,7 @@ Click c**reate call to action**, at the top of your page. This button can be use
 
 This large picture sits at the top of your farm’s page. A picture says a thousand words, so choose a cover image that’s engaging and tells visitors about your farm at a glance. This image can also be updated as often as you wish.
 
-[![](https://openfoodnetwork.org/wp-content/uploads/2015/09/Add-a-cover.png "Add a cover")](https://openfoodnetwork.org/wp-content/uploads/2015/09/Add-a-cover.png)
+[](https://openfoodnetwork.org/wp-content/uploads/2015/09/Add-a-cover.png)![](/assets/55-PuttingOnFB-8-Add-a-cover_old.png)
 
 ##### Add contact details and edit your page
 
