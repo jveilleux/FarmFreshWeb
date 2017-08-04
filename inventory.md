@@ -56,8 +56,6 @@ Remember, if your **Inventory Settings **are set so that ‘new products must be
 
 Your inventory products list is where you can override product details, set up stock level resetting, and hide products. When you select to view all columns, all of the functionalities of the Inventory List become visible.
 
-[](https://openfoodnetwork.org/wp-content/uploads/2015/06/Columns-1.png)
-
 ![](/assets/49-Inventory-6-Columns-1_old.png)
 
 ### Overriding product details
@@ -81,7 +79,7 @@ The **enable stock level reset **column allows you to reset the On Hand amount t
 
 If you have not applied any overrides to a product’s details, the **Inherit **check box will automatically be selected. This tells you that the product’s details will be drawn from the Master product list- these values are shown in grey. When you make an overrides, the check box will un-select, indicating that some product details will be taken from your **Inventory **list, rather than inherited from the **Product **list. If at any point you want to remove your overrides, you can re-select **Inherit **and that product will revert to its master settings.
 
-[![](https://openfoodnetwork.org/wp-content/uploads/2015/06/Inherited.png "Inherited")](https://openfoodnetwork.org/wp-content/uploads/2015/06/Inherited.png)
+[](https://openfoodnetwork.org/wp-content/uploads/2015/06/Inherited.png)![](/assets/49-Inventory-7-Inherited_old.png)
 
 ### Hide
 
