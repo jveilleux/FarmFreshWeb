@@ -34,11 +34,11 @@ You can select whether new products added by your suppliers need to be added to 
 
 Click on **Products **in the horizontal blue menu and then **Inventory **in the green menu. You will be prompted to select the shopfront that your Inventory will apply to \(if you operate more than one shopfront\). Remember, each shopfront has it’s own Inventory page, and settings in the Inventory page will only be applied to one shopfront. If you have more than one shopfront, you can set different inventory details for each.
 
-[](https://openfoodnetwork.org/wp-content/uploads/2015/06/Accessing-Inventory-1.png)![](/assets/49-Inventory-2-Accessing-Inventory-1_old.png)
+![](/assets/49-Inventory-2-Accessing-Inventory-1_old.png)
 
 When you first visit the Inventory page, you will see an alert that you have ‘new products available to add to your inventory’. Until you add your products to your Inventory list, they’ll remain in the **New Products **list.
 
-[![](https://openfoodnetwork.org/wp-content/uploads/2015/06/New-products-alert.png "New products alert")](https://openfoodnetwork.org/wp-content/uploads/2015/06/New-products-alert.png)
+[](https://openfoodnetwork.org/wp-content/uploads/2015/06/New-products-alert.png)![](/assets/49-Inventory-3-New-products-alert_old.png)
 
 Clicking on **Review Now **will take you to your **New Products **list.
 
