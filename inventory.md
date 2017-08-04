@@ -89,8 +89,6 @@ Remember to save changes ![](/assets/49-Inventory-8-Save-changes_old.png)
 
 ## Hidden Products
 
-[](https://openfoodnetwork.org/wp-content/uploads/2015/06/Hidden-products.png)
-
 ![](/assets/49-Inventory-9-Hidden-products_old.png)
 
 This list shows any products you have chosen to hide \(this can be done from either the Inventory Product or New Products lists\). A hidden product will longer show up in your order cycle set-up interface, which can make it less cluttered for those with many products. Here you can choose to **+Add **them back to your Inventory Products list. This will make it possible to add them to Order Cycles again and to apply any inventory functions to them.
