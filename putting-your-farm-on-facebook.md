@@ -42,9 +42,7 @@ Here you can tell Facebook about the kinds of people you want visiting your page
 
 Click c**reate call to action**, at the top of your page. This button can be used to direct people to your online shop. Select the **shop now **button type, and provide the URL to your shop’s website \(this can be an FFW site, or an external online shop\).
 
-[](https://openfoodnetwork.org/wp-content/uploads/2015/09/Create-a-call-to-action-button.png)![](/assets/55-PuttingOnFB-7-Create-a-call-to-action-button_old.png)
-
-##### **Add a cover image**
+![](/assets/55-PuttingOnFB-7-Create-a-call-to-action-button_old.png)**Add a cover image**
 
 This large picture sits at the top of your farm’s page. A picture says a thousand words, so choose a cover image that’s engaging and tells visitors about your farm at a glance. This image can also be updated as often as you wish.
 
