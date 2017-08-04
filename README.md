@@ -2,7 +2,7 @@
 
 This short video will give you a brief introduction to how FarmFreshWeb.Com works, and what it can do for your business.
 
-### Set up guides for producers and hubs:
+### Set up guides for producers and farmers markets:
 
 Learn how to get your business set-up on FarmFreshWeb.com! These set-up guides will walk you through the steps involved in setting up a profile or online shop on the FarmFreshWeb.com platform.
 
