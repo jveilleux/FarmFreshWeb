@@ -10,7 +10,9 @@ Once you have an account and you are logged in, click on **Home **in the top men
 
 Next, select the **local business or place **option, and fill out your details \(see below\). The ‘business or place name’ field will be the name of your farm’s new Facebook page.
 
-[![](https://openfoodnetwork.org/wp-content/uploads/2015/09/Local-business-or-placeee.png "Local business or place")](https://openfoodnetwork.org/wp-content/uploads/2015/09/Local-business-or-placeee.png)
+[](https://openfoodnetwork.org/wp-content/uploads/2015/09/Local-business-or-placeee.png)
+
+![](/assets/55-PuttingOnFB-2-Local-business-or-place_old.png)
 
 Next you will be prompted to provide details about your farm \(or business\), in four stages. Each stage is illustrated in the images below, using “demo farm” as an example.
 
