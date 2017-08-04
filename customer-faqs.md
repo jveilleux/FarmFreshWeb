@@ -8,15 +8,15 @@ FarmFreshWeb.com is based on software developed by the OpenFoodNetwork, a projec
 
 #### What are order cycles?
 
-Order cycles are a way for farmers markets to organize orders based on when they are open and able to deliver.
+Order cycles are a way for farmers and farmers markets to organize orders based on when they are open and able to deliver.
 
-The order cycle starts with the day and time the market is available to accept orders. It closes in time for farmers to pack and have ready the orders that were placed. Then the process repeats itself. Most order cycles will be one week, to match the week before market day, when the market is open. For customers, this means that you can place your order as early as a week before the day the market is opened, and usually, as late as the day before.
+The order cycle starts with the day and time the farmer/market is available to accept orders. It closes in time for farmers to pack and have ready the orders that were placed. Then the process repeats itself. Most order cycles will be one week, to match the week before market day, when the market is open. For customers, this means that you can place your order as early as a week before the day the market is opened, and usually, as late as the day before.
 
 If you see that a market is closed, just return when the next order cycle opens.  Usually, this will take less than a day.
 
 #### How are orders delivered?
 
-All markets on FarmFreshWeb.com are set up for pickup by the customer, at the farmers market, on market day.  Eventually, we plan to offer delivery in some markets, and eventually, to all markets.  For now, though, you pick up your order at market.
+All markets on FarmFreshWeb.com are set up for pickup by the customer, at the farmers market \(or farm\), on market day.  Eventually, we plan to offer delivery in some markets, and eventually, to all markets.  For now, though, you pick up your order at market \(or the farm if that farm offers it\).
 
 #### What are the payment options?
 
@@ -28,7 +28,7 @@ At some point, we may offer the ability to pay online for your order, especially
 
 Traditional supermarket supply chains make it difficult for customers to know where their food is coming from, how it has been produced, and where their grocery dollar will end up. Transparency is central to FarmFreshWeb.com, because we believe that visible supply chains are healthier than those which are hidden. On FarmFreshWeb.com, customers can always see where their food has come from and what proportion of the price goes to the farmer.
 
-In an online market, the  pricing pie chart will show you how the price is allocated between the producer and other players like the market or others. You can also see the product properties \(such as certified organic, free range etc\) to know more about how the food was produced.
+In an online market, the  pricing pie chart will show you how the price is allocated between the producer and other players like the market or others. You can also see the product properties \(such as certified organic, free range, etc\) to know more about how the food was produced.
 
 #### How does shopping on FarmFreshWeb.com bring benefits to farmers, the environment and my local community?
 
