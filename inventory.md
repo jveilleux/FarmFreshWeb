@@ -38,13 +38,15 @@ Click on **Products **in the horizontal blue menu and then **Inventory **in the 
 
 When you first visit the Inventory page, you will see an alert that you have ‘new products available to add to your inventory’. Until you add your products to your Inventory list, they’ll remain in the **New Products **list.
 
-[](https://openfoodnetwork.org/wp-content/uploads/2015/06/New-products-alert.png)![](/assets/49-Inventory-3-New-products-alert_old.png)
+![](/assets/49-Inventory-3-New-products-alert_old.png)
 
 Clicking on **Review Now **will take you to your **New Products **list.
 
 ## New Products
 
-[![](https://openfoodnetwork.org/wp-content/uploads/2015/06/New-Products.png "New Products")](https://openfoodnetwork.org/wp-content/uploads/2015/06/New-Products.png)
+[](https://openfoodnetwork.org/wp-content/uploads/2015/06/New-Products.png)
+
+![](/assets/49-Inventory-4-New-Products_old.png)
 
 New products can be either **Added** to your inventory list or **Hidden**. If there is a product in the list for which you would like to override details, or apply a recurring stock level to, you’ll need to **add **it to your inventory list. If there is a product which you never want to sell in your shop, or at least don’t want to stock in the near future, you can choose to **hide **it \(see **Hidden Products **section below\).
 
