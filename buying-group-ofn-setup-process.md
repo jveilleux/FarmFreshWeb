@@ -14,7 +14,7 @@ The [farmers market set-up guide](/hubs-set-up-guide.md) walks through the basic
     * Bulk upload of products \(COMING SOON\)
     * Stored payment options/wallets \(COMING SOON\)
 
-##### [Ask us](mailto:hello@openfoodnetwork.org) about embedding your FFW Buying Group shopfront into your existing website.
+##### Ask us about embedding your FFW Buying Group shopfront into your existing website.
 
 
 
