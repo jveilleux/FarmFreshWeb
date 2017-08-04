@@ -22,8 +22,6 @@ Next you will be prompted to provide details about your farm \(or business\), in
 
 Select a profile picture for your farm. This is usually a logo, but you can also just use a photograph. You can change this at any time in the future.
 
-[](https://openfoodnetwork.org/wp-content/uploads/2015/09/2-Profile-Picture.png)
-
 ![](/assets/55-PuttingOnFB-4-2-Profile-Picture_old.png)
 
 ##### 3\) Add to Favorites
