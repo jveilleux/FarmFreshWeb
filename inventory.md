@@ -52,8 +52,6 @@ Remember, if your **Inventory Settings **are set so that ‘new products must be
 
 ## Inventory Products
 
-[](https://openfoodnetwork.org/wp-content/uploads/2015/06/Viewing-Inventory-Settings.png)
-
 ![](/assets/49-Inventory-5-Viewing-Inventory-Settings_old.png)
 
 Your inventory products list is where you can override product details, set up stock level resetting, and hide products. When you select to view all columns, all of the functionalities of the Inventory List become visible.
