@@ -28,7 +28,9 @@ Select a profile picture for your farm. This is usually a logo, but you can also
 
 So that you can easily find your page, you should ‘**add to favorites**‘. A link to your farm’s page will then appear in your menu, when you are logged into your personal account.
 
-[![](https://openfoodnetwork.org/wp-content/uploads/2015/09/Add-to-favourites.png "Add to favourites")](https://openfoodnetwork.org/wp-content/uploads/2015/09/Add-to-favourites.png)
+[](https://openfoodnetwork.org/wp-content/uploads/2015/09/Add-to-favourites.png)
+
+![](/assets/55-PuttingOnFB-5-Add-to-favourites_old.png)
 
 ##### 4\) Preferred Page Audience
 
