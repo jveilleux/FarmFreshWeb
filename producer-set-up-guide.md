@@ -9,11 +9,11 @@
 
 ### Steps for producers selling on the FFW , either as a supplier, or through an online shopfront.
 
-If you have selected to have a profile only account and don’t wish to trade on the FFW you can stop at step 4. If you wish to sell your products as a supplier to other FFW  shops, continue to step 5 to add your products, and then you are ready. Producers who have selected to operate their own FFW  shopfront should continue with steps 5-11.
+If you have selected to have a profile only account and don’t wish to trade on the FFW you can stop at step 4. If you wish to sell your products as a supplier to other FFW  shops, continue to step 1 below to add your products, and then you are ready. Producers who have selected to operate their own FFW  shopfront should continue with steps 1 and 2 below.
 
 1. [Add products](/products.md)
 
-6.  [Create an order cycle](/order-cycles.md)
+2. [Create an order cycle](/order-cycles.md)
 
 You’re now ready to open the doors to your store, and start accepting orders!
 
