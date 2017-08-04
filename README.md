@@ -18,7 +18,7 @@ Already set-up? Check out some of FramFreshWeb.com’s more advanced features an
 
 ### Frequently Asked Questions \(FAQs\):
 
-Browse these FAQs to find answers to some commonly asked questions from customers, producers and hubs .
+Browse these FAQs to find answers to some commonly asked questions from customers, producers and farmers markets .
 
 [CUSTOMER FAQS](/customer-faqs.md)
 
