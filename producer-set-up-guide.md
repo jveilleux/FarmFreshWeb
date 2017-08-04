@@ -11,7 +11,7 @@
 
 If you have selected to have a profile only account and don’t wish to trade on the FFW you can stop at step 4. If you wish to sell your products as a supplier to other FFW  shops, continue to step 5 to add your products, and then you are ready. Producers who have selected to operate their own FFW  shopfront should continue with steps 5-11.
 
-[Add products](/products.md)
+5. [Add products](/products.md)
 
 [Create an order cycle](/order-cycles.md)
 
