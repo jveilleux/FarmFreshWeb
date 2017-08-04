@@ -97,7 +97,7 @@ This list shows any products you have chosen to hide \(this can be done from eit
 
 In Order Cycle setup, under Advanced Settings, there is the option to control whether incoming inventory reads from the coordinator’s inventory, or from the master products list.
 
-[![](https://openfoodnetwork.org/wp-content/uploads/2015/06/Advanced-OC-settings.png "Advanced OC settings")](https://openfoodnetwork.org/wp-content/uploads/2015/06/Advanced-OC-settings.png)
+[](https://openfoodnetwork.org/wp-content/uploads/2015/06/Advanced-OC-settings.png)![](/assets/49-Inventory-10-Advanced-OC-settings_old.png)
 
 If the ‘**all available products**‘ setting is selected, the incoming inventory will include all products in the master products page. This makes hidden products \(and new\) in inventory available to other distributors in the outgoing section. Note that if the coordinator is a distributor, their outgoing product selection will always be restricted by their inventory pages and settings.
 
