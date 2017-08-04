@@ -28,13 +28,13 @@ To view your inventory settings, go to **Manage Enterprise**, and select **Inven
 
 You can select whether new products added by your suppliers need to be added to your inventory before they can be stocked. If you don’t plan to use the inventory tool, select to have any new products able to be added to your shopfront \(recommended\). This way if you create new products for your suppliers, or if your supplier adds products, they’ll immediately be available to be added to your shop. If you are using the inventory page, you may wish to have ‘new’ products withheld from your order cycles until you have chosen to stock them. If this setting applies to you, select the second option below.
 
-[](https://openfoodnetwork.org/wp-content/uploads/2015/06/Inventory-Settings.png)![](/assets/49-Inventory-1-Inventory-Settings_old.png)
+![](/assets/49-Inventory-1-Inventory-Settings_old.png)
 
 ## Accessing Inventory
 
 Click on **Products **in the horizontal blue menu and then **Inventory **in the green menu. You will be prompted to select the shopfront that your Inventory will apply to \(if you operate more than one shopfront\). Remember, each shopfront has it’s own Inventory page, and settings in the Inventory page will only be applied to one shopfront. If you have more than one shopfront, you can set different inventory details for each.
 
-[![](https://openfoodnetwork.org/wp-content/uploads/2015/06/Accessing-Inventory-1.png "Accessing Inventory")](https://openfoodnetwork.org/wp-content/uploads/2015/06/Accessing-Inventory-1.png)
+[](https://openfoodnetwork.org/wp-content/uploads/2015/06/Accessing-Inventory-1.png)![](/assets/49-Inventory-2-Accessing-Inventory-1_old.png)
 
 When you first visit the Inventory page, you will see an alert that you have ‘new products available to add to your inventory’. Until you add your products to your Inventory list, they’ll remain in the **New Products **list.
 
