@@ -51,7 +51,7 @@ The FFW doesn’t dictate a payment method, and you can use any arrangement that
 
 Farmers markets choose who they source from and who they sell to. They may chose to only source and supply organics, or they may choose conventional, or a bit of both, depending on their customers’ needs.
 
-#### Which farmers will supply a hub?
+#### Which farmers will supply a farmers market?
 
 The FFW doesn’t ‘match-make’ farmers markets with farmers. Rather we make connecting easier, by making it possible for groups to find one another and connect and trade. Check out the FFW map to find producers in your area, and view their profiles to find contact details.
 
@@ -65,7 +65,7 @@ As a wholesaler you could certainly get set up on the FFW with a profile, and an
 
 #### We are a Food Collective seeking an ecommerce solution to streamline our order processing, could the FFW help us?
 
-Yes, the FFW  is designed to make the processes of taking and managing orders and stock easier.  A food collective would be established as a farmers market on the FFW, with its own shopfront. In contrast to taking order through email or online forms, the FFW's checkout process is very easy to use for customers, and has the added advantage of generating order reports, which reduces the administration burden for the farmers market.
+Yes, the FFW  is designed to make the processes of taking and managing orders and stock easier.  A food collective would be established as a farmers market on the FFW, with its own shopfront. In contrast to taking orders through email or online forms, the FFW's checkout process is very easy to use for customers, and has the added advantage of generating order reports, which reduces the administration burden for the farmers market.
 
 #### How long does it take to set up a farmers market on the FFW?
 
