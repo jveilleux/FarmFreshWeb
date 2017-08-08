@@ -6,9 +6,9 @@
 
 No the FFW doesn’t actually operate Farmers Markets, we just provide the software for enterprises such as farmers markets, and producers to use. We do have lots of experience in running farmers markets though, so we understand the unique challenges and needs facing food distribution enterprises.
 
-#### What is involved in being a food hub?
+#### What is involved in being a farmers market?
 
-Farmers markets come in many different shapes and sizes, and include food hubs, food coops, buying groups, farm gate stalls and more. You can chose how you want to run your hub, but essentially a farmers market sources and sells to its community. Each farmers market is configured differently, and each chooses who they will source from, who their customers will be, how delivery or collection will be organised, payment methods, mark ups, fees etc.
+Farmers markets come in many different shapes and sizes, and include food hubs, food coops, buying groups, farm gate stalls and more. You can chose how you want to run your farmers market, but essentially a farmers market sources and sells to its community. Each farmers market is configured differently, and each chooses who they will source from, who their customers will be, how delivery or collection will be organised, payment methods, mark ups, fees etc.
 
 #### What's the difference between the FFW and other online store options?
 
