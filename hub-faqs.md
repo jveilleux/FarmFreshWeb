@@ -12,7 +12,7 @@ Farmers markets come in many different shapes and sizes, and include food hubs, 
 
 #### What's the difference between the FFW and other online store options?
 
-We think the FFW is pretty great, and unique to other options out there!
+We think the FFW is pretty great and unique to other options out there!
 
 * **Networked-**
   The FFW differs from private online shops in that they can be networked with other enterprises. Farmers markets stock the produce of multiple producers and customers can always see where their food has come from.
