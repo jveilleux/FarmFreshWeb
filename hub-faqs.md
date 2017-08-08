@@ -33,7 +33,7 @@ The FFW functions as a directory, advertising platform, and an online marketplac
 
 A profile on the FFW is the simplest option, and offers a way for enterprises to market themselves. The profile can be used to promote your products and services, share your story and provide contact details. A profile makes you visible and contactable to customers and other enterprises who might wish to trade with you.2.
 
-A Shopfront
+2.  A Shopfront
 
 You have the option of adding an FFW shop onto your profile, giving you all the functions needed to run an online store. This includes the online shopfront with full checkout capabilities as well as behind the scenes tools to aid in administration, such as reporting of payments and inventory. The FFW works as a network, so all hubs are connected to the profiles of their supplying producers. It’s also designed to accommodate all different hub models, from the small and simple, to the large and complex.
 
