@@ -4,7 +4,7 @@
 
 #### Does the FFW operate Farmers Markets?
 
-No the FFW doesn’t actually operate Farmers Markets, we just provide the software for enterprises such as farmers markets, and producers to use. We do have lots of experience in running farmers markets though, so understand the unique challenges and needs facing food distribution enterprises.
+No the FFW doesn’t actually operate Farmers Markets, we just provide the software for enterprises such as farmers markets, and producers to use. We do have lots of experience in running farmers markets though, so we understand the unique challenges and needs facing food distribution enterprises.
 
 #### What is involved in being a food hub?
 
