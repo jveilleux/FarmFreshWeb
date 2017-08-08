@@ -4,7 +4,7 @@ The [producer](/producer-set-up-guide.md) and [farmers market ](/hubs-set-up-gui
 
 ### Your Profile
 
-* Make producer profiles searchable by product category in the FFW directories.
+* Make producer profiles searchable by product category in the FFW directories.  
   [Read more](/making-a-producer-profile-searchable-by-product-category.md)
 * Transferring ownership of a profile from one user to another.
   [Read more](/transferring-ownership-of-a-profile.md)
