@@ -35,7 +35,7 @@ A profile on the FFW is the simplest option, and offers a way for enterprises to
 
 * A Shopfront
 
-You have the option of adding an FFW shop onto your profile, giving you all the functions needed to run an online store. This includes the online shopfront with full checkout capabilities as well as behind the scenes tools to aid in administration, such as reporting of payments and inventory. The FFW works as a network, so all hubs are connected to the profiles of their supplying producers. It’s also designed to accommodate all different hub models, from the small and simple, to the large and complex.
+You have the option of adding an FFW shop onto your profile, giving you all the functions needed to run an online store. This includes the online shopfront with full checkout capabilities as well as behind the scenes tools to aid in administration, such as reporting of payments and inventory. The FFW works as a network, so all farmers markets are connected to the profiles of their supplying producers. It’s also designed to accommodate all different farmers market models, from the small and simple, to the large and complex.
 
 #### I am already selling my products directly via an online store I have created. How could I get involved with the FFW?
 
