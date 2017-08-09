@@ -18,13 +18,13 @@ Once we’ve created a group page for you, you can customize it with your own co
 
 ## Step 2: Add your stallholder’s profiles to the group page
 
-Once your page is setup the next step is to add profiles of your member enterprises to the group, this includes the market\(s\) itself and your stallholders. You can create a profile for your market\(s\) by following steps 1-4 in the [Hub setup guide](/hubs-set-up-guide.md) and then adding the profiles to the group. You can also add any stallholder profiles that are already on the FFW, just search for these in the group admin page. There are two options for setting up profiles for your members who don’t already have a profiles on the FFW.
+Once your page is setup the next step is to add profiles of your member enterprises to the group, this includes the market\(s\) itself and your stallholders. You can create a profile for your market\(s\) by following steps 1-4 in the [Farmers Market setup guide](/hubs-set-up-guide.md) and then adding the profiles to the group. You can also add any stallholder profiles that are already on the FFW, just search for these in the group admin page. There are two options for setting up profiles for your members who don’t already have a profiles on the FFW.
 
 **Option 1 – Create profiles for your members:**
 
 The farmers’ market manager may choose to set up profiles for their stallholders on their behalf. This option is appealing as you’ll get your members setup quickly and have something to show them to help them visualize the new platform.
 
-Here is the [link](/create-or-connect-with-your-supplying-producers.md) to the relevant section of the hub user guide which describes how to create multiple profiles for producers.
+Here is the [link](/create-or-connect-with-your-supplying-producers.md) to the relevant section of the farmers market user guide which describes how to create multiple profiles for producers.
 
 If you chose this option, it’s a good idea to set these profiles to ‘invisible’ until you’re ready to launch the new group page. When markets launch they’ll often send out an email to members. Part of this process is to give members the options of taking ownership of their profiles, so that they can keep them up to date. This email is a good chance to explain the intention of the group and to invite participation.
 
@@ -48,7 +48,7 @@ The farmers market has their interactive group page setup, with full profiles fo
 
 As above, the farmers market has their interactive group page, with full profiles for all of their markets and stallholders. In addition some producers will also operate independent online shops, which may provide pre-ordering for collection at the market, or delivery options for customers who cannot attend the market. They may also have sales which are completely separate from the market, such as sales in their local township.
 
-### Group page with profiles, producer shops and a farmers’ market hub shop
+### Group page with profiles, producer shops and a farmers’ market shop
 
 The FFW’s high degree of flexibility makes it possible for collectives of enterprise to easily setup, trial and operate a great variety of collaborative sales arrangements. Two configurations, are covered below, however if you have questions regarding any other models don’t hesitate to get in touch.
 
