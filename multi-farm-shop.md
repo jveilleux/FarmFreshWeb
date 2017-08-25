@@ -4,7 +4,7 @@
 
 ## The nitty gritties…
 
-The central  managing producer of a multi-farm shop can setup the shop according to the [producer setup guide](/producer-set-up-guide.md).  At step 2, choose the third option, ‘Farmers Market Shop’. This shop will be the Multi-Farm Shopfront. After the coordinating producer has created worked through the set-up guide for just their profile and products, they can create profiles for their additional suppliers, and to add their products into the system. Before creating the additional profiles, you’ll need to email us to request permission to create more than one profile \(this is a spam prevention measure\). The coordinating producer may setup the profile and products for everyone, or the other producers may wish to do this themselves. The two options are described below
+The central  managing producer of a multi-farm shop can setup the shop according to the [producer setup guide](/producer-set-up-guide.md).  At step 2, choose the third option, ‘Farmers Market Shop’. This shop will be the Multi-Farm Shopfront. After the coordinating producer has created & worked through the set-up guide for just their profile and products, they can create profiles for their additional suppliers, and to add their products into the system. Before creating the additional profiles, you’ll need to email us to request permission to create more than one profile \(this is a spam prevention measure\). The coordinating producer may setup the profile and products for everyone, or the other producers may wish to do this themselves. The two options are described below
 
 **Coordinating producer sets up profiles and products for supplying producers**
 
@@ -18,7 +18,7 @@ Once you have completed your basic setup, check out the advanced features below 
 
 * [Enterprise Fees](/enterprise-fees.md) – Multi-Farm Shops may wish to use this tool to allocate fees and charges to parties who provide a service \(such as packing or delivery\) that the other parties benefit from.
 * Multiple managers – A Multi-farm shop might wish to have multiple managers who are able to login and edit the shop. This can be done by adding managers to the central producer’s profile.
-* [Pricing irregular, indivisible meat items](/pricing-irregular-indivisible-meat-items.md). This page offers some strategies for pricing items like chickens or pumpkins, which are charged by the kg but which have an irregular weight.
+* [Pricing irregular, indivisible meat items](/pricing-irregular-indivisible-meat-items.md). This page offers some strategies for pricing items like chickens or pumpkins, which are charged by the lb but which have an irregular weight.
 * [Apply tags](/customer-accounts-and-tagging.md) to your customers and customize their shopping experience with tag rules. This can make it possible to restrict certain products and certain shipping or payment methods to particular customers, which becomes especially helpful if you have retail and wholesale customers.
 * [Make your shopfront private](/private-shopfront.md). If you prefer to check the suitability of customers before they can order through your shop, you can make your shopfront require login.
 * [Charge different prices to different customers](/charging-different-prices-to-different-customers.md). There are a number of ways to configure a shop so that you charge different prices to different customers, such as your rural customers and your metropolitan customers.
