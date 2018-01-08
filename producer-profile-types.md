@@ -2,7 +2,7 @@
 
 When you first create your profile, you’ll be prompted to select the ‘type’ of profile you want. Your selection here dictates the functionality that your profile will have.
 
-![](/assets/26-PoducerProfileTypes-1-Three-producer-types_old.png)
+![](/assets/26-PoducerProfileTypes-1-Three-producer-types_new.png)
 
 _\* Note: The above relates to Australian users only. Local instances may vary._
 
